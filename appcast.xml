@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ClaudeUsageMenuBar</title>
+    <link>https://github.com/jizhi0v0/claude-usage-releases</link>
+    <description>ClaudeUsageMenuBar updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.3.35-beta.6+3569f86</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.35-beta.6+3569f86</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 13 Apr 2026 23:55:58 +0000</pubDate>
+      <description>Build 6 · 3569f86</description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.35-beta.6+3569f86/ClaudeUsageMenuBar-0.3.35-beta.6+3569f86.dmg" sparkle:edSignature="jFyLW6Bc8pbXMefipho1g83NEHOxKgbvZq+AtjVhysXZJX5STVaLwlSfiXqWTH494H7pneN1jcDcNpiWYOFdCw==" length="2922681" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
