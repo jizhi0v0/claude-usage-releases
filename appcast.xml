@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.58-beta.134+8b73141</title>
+      <guid isPermaLink="false">8b73141ee4529ae272579d6f7bc5c4d5eafbeb42</guid>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>0.3.58-beta.134+8b73141</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 14 Apr 2026 13:57:48 +0000</pubDate>
+      <description><![CDATA[<h3>Build 134 · 8b73141</h3><ul><li>feat: search 添加搜索历史 + 修复样式小 bug</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.58-beta.134+8b73141/ClaudeUsageMenuBar-0.3.58-beta.134+8b73141.dmg" sparkle:edSignature="ZKIGu9xWwwSe0xh3XapbH/ckNWVBKLjqPWAHDMA0FFvFo6+RtBNzMoX8xAfxNtVFY8CqT+41X7/u+G3WjoV+Bg==" length="3183973" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.56-beta.133+d10d5f4</title>
       <guid isPermaLink="false">d10d5f4788961e65712ba5feaecaff5920d7b75f</guid>
       <sparkle:version>133</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 14 Apr 2026 13:05:46 +0000</pubDate>
-      <description><![CDATA[<h3>Build 133 · d10d5f4</h3><ul><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 133 · d10d5f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.56-beta.133+d10d5f4/ClaudeUsageMenuBar-0.3.56-beta.133+d10d5f4.dmg" sparkle:edSignature="PnELutN/SFc7oTjhzhSlKMZG3mqfg7fbjdmbHrOBBwa4RQEc/2aO4Mc31zdiri8lDxJ3Yrc7dnPoV9w7tVEBBQ==" length="3181924" type="application/octet-stream" />
     </item>
     <item>
