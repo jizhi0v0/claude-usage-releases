@@ -6,6 +6,16 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.53-beta.8+29092c2</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.3.53-beta.8+29092c2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 14 Apr 2026 04:45:46 +0000</pubDate>
+      <description>Build 8 · 29092c2</description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.53-beta.8+29092c2/ClaudeUsageMenuBar-0.3.53-beta.8+29092c2.dmg" sparkle:edSignature="sDQ+QJ6MjnmT4DdWgeW7FJM3Ip1KBEhwvNOplMMrYyGkX6Z1eOXBADwoVWZ+o44QgaPMHkJoDfRceworCE66Aw==" length="2944985" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.53-beta.7+b028427</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.3.53-beta.7+b028427</sparkle:shortVersionString>
