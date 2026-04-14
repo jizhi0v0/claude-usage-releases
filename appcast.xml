@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.56-beta.133+d10d5f4</title>
+      <guid isPermaLink="false">d10d5f4788961e65712ba5feaecaff5920d7b75f</guid>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>0.3.56-beta.133+d10d5f4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 14 Apr 2026 13:05:46 +0000</pubDate>
+      <description><![CDATA[<h3>Build 133 · d10d5f4</h3><ul><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.56-beta.133+d10d5f4/ClaudeUsageMenuBar-0.3.56-beta.133+d10d5f4.dmg" sparkle:edSignature="PnELutN/SFc7oTjhzhSlKMZG3mqfg7fbjdmbHrOBBwa4RQEc/2aO4Mc31zdiri8lDxJ3Yrc7dnPoV9w7tVEBBQ==" length="3181924" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.55-beta.132+7f5b739</title>
       <guid isPermaLink="false">7f5b7391f2e549b7a21ce60688df0fd107ef6856</guid>
       <sparkle:version>132</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 14 Apr 2026 10:35:18 +0000</pubDate>
-      <description><![CDATA[<h3>Build 132 · 7f5b739</h3><ul><li>feat: 跨设备会话历史全文搜索</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 132 · 7f5b739&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.55-beta.132+7f5b739/ClaudeUsageMenuBar-0.3.55-beta.132+7f5b739.dmg" sparkle:edSignature="0OMjTIs5rztGw9N+frsS6i9nQITFNUqP6kl9PeFaSRhdrQ9I+Ds7yzTdo0dCmw1p/5w/xE8jPGQQ+TBTvDMsDQ==" length="3113769" type="application/octet-stream" />
     </item>
     <item>
