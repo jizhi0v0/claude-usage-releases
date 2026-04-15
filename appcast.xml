@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.86-beta.150+9989c5e</title>
+      <guid isPermaLink="false">9989c5e09db8721a18624c7d9ef93f2a55cd4118</guid>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.3.86-beta.150+9989c5e</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 15 Apr 2026 15:33:04 +0000</pubDate>
+      <description><![CDATA[<h3>Build 150 · 9989c5e</h3><ul><li>fix: 去掉首次启动的自动 launchd 安装提示</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.86-beta.150+9989c5e/ClaudeUsageMenuBar-0.3.86-beta.150+9989c5e.dmg" sparkle:edSignature="hN+MvmhcA05ylc8w5OhwxJI8MskU5KzSz2Sy/Y8OWBa3NulPPkCuc1XgHTlXZrIwMgvFPsoCOONcDo6+yP+fCg==" length="3306832" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.85</title>
       <guid isPermaLink="false">58f62fee9e3b99963962763b31f37d2c58b96c91</guid>
       <sparkle:version>149</sparkle:version>
       <sparkle:shortVersionString>0.3.85</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Wed, 15 Apr 2026 15:25:37 +0000</pubDate>
-      <description><![CDATA[<h3>Build 149 · 58f62fe</h3><ul><li>perf: refreshData IO 全部丢到后台</li><li>fix: install 异步 + 弹窗绑 popover + noData 分场景提示</li><li>perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘</li><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li><li>fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路</li><li>fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL</li><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li><li>feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md</li><li>ci: 切换到 self-hosted macOS runner</li><li>fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race</li><li>feat: session-env 一键清理 + 模型分布 + 僵尸会话检测</li><li>fix: 补齐 ClaudeVersionChecker 文件修复 CI</li><li>fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动</li><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li><li>feat: 通知显示当前 session context 占比</li><li>feat: search 添加搜索历史 + 修复样式小 bug</li><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li><li>feat: 跨设备会话历史全文搜索</li><li>ci: appcast description 填充真实 changelog</li><li>ci: build number 改用 git commit count</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 149 · 58f62fe&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;li&gt;fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路&lt;/li&gt;&lt;li&gt;fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL&lt;/li&gt;&lt;li&gt;chore: 轮换 APNs relay token + bump 0.3.81 stable&lt;/li&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;li&gt;fix: 补齐 ClaudeVersionChecker 文件修复 CI&lt;/li&gt;&lt;li&gt;fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动&lt;/li&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;li&gt;feat: search 添加搜索历史 + 修复样式小 bug&lt;/li&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;li&gt;ci: appcast description 填充真实 changelog&lt;/li&gt;&lt;li&gt;ci: build number 改用 git commit count&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.85/ClaudeUsageMenuBar-0.3.85.dmg" sparkle:edSignature="pr0d5OIz8+N7IddiXRxkOGXW2nsSoIp0JEQCEG+oPtgaH40d6C3oeUEtHz/GdyvovwNnkNze71xned3HQfzsBg==" length="3308685" type="application/octet-stream" />
     </item>
     <item>
@@ -204,16 +215,6 @@
       <pubDate>Tue, 14 Apr 2026 04:41:54 +0000</pubDate>
       <description>Build 7 · b028427</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.53-beta.7+b028427/ClaudeUsageMenuBar-0.3.53-beta.7+b028427.dmg" sparkle:edSignature="ILycHYsdIRc+yWDW3yvBBiSL0lAHnp02b15EFr9dCy42kn49FIi0PMJIpDZHqTLjHdXUw+/4zVrn5XY6Vwu8AQ==" length="2946491" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.35-beta.6+3569f86</title>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.3.35-beta.6+3569f86</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 13 Apr 2026 23:55:58 +0000</pubDate>
-      <description>Build 6 · 3569f86</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.35-beta.6+3569f86/ClaudeUsageMenuBar-0.3.35-beta.6+3569f86.dmg" sparkle:edSignature="jFyLW6Bc8pbXMefipho1g83NEHOxKgbvZq+AtjVhysXZJX5STVaLwlSfiXqWTH494H7pneN1jcDcNpiWYOFdCw==" length="2922681" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
