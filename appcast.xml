@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.87-beta.151+6dcdc47</title>
+      <title>Version 0.3.87</title>
       <guid isPermaLink="false">6dcdc47f6f35323e621765fd6de1b547e79afe93</guid>
       <sparkle:version>151</sparkle:version>
-      <sparkle:shortVersionString>0.3.87-beta.151+6dcdc47</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.87</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 15:56:38 +0000</pubDate>
-      <description><![CDATA[<h3>Build 151 · 6dcdc47</h3><ul><li>feat: fetch-usage.sh 读系统代理 (scutil --proxy)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.87-beta.151+6dcdc47/ClaudeUsageMenuBar-0.3.87-beta.151+6dcdc47.dmg" sparkle:edSignature="13RRKF3UScSGydVN6rMwPOPr/9W44z7WzDAyE8l/5JcXyAsFPh3E9/BQHv5tNKhE9yNifjWt6dx3SSq8KtsBAg==" length="3307196" type="application/octet-stream" />
+      <pubDate>Wed, 15 Apr 2026 15:58:30 +0000</pubDate>
+      <description><![CDATA[<h3>Build 151 · 6dcdc47</h3><ul><li>feat: fetch-usage.sh 读系统代理 (scutil --proxy)</li><li>fix: 去掉首次启动的自动 launchd 安装提示</li><li>perf: refreshData IO 全部丢到后台</li><li>fix: install 异步 + 弹窗绑 popover + noData 分场景提示</li><li>perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘</li><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li><li>fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路</li><li>fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL</li><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li><li>feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md</li><li>ci: 切换到 self-hosted macOS runner</li><li>fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race</li><li>feat: session-env 一键清理 + 模型分布 + 僵尸会话检测</li><li>fix: 补齐 ClaudeVersionChecker 文件修复 CI</li><li>fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动</li><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li><li>feat: 通知显示当前 session context 占比</li><li>feat: search 添加搜索历史 + 修复样式小 bug</li><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li><li>feat: 跨设备会话历史全文搜索</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.87/ClaudeUsageMenuBar-0.3.87.dmg" sparkle:edSignature="UiqJ9jo19u6Wpsg8qyUjOlMgsHpRUKvYAux6674swBmkSwcs01oZUg8/sUMvz/mm5G0xrODd+Y6N35LiZdfpDw==" length="3307185" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.86</title>
