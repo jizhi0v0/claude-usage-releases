@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.77-beta.138+d87a835</title>
+      <guid isPermaLink="false">d87a8350f9a4271a349cf2f2dbcdcb911da27d51</guid>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>0.3.77-beta.138+d87a835</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 15 Apr 2026 07:46:03 +0000</pubDate>
+      <description><![CDATA[<h3>Build 138 · d87a835</h3><ul><li>fix: 补齐 ClaudeVersionChecker 文件修复 CI</li><li>fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.77-beta.138+d87a835/ClaudeUsageMenuBar-0.3.77-beta.138+d87a835.dmg" sparkle:edSignature="cLxYcLHufUE+HPmtBUAT85FqubuGHqnhQsp/Dnnrkt/mkjV0vMDKlm3WhMSi4hA7QzjsX8Nztl4Aqc8XBOoBDg==" length="3173661" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.66-beta.136+cdaf713</title>
       <guid isPermaLink="false">cdaf71349de0597bbdf2b883cc063ecb586486d7</guid>
       <sparkle:version>136</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 15 Apr 2026 02:18:51 +0000</pubDate>
-      <description><![CDATA[<h3>Build 136 · cdaf713</h3><ul><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 136 · cdaf713&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.66-beta.136+cdaf713/ClaudeUsageMenuBar-0.3.66-beta.136+cdaf713.dmg" sparkle:edSignature="s9JyFzTOhUwGyyu1F7cwf+lgLtTd7Rfo7/0r4GpzVoMGRRZ/eRNh4RzMsxizJ9a/ZlaXF+a85QgQ9xT8dYEcBg==" length="3190972" type="application/octet-stream" />
     </item>
     <item>
