@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.80-beta.141+fcd6d11</title>
+      <guid isPermaLink="false">fcd6d11ffa2fe7b0d08352ff2ab175ba6f30a790</guid>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.3.80-beta.141+fcd6d11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 15 Apr 2026 09:35:49 +0000</pubDate>
+      <description><![CDATA[<h3>Build 141 · fcd6d11</h3><ul><li>ci: 切换到 self-hosted macOS runner</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.141+fcd6d11/ClaudeUsageMenuBar-0.3.80-beta.141+fcd6d11.dmg" sparkle:edSignature="rqTjVmt2PwS7A6WGH/SVscqbGEULUBJy+JiPVicCHAlmdYXvEb16xqXu9p/PL0AwIf0WTgKyLCeHvz1CTjJOBw==" length="3297372" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.80-beta.140+88a0227</title>
       <guid isPermaLink="false">88a02273a96a2023cc3315c3f6361ad10e4251f3</guid>
       <sparkle:version>140</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 15 Apr 2026 09:20:46 +0000</pubDate>
-      <description><![CDATA[<h3>Build 140 · 88a0227</h3><ul><li>fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race</li><li>feat: session-env 一键清理 + 模型分布 + 僵尸会话检测</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 140 · 88a0227&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.140+88a0227/ClaudeUsageMenuBar-0.3.80-beta.140+88a0227.dmg" sparkle:edSignature="9RMrYOp5etkAw+oWpyamYexZGRMOZ2nwBtSyNClQorwOyt0XyUKA7EeklDj4levcTkX65L7sH9uh1Pq24NSVBg==" length="3250852" type="application/octet-stream" />
     </item>
     <item>
