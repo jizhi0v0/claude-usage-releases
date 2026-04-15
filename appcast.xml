@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.66-beta.136+cdaf713</title>
+      <guid isPermaLink="false">cdaf71349de0597bbdf2b883cc063ecb586486d7</guid>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>0.3.66-beta.136+cdaf713</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 15 Apr 2026 02:18:51 +0000</pubDate>
+      <description><![CDATA[<h3>Build 136 · cdaf713</h3><ul><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.66-beta.136+cdaf713/ClaudeUsageMenuBar-0.3.66-beta.136+cdaf713.dmg" sparkle:edSignature="s9JyFzTOhUwGyyu1F7cwf+lgLtTd7Rfo7/0r4GpzVoMGRRZ/eRNh4RzMsxizJ9a/ZlaXF+a85QgQ9xT8dYEcBg==" length="3190972" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.59-beta.135+3939ece</title>
       <guid isPermaLink="false">3939eced15612f82e87aff4a7fb46ce278d79f1d</guid>
       <sparkle:version>135</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 14 Apr 2026 14:37:15 +0000</pubDate>
-      <description><![CDATA[<h3>Build 135 · 3939ece</h3><ul><li>feat: 通知显示当前 session context 占比</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 135 · 3939ece&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.59-beta.135+3939ece/ClaudeUsageMenuBar-0.3.59-beta.135+3939ece.dmg" sparkle:edSignature="lU6zMdnDfVHLen+GXMdL8mcBZL2cuPQOVa7z5NH+4nMTbUIQYVeBGYCY+x23SSSmqGLni05kynfatb2YW5AEAQ==" length="3185858" type="application/octet-stream" />
     </item>
     <item>
