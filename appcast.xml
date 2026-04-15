@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.82-beta.146+4427410</title>
+      <title>Version 0.3.82</title>
       <guid isPermaLink="false">4427410d399a77f0fa71ee322228df0447d0044a</guid>
       <sparkle:version>146</sparkle:version>
-      <sparkle:shortVersionString>0.3.82-beta.146+4427410</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.82</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 14:14:19 +0000</pubDate>
-      <description><![CDATA[<h3>Build 146 · 4427410</h3><ul><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li><li>fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路</li><li>fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.82-beta.146+4427410/ClaudeUsageMenuBar-0.3.82-beta.146+4427410.dmg" sparkle:edSignature="9J1+h8Z7q7xTmX/NH7qxWsLPSoYCq6jdIDTy91M4yN+93PFg1TmlVHyajIi8ioPOP9IlnobCDcpyAuiBaBgnAQ==" length="3300577" type="application/octet-stream" />
+      <pubDate>Wed, 15 Apr 2026 14:16:04 +0000</pubDate>
+      <description><![CDATA[<h3>Build 146 · 4427410</h3><ul><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li><li>fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路</li><li>fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL</li><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li><li>feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md</li><li>ci: 切换到 self-hosted macOS runner</li><li>fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race</li><li>feat: session-env 一键清理 + 模型分布 + 僵尸会话检测</li><li>fix: 补齐 ClaudeVersionChecker 文件修复 CI</li><li>fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动</li><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li><li>feat: 通知显示当前 session context 占比</li><li>feat: search 添加搜索历史 + 修复样式小 bug</li><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li><li>feat: 跨设备会话历史全文搜索</li><li>ci: appcast description 填充真实 changelog</li><li>ci: build number 改用 git commit count</li><li>fix: refreshSessions Swift 6 严格并发报错</li><li>docs: 归档功能规划文档</li><li>feat: 设置窗口 + 项目用量视图重设计</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.82/ClaudeUsageMenuBar-0.3.82.dmg" sparkle:edSignature="aTYd+rdUc5xC7Z4XjeIj0QzOJ5wEl/w8YLwub8QNTLxYbKbDG7lM6qt3U176dVIyjR/SmoL5QFcj1ylcp9D+DA==" length="3300628" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.81</title>
