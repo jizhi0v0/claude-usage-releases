@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.81-beta.143+4f50794</title>
+      <title>Version 0.3.81</title>
       <guid isPermaLink="false">4f507940bf346946a90b073b56a61577266ae852</guid>
       <sparkle:version>143</sparkle:version>
-      <sparkle:shortVersionString>0.3.81-beta.143+4f50794</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.81</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 13:04:16 +0000</pubDate>
-      <description><![CDATA[<h3>Build 143 · 4f50794</h3><ul><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.81-beta.143+4f50794/ClaudeUsageMenuBar-0.3.81-beta.143+4f50794.dmg" sparkle:edSignature="DrvtPIGussKiWskXA62Qa4RHSlh4JHryrHHakigbsB5IHOU24tNgLK884PA/899OCXyfFipOF/7K++fHAon2Bg==" length="3299751" type="application/octet-stream" />
+      <pubDate>Wed, 15 Apr 2026 13:06:05 +0000</pubDate>
+      <description><![CDATA[<h3>Build 143 · 4f50794</h3><ul><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li><li>feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md</li><li>ci: 切换到 self-hosted macOS runner</li><li>fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race</li><li>feat: session-env 一键清理 + 模型分布 + 僵尸会话检测</li><li>fix: 补齐 ClaudeVersionChecker 文件修复 CI</li><li>fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动</li><li>feat: 通知融合 model/ctx token + PreCompact + context 百分比</li><li>feat: 通知显示当前 session context 占比</li><li>feat: search 添加搜索历史 + 修复样式小 bug</li><li>feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race</li><li>feat: 跨设备会话历史全文搜索</li><li>ci: appcast description 填充真实 changelog</li><li>ci: build number 改用 git commit count</li><li>fix: refreshSessions Swift 6 严格并发报错</li><li>docs: 归档功能规划文档</li><li>feat: 设置窗口 + 项目用量视图重设计</li><li>fix: 移除未实现的 flashIcon 配置项</li><li>feat: 任务完成声音差异化 + 网格选择器 (v0.3.53)</li><li>ci: export DMG_URL/APPCAST for python subshell</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.81/ClaudeUsageMenuBar-0.3.81.dmg" sparkle:edSignature="7vuz9LROtPQOrAT2v5Po4GksL+sD4r8WjgDVXCI8ZlXrsNNxC+9S/6wcxtx8c5visfuNKFviMAtGnBeyfcdFAw==" length="3299717" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.80-beta.142+fe28b1f</title>
