@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.81-beta.143+4f50794</title>
+      <guid isPermaLink="false">4f507940bf346946a90b073b56a61577266ae852</guid>
+      <sparkle:version>143</sparkle:version>
+      <sparkle:shortVersionString>0.3.81-beta.143+4f50794</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 15 Apr 2026 13:04:16 +0000</pubDate>
+      <description><![CDATA[<h3>Build 143 · 4f50794</h3><ul><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.81-beta.143+4f50794/ClaudeUsageMenuBar-0.3.81-beta.143+4f50794.dmg" sparkle:edSignature="DrvtPIGussKiWskXA62Qa4RHSlh4JHryrHHakigbsB5IHOU24tNgLK884PA/899OCXyfFipOF/7K++fHAon2Bg==" length="3299751" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.80-beta.142+fe28b1f</title>
       <guid isPermaLink="false">fe28b1ff12466cad120e2c4b76852c72f83b57cc</guid>
       <sparkle:version>142</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 15 Apr 2026 12:42:49 +0000</pubDate>
-      <description><![CDATA[<h3>Build 142 · fe28b1f</h3><ul><li>feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 142 · fe28b1f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.142+fe28b1f/ClaudeUsageMenuBar-0.3.80-beta.142+fe28b1f.dmg" sparkle:edSignature="UKTTIRhPPQIZQnPbHXZcTs66kbdXBReehwAIoPFRhEGjgVsgIa/MuygC7R+Pv98ZcNBoqdglRtAeLDq3IE70AA==" length="3299758" type="application/octet-stream" />
     </item>
     <item>
