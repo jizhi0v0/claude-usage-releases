@@ -6,6 +6,16 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.93</title>
+      <guid isPermaLink="false">7acb91a624cfcd54150346962ac3f85fcb724786</guid>
+      <sparkle:version>159</sparkle:version>
+      <sparkle:shortVersionString>0.3.93</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 16 Apr 2026 10:00:51 +0000</pubDate>
+      <description><![CDATA[<h3>Build 159 · 7acb91a</h3><ul><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.93/ClaudeUsageMenuBar-0.3.93.dmg" sparkle:edSignature="XZBI6GcUG4yMI+423pc/oIWA8dZnSJiveZhqkLFldwSklYgkNg8H3Xpu75Qkk0u11WdEkEkRSCs+JkbYFhQ5BQ==" length="3423912" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.92-beta.158+f12e889</title>
       <guid isPermaLink="false">f12e88909ffa7ab07e10e2940aaa83ecbff72779</guid>
       <sparkle:version>158</sparkle:version>
@@ -13,7 +23,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 16 Apr 2026 09:11:31 +0000</pubDate>
-      <description><![CDATA[<h3>Build 158 · f12e889</h3><ul><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 158 · f12e889&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.92-beta.158+f12e889/ClaudeUsageMenuBar-0.3.92-beta.158+f12e889.dmg" sparkle:edSignature="zhRsFtdoV39blxuFZDKBFM9ODfz3VgxAdW6VbfK85GxYlM/a2rWYoqYpgQN4IXfcFNG9gzl7VDI2iCLigQ6iAQ==" length="3353439" type="application/octet-stream" />
     </item>
     <item>
@@ -205,17 +215,6 @@
       <pubDate>Tue, 14 Apr 2026 13:05:46 +0000</pubDate>
       <description>&lt;h3&gt;Build 133 · d10d5f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.56-beta.133+d10d5f4/ClaudeUsageMenuBar-0.3.56-beta.133+d10d5f4.dmg" sparkle:edSignature="PnELutN/SFc7oTjhzhSlKMZG3mqfg7fbjdmbHrOBBwa4RQEc/2aO4Mc31zdiri8lDxJ3Yrc7dnPoV9w7tVEBBQ==" length="3181924" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.55-beta.132+7f5b739</title>
-      <guid isPermaLink="false">7f5b7391f2e549b7a21ce60688df0fd107ef6856</guid>
-      <sparkle:version>132</sparkle:version>
-      <sparkle:shortVersionString>0.3.55-beta.132+7f5b739</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 14 Apr 2026 10:35:18 +0000</pubDate>
-      <description>&lt;h3&gt;Build 132 · 7f5b739&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.55-beta.132+7f5b739/ClaudeUsageMenuBar-0.3.55-beta.132+7f5b739.dmg" sparkle:edSignature="0OMjTIs5rztGw9N+frsS6i9nQITFNUqP6kl9PeFaSRhdrQ9I+Ds7yzTdo0dCmw1p/5w/xE8jPGQQ+TBTvDMsDQ==" length="3113769" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
