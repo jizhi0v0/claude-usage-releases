@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.109-beta.164+f866c36</title>
+      <guid isPermaLink="false">f866c364107b160210ac2a106d08f71ecf8424f6</guid>
+      <sparkle:version>164</sparkle:version>
+      <sparkle:shortVersionString>0.3.109-beta.164+f866c36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 16 Apr 2026 20:18:53 +0000</pubDate>
+      <description><![CDATA[<h3>Build 164 · f866c36</h3><ul><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.109-beta.164+f866c36/ClaudeUsageMenuBar-0.3.109-beta.164+f866c36.dmg" sparkle:edSignature="8JTtcMrszwCpYW+C6cQW61Y0nT8W3eJPN2fL/Ifky8fLYKTc/2CjPHwJGVZonSgbLEr0ocram+TtbS9Dksf7BQ==" length="3536253" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.94</title>
       <guid isPermaLink="false">5b947865614ae055ff73ce38e29f8af62736bf23</guid>
       <sparkle:version>162</sparkle:version>
       <sparkle:shortVersionString>0.3.94</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 16 Apr 2026 11:44:44 +0000</pubDate>
-      <description><![CDATA[<h3>Build 162 · 5b94786</h3><ul><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li><li>fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志</li><li>feat: 版本检测改进 + hook 通知升级 (v0.3.91)</li><li>feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）</li><li>feat: fetch-usage.sh 读系统代理 (scutil --proxy)</li><li>fix: 去掉首次启动的自动 launchd 安装提示</li><li>perf: refreshData IO 全部丢到后台</li><li>fix: install 异步 + 弹窗绑 popover + noData 分场景提示</li><li>perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘</li><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li><li>fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路</li><li>fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL</li><li>chore: 轮换 APNs relay token + bump 0.3.81 stable</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 162 · 5b94786&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;li&gt;feat: 版本检测改进 + hook 通知升级 (v0.3.91)&lt;/li&gt;&lt;li&gt;feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）&lt;/li&gt;&lt;li&gt;feat: fetch-usage.sh 读系统代理 (scutil --proxy)&lt;/li&gt;&lt;li&gt;fix: 去掉首次启动的自动 launchd 安装提示&lt;/li&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;li&gt;fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路&lt;/li&gt;&lt;li&gt;fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL&lt;/li&gt;&lt;li&gt;chore: 轮换 APNs relay token + bump 0.3.81 stable&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.94/ClaudeUsageMenuBar-0.3.94.dmg" sparkle:edSignature="FOngFDNIxMq2QZodnP/Es1b1P469wFbotNNYBNv5/O5BEl60THoIlQHWpHndzdb/lb875eszOgZRQS53wBFMAw==" length="3520088" type="application/octet-stream" />
     </item>
     <item>
@@ -202,17 +213,6 @@
       <pubDate>Wed, 15 Apr 2026 02:18:51 +0000</pubDate>
       <description>&lt;h3&gt;Build 136 · cdaf713&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.66-beta.136+cdaf713/ClaudeUsageMenuBar-0.3.66-beta.136+cdaf713.dmg" sparkle:edSignature="s9JyFzTOhUwGyyu1F7cwf+lgLtTd7Rfo7/0r4GpzVoMGRRZ/eRNh4RzMsxizJ9a/ZlaXF+a85QgQ9xT8dYEcBg==" length="3190972" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.59-beta.135+3939ece</title>
-      <guid isPermaLink="false">3939eced15612f82e87aff4a7fb46ce278d79f1d</guid>
-      <sparkle:version>135</sparkle:version>
-      <sparkle:shortVersionString>0.3.59-beta.135+3939ece</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 14 Apr 2026 14:37:15 +0000</pubDate>
-      <description>&lt;h3&gt;Build 135 · 3939ece&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.59-beta.135+3939ece/ClaudeUsageMenuBar-0.3.59-beta.135+3939ece.dmg" sparkle:edSignature="lU6zMdnDfVHLen+GXMdL8mcBZL2cuPQOVa7z5NH+4nMTbUIQYVeBGYCY+x23SSSmqGLni05kynfatb2YW5AEAQ==" length="3185858" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
