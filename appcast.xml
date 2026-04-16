@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.92-beta.158+f12e889</title>
+      <guid isPermaLink="false">f12e88909ffa7ab07e10e2940aaa83ecbff72779</guid>
+      <sparkle:version>158</sparkle:version>
+      <sparkle:shortVersionString>0.3.92-beta.158+f12e889</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 16 Apr 2026 09:11:31 +0000</pubDate>
+      <description><![CDATA[<h3>Build 158 · f12e889</h3><ul><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.92-beta.158+f12e889/ClaudeUsageMenuBar-0.3.92-beta.158+f12e889.dmg" sparkle:edSignature="zhRsFtdoV39blxuFZDKBFM9ODfz3VgxAdW6VbfK85GxYlM/a2rWYoqYpgQN4IXfcFNG9gzl7VDI2iCLigQ6iAQ==" length="3353439" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.91-beta.154+31630e2</title>
       <guid isPermaLink="false">31630e2a083f83d8f66d6f16eed0ad94540bff4e</guid>
       <sparkle:version>154</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 16 Apr 2026 05:55:31 +0000</pubDate>
-      <description><![CDATA[<h3>Build 154 · 31630e2</h3><ul><li>fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 154 · 31630e2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.91-beta.154+31630e2/ClaudeUsageMenuBar-0.3.91-beta.154+31630e2.dmg" sparkle:edSignature="WpF+XJTWpavJVzB32DFPCCg8iJ2OWWOE6I2g9ybp1ONMjtL0YThrqtAeJpFvpTOr/0ApVMZapsRS6ku5NHb6Bw==" length="3333069" type="application/octet-stream" />
     </item>
     <item>
@@ -205,17 +216,6 @@
       <pubDate>Tue, 14 Apr 2026 10:35:18 +0000</pubDate>
       <description>&lt;h3&gt;Build 132 · 7f5b739&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.55-beta.132+7f5b739/ClaudeUsageMenuBar-0.3.55-beta.132+7f5b739.dmg" sparkle:edSignature="0OMjTIs5rztGw9N+frsS6i9nQITFNUqP6kl9PeFaSRhdrQ9I+Ds7yzTdo0dCmw1p/5w/xE8jPGQQ+TBTvDMsDQ==" length="3113769" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.53-beta.131+f550072</title>
-      <guid isPermaLink="false">f5500729609949982653ab1fee64bce20e539ce3</guid>
-      <sparkle:version>131</sparkle:version>
-      <sparkle:shortVersionString>0.3.53-beta.131+f550072</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 14 Apr 2026 05:32:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 131 · f550072&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: appcast description 填充真实 changelog&lt;/li&gt;&lt;li&gt;ci: build number 改用 git commit count&lt;/li&gt;&lt;li&gt;fix: refreshSessions Swift 6 严格并发报错&lt;/li&gt;&lt;li&gt;docs: 归档功能规划文档&lt;/li&gt;&lt;li&gt;feat: 设置窗口 + 项目用量视图重设计&lt;/li&gt;&lt;li&gt;fix: 移除未实现的 flashIcon 配置项&lt;/li&gt;&lt;li&gt;feat: 任务完成声音差异化 + 网格选择器 (v0.3.53)&lt;/li&gt;&lt;li&gt;ci: export DMG_URL/APPCAST for python subshell&lt;/li&gt;&lt;li&gt;ci: use sign_update -f keyfile (deprecated -s)&lt;/li&gt;&lt;li&gt;ci: clear SPM artifact cache before archive&lt;/li&gt;&lt;li&gt;fix: specify provisioning profile in ExportOptions.plist&lt;/li&gt;&lt;li&gt;fix: Release concurrency error in SessionNotifier&lt;/li&gt;&lt;li&gt;feat: Sparkle auto-update + GitHub Actions release workflow&lt;/li&gt;&lt;li&gt;fix: 分析 tab title 闪烁 + picker 玻璃质感 (v0.3.35)&lt;/li&gt;&lt;li&gt;feat: Glass picker pill 跟手指实时滑动 (v0.3.27)&lt;/li&gt;&lt;li&gt;fix: Analytics 首次进入垂直布局闪 + Daily 闪 No data (v0.3.26)&lt;/li&gt;&lt;li&gt;feat: Analytics 交互式 swipe + 液态玻璃 picker + 启动缓存 (v0.3.25)&lt;/li&gt;&lt;li&gt;fix: Weekly→Daily 跳错日 + Analytics tab 横向滑动切换 (v0.3.24)&lt;/li&gt;&lt;li&gt;fix: iOS dark mode 卡片恢复玻璃质感 + Analytics 跨设备 history 同步 (v0.3.23)&lt;/li&gt;&lt;li&gt;fix: iOS iCloud 文件下载触发 + 首次失败自动重试 (v0.3.22)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.53-beta.131+f550072/ClaudeUsageMenuBar-0.3.53-beta.131+f550072.dmg" sparkle:edSignature="58YdPZWlCYHUTQec+3DQw+Y+dR7S9bXOVZuUyfy4ahpeIWiDQC344AsomwMTENWAuAeu5NKQeb6ejt5IK1wLCQ==" length="2973463" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
