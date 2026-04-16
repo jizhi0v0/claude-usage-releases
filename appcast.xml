@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.93-beta.161+fa0c373</title>
+      <guid isPermaLink="false">fa0c373b929f0da9de25fc702f9dda2eb787ca19</guid>
+      <sparkle:version>161</sparkle:version>
+      <sparkle:shortVersionString>0.3.93-beta.161+fa0c373</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 16 Apr 2026 10:13:35 +0000</pubDate>
+      <description><![CDATA[<h3>Build 161 · fa0c373</h3><ul><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.93-beta.161+fa0c373/ClaudeUsageMenuBar-0.3.93-beta.161+fa0c373.dmg" sparkle:edSignature="79YSkrDUWCd6SoDu0h7Qn+WzUONtIyENBf9pQfCwggS6EuPavU3ujHdav+rn5nbg2PWSYFdZ8q88ecB48NLKCg==" length="3427033" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.93</title>
       <guid isPermaLink="false">7acb91a624cfcd54150346962ac3f85fcb724786</guid>
       <sparkle:version>159</sparkle:version>
       <sparkle:shortVersionString>0.3.93</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 16 Apr 2026 10:00:51 +0000</pubDate>
-      <description><![CDATA[<h3>Build 159 · 7acb91a</h3><ul><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 159 · 7acb91a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.93/ClaudeUsageMenuBar-0.3.93.dmg" sparkle:edSignature="XZBI6GcUG4yMI+423pc/oIWA8dZnSJiveZhqkLFldwSklYgkNg8H3Xpu75Qkk0u11WdEkEkRSCs+JkbYFhQ5BQ==" length="3423912" type="application/octet-stream" />
     </item>
     <item>
@@ -204,17 +215,6 @@
       <pubDate>Tue, 14 Apr 2026 13:57:48 +0000</pubDate>
       <description>&lt;h3&gt;Build 134 · 8b73141&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: search 添加搜索历史 + 修复样式小 bug&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.58-beta.134+8b73141/ClaudeUsageMenuBar-0.3.58-beta.134+8b73141.dmg" sparkle:edSignature="ZKIGu9xWwwSe0xh3XapbH/ckNWVBKLjqPWAHDMA0FFvFo6+RtBNzMoX8xAfxNtVFY8CqT+41X7/u+G3WjoV+Bg==" length="3183973" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.56-beta.133+d10d5f4</title>
-      <guid isPermaLink="false">d10d5f4788961e65712ba5feaecaff5920d7b75f</guid>
-      <sparkle:version>133</sparkle:version>
-      <sparkle:shortVersionString>0.3.56-beta.133+d10d5f4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 14 Apr 2026 13:05:46 +0000</pubDate>
-      <description>&lt;h3&gt;Build 133 · d10d5f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.56-beta.133+d10d5f4/ClaudeUsageMenuBar-0.3.56-beta.133+d10d5f4.dmg" sparkle:edSignature="PnELutN/SFc7oTjhzhSlKMZG3mqfg7fbjdmbHrOBBwa4RQEc/2aO4Mc31zdiri8lDxJ3Yrc7dnPoV9w7tVEBBQ==" length="3181924" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
