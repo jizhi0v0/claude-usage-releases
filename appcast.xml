@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.119-beta.167+7cdcc13</title>
+      <guid isPermaLink="false">7cdcc13e72e5d3b0fab491b939f10d1ec5121de7</guid>
+      <sparkle:version>167</sparkle:version>
+      <sparkle:shortVersionString>0.3.119-beta.167+7cdcc13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 08:11:23 +0000</pubDate>
+      <description><![CDATA[<h3>Build 167 · 7cdcc13</h3><ul><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.119-beta.167+7cdcc13/ClaudeUsageMenuBar-0.3.119-beta.167+7cdcc13.dmg" sparkle:edSignature="MTEXZQGPh5qbSkvrohoWToxDFKDFdkNlvryKarAzRhEhPzJiYi3DdefOhxQg1U/ujARYCin5U0jGEDjZzjrEAA==" length="3781756" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.114</title>
       <guid isPermaLink="false">34d883ee94444103a6fcd0fe64e08d59f9f6d961</guid>
       <sparkle:version>165</sparkle:version>
       <sparkle:shortVersionString>0.3.114</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Fri, 17 Apr 2026 07:11:46 +0000</pubDate>
-      <description><![CDATA[<h3>Build 165 · 34d883e</h3><ul><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li><li>fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志</li><li>feat: 版本检测改进 + hook 通知升级 (v0.3.91)</li><li>feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）</li><li>feat: fetch-usage.sh 读系统代理 (scutil --proxy)</li><li>fix: 去掉首次启动的自动 launchd 安装提示</li><li>perf: refreshData IO 全部丢到后台</li><li>fix: install 异步 + 弹窗绑 popover + noData 分场景提示</li><li>perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘</li><li>fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 165 · 34d883e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;li&gt;feat: 版本检测改进 + hook 通知升级 (v0.3.91)&lt;/li&gt;&lt;li&gt;feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）&lt;/li&gt;&lt;li&gt;feat: fetch-usage.sh 读系统代理 (scutil --proxy)&lt;/li&gt;&lt;li&gt;fix: 去掉首次启动的自动 launchd 安装提示&lt;/li&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.114/ClaudeUsageMenuBar-0.3.114.dmg" sparkle:edSignature="tq1aRxcX0iUFlgfbur7GPFPmFMuqz5LFY6oiObptLJssARAa02/U5qWFwMnajN+Eg5lJQhx6TBcbfpgW7KR7BQ==" length="3541642" type="application/octet-stream" />
     </item>
     <item>
@@ -200,17 +211,6 @@
       <pubDate>Wed, 15 Apr 2026 09:20:46 +0000</pubDate>
       <description>&lt;h3&gt;Build 140 · 88a0227&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.140+88a0227/ClaudeUsageMenuBar-0.3.80-beta.140+88a0227.dmg" sparkle:edSignature="9RMrYOp5etkAw+oWpyamYexZGRMOZ2nwBtSyNClQorwOyt0XyUKA7EeklDj4levcTkX65L7sH9uh1Pq24NSVBg==" length="3250852" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.77-beta.138+d87a835</title>
-      <guid isPermaLink="false">d87a8350f9a4271a349cf2f2dbcdcb911da27d51</guid>
-      <sparkle:version>138</sparkle:version>
-      <sparkle:shortVersionString>0.3.77-beta.138+d87a835</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 07:46:03 +0000</pubDate>
-      <description>&lt;h3&gt;Build 138 · d87a835&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 补齐 ClaudeVersionChecker 文件修复 CI&lt;/li&gt;&lt;li&gt;fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.77-beta.138+d87a835/ClaudeUsageMenuBar-0.3.77-beta.138+d87a835.dmg" sparkle:edSignature="cLxYcLHufUE+HPmtBUAT85FqubuGHqnhQsp/Dnnrkt/mkjV0vMDKlm3WhMSi4hA7QzjsX8Nztl4Aqc8XBOoBDg==" length="3173661" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
