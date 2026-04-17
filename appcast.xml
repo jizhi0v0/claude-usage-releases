@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.120-beta.168+196628c</title>
+      <guid isPermaLink="false">196628cea5eb99049e93fdd5a88261f094ecf98b</guid>
+      <sparkle:version>168</sparkle:version>
+      <sparkle:shortVersionString>0.3.120-beta.168+196628c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 08:13:45 +0000</pubDate>
+      <description><![CDATA[<h3>Build 168 · 196628c</h3><ul><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.168+196628c/ClaudeUsageMenuBar-0.3.120-beta.168+196628c.dmg" sparkle:edSignature="qiiwnesDdjn8i3taAHotsIjMymYZG4E5W5pLEgQ8EYfxO+5BRz+yhj8uqRaUutOJzBM/57uo6f5t287/+doCCg==" length="3782680" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.119-beta.167+7cdcc13</title>
       <guid isPermaLink="false">7cdcc13e72e5d3b0fab491b939f10d1ec5121de7</guid>
       <sparkle:version>167</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 17 Apr 2026 08:11:23 +0000</pubDate>
-      <description><![CDATA[<h3>Build 167 · 7cdcc13</h3><ul><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 167 · 7cdcc13&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.119-beta.167+7cdcc13/ClaudeUsageMenuBar-0.3.119-beta.167+7cdcc13.dmg" sparkle:edSignature="MTEXZQGPh5qbSkvrohoWToxDFKDFdkNlvryKarAzRhEhPzJiYi3DdefOhxQg1U/ujARYCin5U0jGEDjZzjrEAA==" length="3781756" type="application/octet-stream" />
     </item>
     <item>
@@ -200,17 +211,6 @@
       <pubDate>Wed, 15 Apr 2026 09:35:49 +0000</pubDate>
       <description>&lt;h3&gt;Build 141 · fcd6d11&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.141+fcd6d11/ClaudeUsageMenuBar-0.3.80-beta.141+fcd6d11.dmg" sparkle:edSignature="rqTjVmt2PwS7A6WGH/SVscqbGEULUBJy+JiPVicCHAlmdYXvEb16xqXu9p/PL0AwIf0WTgKyLCeHvz1CTjJOBw==" length="3297372" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.80-beta.140+88a0227</title>
-      <guid isPermaLink="false">88a02273a96a2023cc3315c3f6361ad10e4251f3</guid>
-      <sparkle:version>140</sparkle:version>
-      <sparkle:shortVersionString>0.3.80-beta.140+88a0227</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 09:20:46 +0000</pubDate>
-      <description>&lt;h3&gt;Build 140 · 88a0227&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.140+88a0227/ClaudeUsageMenuBar-0.3.80-beta.140+88a0227.dmg" sparkle:edSignature="9RMrYOp5etkAw+oWpyamYexZGRMOZ2nwBtSyNClQorwOyt0XyUKA7EeklDj4levcTkX65L7sH9uh1Pq24NSVBg==" length="3250852" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
