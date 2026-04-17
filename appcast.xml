@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.142-beta.182+f6b43bc</title>
+      <title>Version 0.3.142</title>
       <guid isPermaLink="false">f6b43bc239e660a5f2b962954e446254876fd3f8</guid>
       <sparkle:version>182</sparkle:version>
-      <sparkle:shortVersionString>0.3.142-beta.182+f6b43bc</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.142</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 17 Apr 2026 17:00:49 +0000</pubDate>
-      <description><![CDATA[<h3>Build 182 · f6b43bc</h3><ul><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.142-beta.182+f6b43bc/ClaudeUsageMenuBar-0.3.142-beta.182+f6b43bc.dmg" sparkle:edSignature="ZDUX5IZcVzsUAPtGv18sk2lDgsNFeysHzmck0ZA5TfkNf16V86Cbdkxna3pE+Teqf1RGFyfHBWCvcwz+oz9CBw==" length="3874798" type="application/octet-stream" />
+      <pubDate>Fri, 17 Apr 2026 17:03:11 +0000</pubDate>
+      <description><![CDATA[<h3>Build 182 · f6b43bc</h3><ul><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li><li>fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)</li><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li><li>fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)</li><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.142/ClaudeUsageMenuBar-0.3.142.dmg" sparkle:edSignature="rV1RrQCWLqwcyKUy4gPfGFPPi1JoNZzAK+s63SnWTaSDeeHnxbccCeYtKJZIPVsUvvIvhB1StpGbvko7wVBjAg==" length="3874894" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.141</title>
