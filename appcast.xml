@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.120-beta.169+6d753b2</title>
+      <guid isPermaLink="false">6d753b23cbcadfcdd01b7cffeb764322edee1986</guid>
+      <sparkle:version>169</sparkle:version>
+      <sparkle:shortVersionString>0.3.120-beta.169+6d753b2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 08:47:30 +0000</pubDate>
+      <description><![CDATA[<h3>Build 169 · 6d753b2</h3><ul><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.169+6d753b2/ClaudeUsageMenuBar-0.3.120-beta.169+6d753b2.dmg" sparkle:edSignature="0JAZRkyB8+nKEIsUlMO17Hrv3oOfE967EAd7/WbyxHhCWUIrqjklwuVJey6PxuOC1RZGdRIK0Apgwm/PIZfHCQ==" length="3783960" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.120-beta.168+196628c</title>
       <guid isPermaLink="false">196628cea5eb99049e93fdd5a88261f094ecf98b</guid>
       <sparkle:version>168</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 17 Apr 2026 08:13:45 +0000</pubDate>
-      <description><![CDATA[<h3>Build 168 · 196628c</h3><ul><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 168 · 196628c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.168+196628c/ClaudeUsageMenuBar-0.3.120-beta.168+196628c.dmg" sparkle:edSignature="qiiwnesDdjn8i3taAHotsIjMymYZG4E5W5pLEgQ8EYfxO+5BRz+yhj8uqRaUutOJzBM/57uo6f5t287/+doCCg==" length="3782680" type="application/octet-stream" />
     </item>
     <item>
@@ -200,17 +211,6 @@
       <pubDate>Wed, 15 Apr 2026 12:42:49 +0000</pubDate>
       <description>&lt;h3&gt;Build 142 · fe28b1f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.142+fe28b1f/ClaudeUsageMenuBar-0.3.80-beta.142+fe28b1f.dmg" sparkle:edSignature="UKTTIRhPPQIZQnPbHXZcTs66kbdXBReehwAIoPFRhEGjgVsgIa/MuygC7R+Pv98ZcNBoqdglRtAeLDq3IE70AA==" length="3299758" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.80-beta.141+fcd6d11</title>
-      <guid isPermaLink="false">fcd6d11ffa2fe7b0d08352ff2ab175ba6f30a790</guid>
-      <sparkle:version>141</sparkle:version>
-      <sparkle:shortVersionString>0.3.80-beta.141+fcd6d11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 09:35:49 +0000</pubDate>
-      <description>&lt;h3&gt;Build 141 · fcd6d11&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.141+fcd6d11/ClaudeUsageMenuBar-0.3.80-beta.141+fcd6d11.dmg" sparkle:edSignature="rqTjVmt2PwS7A6WGH/SVscqbGEULUBJy+JiPVicCHAlmdYXvEb16xqXu9p/PL0AwIf0WTgKyLCeHvz1CTjJOBw==" length="3297372" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
