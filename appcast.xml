@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.124-beta.170+88d5a94</title>
+      <guid isPermaLink="false">88d5a94942f2ed53b42efd476f375d96068cc7a2</guid>
+      <sparkle:version>170</sparkle:version>
+      <sparkle:shortVersionString>0.3.124-beta.170+88d5a94</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 09:32:05 +0000</pubDate>
+      <description><![CDATA[<h3>Build 170 · 88d5a94</h3><ul><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.124-beta.170+88d5a94/ClaudeUsageMenuBar-0.3.124-beta.170+88d5a94.dmg" sparkle:edSignature="OdPz7BXF5kOQYE+p8bi3r4V9MWr6VOxqzDilqeA5meXP1b+TXeLhRvoy3vnjTeCIWTNLOdQF06bycUCYsTaxDg==" length="3782229" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.120-beta.169+6d753b2</title>
       <guid isPermaLink="false">6d753b23cbcadfcdd01b7cffeb764322edee1986</guid>
       <sparkle:version>169</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 17 Apr 2026 08:47:30 +0000</pubDate>
-      <description><![CDATA[<h3>Build 169 · 6d753b2</h3><ul><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 169 · 6d753b2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.169+6d753b2/ClaudeUsageMenuBar-0.3.120-beta.169+6d753b2.dmg" sparkle:edSignature="0JAZRkyB8+nKEIsUlMO17Hrv3oOfE967EAd7/WbyxHhCWUIrqjklwuVJey6PxuOC1RZGdRIK0Apgwm/PIZfHCQ==" length="3783960" type="application/octet-stream" />
     </item>
     <item>
@@ -200,17 +211,6 @@
       <pubDate>Wed, 15 Apr 2026 13:06:05 +0000</pubDate>
       <description>&lt;h3&gt;Build 143 · 4f50794&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 轮换 APNs relay token + bump 0.3.81 stable&lt;/li&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;li&gt;fix: 补齐 ClaudeVersionChecker 文件修复 CI&lt;/li&gt;&lt;li&gt;fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动&lt;/li&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;li&gt;feat: search 添加搜索历史 + 修复样式小 bug&lt;/li&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;li&gt;ci: appcast description 填充真实 changelog&lt;/li&gt;&lt;li&gt;ci: build number 改用 git commit count&lt;/li&gt;&lt;li&gt;fix: refreshSessions Swift 6 严格并发报错&lt;/li&gt;&lt;li&gt;docs: 归档功能规划文档&lt;/li&gt;&lt;li&gt;feat: 设置窗口 + 项目用量视图重设计&lt;/li&gt;&lt;li&gt;fix: 移除未实现的 flashIcon 配置项&lt;/li&gt;&lt;li&gt;feat: 任务完成声音差异化 + 网格选择器 (v0.3.53)&lt;/li&gt;&lt;li&gt;ci: export DMG_URL/APPCAST for python subshell&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.81/ClaudeUsageMenuBar-0.3.81.dmg" sparkle:edSignature="7vuz9LROtPQOrAT2v5Po4GksL+sD4r8WjgDVXCI8ZlXrsNNxC+9S/6wcxtx8c5visfuNKFviMAtGnBeyfcdFAw==" length="3299717" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.80-beta.142+fe28b1f</title>
-      <guid isPermaLink="false">fe28b1ff12466cad120e2c4b76852c72f83b57cc</guid>
-      <sparkle:version>142</sparkle:version>
-      <sparkle:shortVersionString>0.3.80-beta.142+fe28b1f</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 15 Apr 2026 12:42:49 +0000</pubDate>
-      <description>&lt;h3&gt;Build 142 · fe28b1f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.80-beta.142+fe28b1f/ClaudeUsageMenuBar-0.3.80-beta.142+fe28b1f.dmg" sparkle:edSignature="UKTTIRhPPQIZQnPbHXZcTs66kbdXBReehwAIoPFRhEGjgVsgIa/MuygC7R+Pv98ZcNBoqdglRtAeLDq3IE70AA==" length="3299758" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
