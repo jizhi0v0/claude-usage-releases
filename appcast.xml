@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.134-beta.177+1d09c6b</title>
+      <guid isPermaLink="false">1d09c6b75ad951459627cd13a67b4b368b8473c6</guid>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>0.3.134-beta.177+1d09c6b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 11:58:03 +0000</pubDate>
+      <description><![CDATA[<h3>Build 177 · 1d09c6b</h3><ul><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.134-beta.177+1d09c6b/ClaudeUsageMenuBar-0.3.134-beta.177+1d09c6b.dmg" sparkle:edSignature="CRY/Y0AFBzR5HrFboBQsB42CHJWz2ugyfhBElld6rDQ056kiHJN3ea0j3u8TFrVjWJL+iL5dTjDm5PtbMOnABQ==" length="3830305" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.133</title>
       <guid isPermaLink="false">f22757a9410a1a9d575f841e56ef8692b4d8366c</guid>
       <sparkle:version>176</sparkle:version>
       <sparkle:shortVersionString>0.3.133</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Fri, 17 Apr 2026 11:48:39 +0000</pubDate>
-      <description><![CDATA[<h3>Build 176 · f22757a</h3><ul><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 176 · f22757a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为&lt;/li&gt;&lt;li&gt;fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)&lt;/li&gt;&lt;li&gt;fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)&lt;/li&gt;&lt;li&gt;fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)&lt;/li&gt;&lt;li&gt;fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)&lt;/li&gt;&lt;li&gt;feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)&lt;/li&gt;&lt;li&gt;feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)&lt;/li&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.133/ClaudeUsageMenuBar-0.3.133.dmg" sparkle:edSignature="ryZvGX356Wm0h5VgXROo3assNql0C3tGzWvgmtYLkaHQw8lLujN0BuDFO5Qv6EN+JH06H8JtljshNkk8xHdgAw==" length="3830326" type="application/octet-stream" />
     </item>
     <item>
@@ -200,16 +211,6 @@
       <pubDate>Wed, 15 Apr 2026 15:34:58 +0000</pubDate>
       <description>&lt;h3&gt;Build 150 · 9989c5e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 去掉首次启动的自动 launchd 安装提示&lt;/li&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;li&gt;fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路&lt;/li&gt;&lt;li&gt;fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL&lt;/li&gt;&lt;li&gt;chore: 轮换 APNs relay token + bump 0.3.81 stable&lt;/li&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;li&gt;fix: 补齐 ClaudeVersionChecker 文件修复 CI&lt;/li&gt;&lt;li&gt;fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动&lt;/li&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;li&gt;feat: search 添加搜索历史 + 修复样式小 bug&lt;/li&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;li&gt;ci: appcast description 填充真实 changelog&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.86/ClaudeUsageMenuBar-0.3.86.dmg" sparkle:edSignature="bhXzZCuaDJvRsX9SLxmWbqrSDkW1pljBnraL5ra5IbpzxeBtF6J8HrhTeE6ZcsWJUuECV3WY88Cszm256RSvDQ==" length="3306878" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.85</title>
-      <guid isPermaLink="false">58f62fee9e3b99963962763b31f37d2c58b96c91</guid>
-      <sparkle:version>149</sparkle:version>
-      <sparkle:shortVersionString>0.3.85</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 15 Apr 2026 15:25:37 +0000</pubDate>
-      <description>&lt;h3&gt;Build 149 · 58f62fe&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;li&gt;fix: compact 下 hook 跨会话串 URL — sessionId 精确匹配 + PPID 双路&lt;/li&gt;&lt;li&gt;fix: notify.sh 移除全局 glob 兜底避免跨会话串 URL&lt;/li&gt;&lt;li&gt;chore: 轮换 APNs relay token + bump 0.3.81 stable&lt;/li&gt;&lt;li&gt;feat: 分发前加固 — Worker 限流 + X-Client-Version + DMG INSTALL.md&lt;/li&gt;&lt;li&gt;ci: 切换到 self-hosted macOS runner&lt;/li&gt;&lt;li&gt;fix: SessionEnvCleaner 不跨 actor 捕获 self 修复 Release data race&lt;/li&gt;&lt;li&gt;feat: session-env 一键清理 + 模型分布 + 僵尸会话检测&lt;/li&gt;&lt;li&gt;fix: 补齐 ClaudeVersionChecker 文件修复 CI&lt;/li&gt;&lt;li&gt;fix: 搜索 API tab 闪烁 + 自测 ATS + cost chart 抖动&lt;/li&gt;&lt;li&gt;feat: 通知融合 model/ctx token + PreCompact + context 百分比&lt;/li&gt;&lt;li&gt;feat: 通知显示当前 session context 占比&lt;/li&gt;&lt;li&gt;feat: search 添加搜索历史 + 修复样式小 bug&lt;/li&gt;&lt;li&gt;feat: search 用 Hardware UUID 做稳定身份 + 多 hostname race&lt;/li&gt;&lt;li&gt;feat: 跨设备会话历史全文搜索&lt;/li&gt;&lt;li&gt;ci: appcast description 填充真实 changelog&lt;/li&gt;&lt;li&gt;ci: build number 改用 git commit count&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.85/ClaudeUsageMenuBar-0.3.85.dmg" sparkle:edSignature="pr0d5OIz8+N7IddiXRxkOGXW2nsSoIp0JEQCEG+oPtgaH40d6C3oeUEtHz/GdyvovwNnkNze71xned3HQfzsBg==" length="3308685" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
