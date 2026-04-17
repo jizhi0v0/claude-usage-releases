@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.131-beta.174+837ee0d</title>
+      <title>Version 0.3.131</title>
       <guid isPermaLink="false">837ee0da86013149d9dc3f6d49de861b64594b63</guid>
       <sparkle:version>174</sparkle:version>
-      <sparkle:shortVersionString>0.3.131-beta.174+837ee0d</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.131</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 17 Apr 2026 10:59:16 +0000</pubDate>
-      <description><![CDATA[<h3>Build 174 · 837ee0d</h3><ul><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.131-beta.174+837ee0d/ClaudeUsageMenuBar-0.3.131-beta.174+837ee0d.dmg" sparkle:edSignature="/BOJMRoi3leDpcWJ8Xsjqkn1aHTKhhxuy0hhc5jImiaPxGZOfwn6tCvzGQYWlT9sK7W90bqYHDZn7i5IRtmCBQ==" length="3828752" type="application/octet-stream" />
+      <pubDate>Fri, 17 Apr 2026 11:01:33 +0000</pubDate>
+      <description><![CDATA[<h3>Build 174 · 837ee0d</h3><ul><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.131/ClaudeUsageMenuBar-0.3.131.dmg" sparkle:edSignature="m2xttX+hb0HhFVoVW1weiqGIo1NbCJ36w93qiC+hquOWajnE2UXwjRLZ/1XHTiCvOgIfgkj/J1KgFrE2TskdBg==" length="3828673" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.130</title>
