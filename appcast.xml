@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.142-beta.182+f6b43bc</title>
+      <guid isPermaLink="false">f6b43bc239e660a5f2b962954e446254876fd3f8</guid>
+      <sparkle:version>182</sparkle:version>
+      <sparkle:shortVersionString>0.3.142-beta.182+f6b43bc</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 17:00:49 +0000</pubDate>
+      <description><![CDATA[<h3>Build 182 · f6b43bc</h3><ul><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.142-beta.182+f6b43bc/ClaudeUsageMenuBar-0.3.142-beta.182+f6b43bc.dmg" sparkle:edSignature="ZDUX5IZcVzsUAPtGv18sk2lDgsNFeysHzmck0ZA5TfkNf16V86Cbdkxna3pE+Teqf1RGFyfHBWCvcwz+oz9CBw==" length="3874798" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.141</title>
       <guid isPermaLink="false">dc35647646be0649cdd661ee96e0d641d950be5d</guid>
       <sparkle:version>181</sparkle:version>
       <sparkle:shortVersionString>0.3.141</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Fri, 17 Apr 2026 16:44:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 181 · dc35647</h3><ul><li>fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)</li><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li><li>fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)</li><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 181 · dc35647&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)&lt;/li&gt;&lt;li&gt;fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)&lt;/li&gt;&lt;li&gt;fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)&lt;/li&gt;&lt;li&gt;fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)&lt;/li&gt;&lt;li&gt;feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)&lt;/li&gt;&lt;li&gt;fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为&lt;/li&gt;&lt;li&gt;fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)&lt;/li&gt;&lt;li&gt;fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)&lt;/li&gt;&lt;li&gt;fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)&lt;/li&gt;&lt;li&gt;fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)&lt;/li&gt;&lt;li&gt;feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)&lt;/li&gt;&lt;li&gt;feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)&lt;/li&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.141/ClaudeUsageMenuBar-0.3.141.dmg" sparkle:edSignature="LqvMB2JrLVWT16VOU1R5pjcgh1/8jkAsNgXz7ua8K93AckRgbzpJl556wBSbmP1QaL474jzvAoQOALwFLwu1AQ==" length="3867503" type="application/octet-stream" />
     </item>
     <item>
@@ -198,17 +209,6 @@
       <pubDate>Thu, 16 Apr 2026 09:11:31 +0000</pubDate>
       <description>&lt;h3&gt;Build 158 · f12e889&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.92-beta.158+f12e889/ClaudeUsageMenuBar-0.3.92-beta.158+f12e889.dmg" sparkle:edSignature="zhRsFtdoV39blxuFZDKBFM9ODfz3VgxAdW6VbfK85GxYlM/a2rWYoqYpgQN4IXfcFNG9gzl7VDI2iCLigQ6iAQ==" length="3353439" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.91-beta.154+31630e2</title>
-      <guid isPermaLink="false">31630e2a083f83d8f66d6f16eed0ad94540bff4e</guid>
-      <sparkle:version>154</sparkle:version>
-      <sparkle:shortVersionString>0.3.91-beta.154+31630e2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 16 Apr 2026 05:55:31 +0000</pubDate>
-      <description>&lt;h3&gt;Build 154 · 31630e2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.91-beta.154+31630e2/ClaudeUsageMenuBar-0.3.91-beta.154+31630e2.dmg" sparkle:edSignature="WpF+XJTWpavJVzB32DFPCCg8iJ2OWWOE6I2g9ybp1ONMjtL0YThrqtAeJpFvpTOr/0ApVMZapsRS6ku5NHb6Bw==" length="3333069" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
