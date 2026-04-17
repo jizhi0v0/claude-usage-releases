@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.124-beta.170+88d5a94</title>
+      <title>Version 0.3.124</title>
       <guid isPermaLink="false">88d5a94942f2ed53b42efd476f375d96068cc7a2</guid>
       <sparkle:version>170</sparkle:version>
-      <sparkle:shortVersionString>0.3.124-beta.170+88d5a94</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.124</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 17 Apr 2026 09:32:05 +0000</pubDate>
-      <description><![CDATA[<h3>Build 170 · 88d5a94</h3><ul><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.124-beta.170+88d5a94/ClaudeUsageMenuBar-0.3.124-beta.170+88d5a94.dmg" sparkle:edSignature="OdPz7BXF5kOQYE+p8bi3r4V9MWr6VOxqzDilqeA5meXP1b+TXeLhRvoy3vnjTeCIWTNLOdQF06bycUCYsTaxDg==" length="3782229" type="application/octet-stream" />
+      <pubDate>Fri, 17 Apr 2026 09:34:28 +0000</pubDate>
+      <description><![CDATA[<h3>Build 170 · 88d5a94</h3><ul><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li><li>feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)</li><li>fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）</li><li>fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）</li><li>fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复</li><li>feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)</li><li>fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志</li><li>feat: 版本检测改进 + hook 通知升级 (v0.3.91)</li><li>feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）</li><li>feat: fetch-usage.sh 读系统代理 (scutil --proxy)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.124/ClaudeUsageMenuBar-0.3.124.dmg" sparkle:edSignature="EEvWM4VmTTwHywQfyGyuLju9/Ay4gMAazs9InWi0jkjLQ0pT6xGbuxWOzTYh40FIy87nh/0UjAFGRWKAuF/1Dg==" length="3782290" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.120-beta.169+6d753b2</title>
