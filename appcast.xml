@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.140-beta.180+a73de0f</title>
+      <guid isPermaLink="false">a73de0f7809899a147d55c3c61efed9764786d02</guid>
+      <sparkle:version>180</sparkle:version>
+      <sparkle:shortVersionString>0.3.140-beta.180+a73de0f</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Apr 2026 16:30:09 +0000</pubDate>
+      <description><![CDATA[<h3>Build 180 · a73de0f</h3><ul><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.140-beta.180+a73de0f/ClaudeUsageMenuBar-0.3.140-beta.180+a73de0f.dmg" sparkle:edSignature="jsSo0xiajqSp1DNlaFZ6gQ3J4G0UR7eLQLkY4uSq/B0Uv0fV9feAqfV2Fz23f+PzmiM88SXwZ1aFEJ2ozGxyAg==" length="3867179" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.139</title>
       <guid isPermaLink="false">46d1cecb64170effe7df228b756fb93ea86afd4b</guid>
       <sparkle:version>179</sparkle:version>
       <sparkle:shortVersionString>0.3.139</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Fri, 17 Apr 2026 16:10:16 +0000</pubDate>
-      <description><![CDATA[<h3>Build 179 · 46d1cec</h3><ul><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li><li>fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)</li><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li><li>feat: 推送链路优化 + Claude status page 重构 (v0.3.109)</li><li>fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发</li><li>feat: Claude status monitor + 状态历史 (v0.3.94)</li><li>fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension</li><li>fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 179 · 46d1cec&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)&lt;/li&gt;&lt;li&gt;fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)&lt;/li&gt;&lt;li&gt;feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)&lt;/li&gt;&lt;li&gt;fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为&lt;/li&gt;&lt;li&gt;fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)&lt;/li&gt;&lt;li&gt;fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)&lt;/li&gt;&lt;li&gt;fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)&lt;/li&gt;&lt;li&gt;fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)&lt;/li&gt;&lt;li&gt;feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)&lt;/li&gt;&lt;li&gt;feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)&lt;/li&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.139/ClaudeUsageMenuBar-0.3.139.dmg" sparkle:edSignature="22YNmkhJU/kUJzJLQMF2So/7RxLWn2QrKp65y9lJx5jTbMsV/DIsYrpPFg1iZnNloGW5II42WZr7erJx2zgSCA==" length="3865474" type="application/octet-stream" />
     </item>
     <item>
@@ -200,16 +211,6 @@
       <pubDate>Thu, 16 Apr 2026 03:44:43 +0000</pubDate>
       <description>&lt;h3&gt;Build 153 · 492c33f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 版本检测改进 + hook 通知升级 (v0.3.91)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.91-beta.153+492c33f/ClaudeUsageMenuBar-0.3.91-beta.153+492c33f.dmg" sparkle:edSignature="vE9eVmnGn92nIUJXDiVNP7sfE/LbnQLcE7kkdFZCOH8cGk0m2wB94XsVu/s7GOnG0jIYMW3N99TYJOZ9ajRNBA==" length="3332190" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.89</title>
-      <guid isPermaLink="false">615ddf4a5c1d253e0b6ba006c4804ce1ab1e5f44</guid>
-      <sparkle:version>152</sparkle:version>
-      <sparkle:shortVersionString>0.3.89</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 15 Apr 2026 16:21:22 +0000</pubDate>
-      <description>&lt;h3&gt;Build 152 · 615ddf4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.89/ClaudeUsageMenuBar-0.3.89.dmg" sparkle:edSignature="Xx5g4Dnt2Y6W1mfhsjfiOfsg1bGfU+zyCcwc2rsF1M2YtZF52rqQlmoyZNgwQJhGezjWRqiU1W/kDtzIpK4pCQ==" length="3307446" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
