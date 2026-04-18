@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.170-beta.191+1f3d1f0</title>
+      <guid isPermaLink="false">1f3d1f0c7a80e355b9c64c6159486f875b13d97d</guid>
+      <sparkle:version>191</sparkle:version>
+      <sparkle:shortVersionString>0.3.170-beta.191+1f3d1f0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 18 Apr 2026 13:40:33 +0000</pubDate>
+      <description><![CDATA[<h3>Build 191 · 1f3d1f0</h3><ul><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.170-beta.191+1f3d1f0/ClaudeUsageMenuBar-0.3.170-beta.191+1f3d1f0.dmg" sparkle:edSignature="iw64ANJSb1V6PdQ4N8yBdKDxYBuxC4f5g9wTQgbBOaynbebX94JXocqzlTGgOYVcHJ0TwM7t2sxMaa9xPq+PCw==" length="9871790" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.166</title>
       <guid isPermaLink="false">b63c11180456bfa6089e890f5f9a681b7a1a3783</guid>
       <sparkle:version>190</sparkle:version>
       <sparkle:shortVersionString>0.3.166</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 18 Apr 2026 11:21:24 +0000</pubDate>
-      <description><![CDATA[<h3>Build 190 · b63c111</h3><ul><li>ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166</li><li>chore: bump 0.3.164 → 0.3.165</li><li>ci: 添加 jieba-ffi 构建步骤到 release workflow</li><li>feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)</li><li>feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)</li><li>chore: deploy.sh build 号自动用 git commit count</li><li>feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)</li><li>feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)</li><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li><li>fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)</li><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li><li>fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)</li><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 190 · b63c111&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;li&gt;feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)&lt;/li&gt;&lt;li&gt;feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)&lt;/li&gt;&lt;li&gt;fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)&lt;/li&gt;&lt;li&gt;fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)&lt;/li&gt;&lt;li&gt;fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)&lt;/li&gt;&lt;li&gt;fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)&lt;/li&gt;&lt;li&gt;fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)&lt;/li&gt;&lt;li&gt;feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)&lt;/li&gt;&lt;li&gt;fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为&lt;/li&gt;&lt;li&gt;fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)&lt;/li&gt;&lt;li&gt;fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)&lt;/li&gt;&lt;li&gt;fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)&lt;/li&gt;&lt;li&gt;fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)&lt;/li&gt;&lt;li&gt;feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.166/ClaudeUsageMenuBar-0.3.166.dmg" sparkle:edSignature="PcJIaws73IcM61h4WP6EhvR6/M779FRG/ryLBpXEe4YUvjSO62TtVNCmB3thECDjfOw+Ke0ARGN43EvctjHICw==" length="9826698" type="application/octet-stream" />
     </item>
     <item>
@@ -198,16 +209,6 @@
       <pubDate>Fri, 17 Apr 2026 08:11:23 +0000</pubDate>
       <description>&lt;h3&gt;Build 167 · 7cdcc13&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.119-beta.167+7cdcc13/ClaudeUsageMenuBar-0.3.119-beta.167+7cdcc13.dmg" sparkle:edSignature="MTEXZQGPh5qbSkvrohoWToxDFKDFdkNlvryKarAzRhEhPzJiYi3DdefOhxQg1U/ujARYCin5U0jGEDjZzjrEAA==" length="3781756" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.114</title>
-      <guid isPermaLink="false">34d883ee94444103a6fcd0fe64e08d59f9f6d961</guid>
-      <sparkle:version>165</sparkle:version>
-      <sparkle:shortVersionString>0.3.114</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 17 Apr 2026 07:11:46 +0000</pubDate>
-      <description>&lt;h3&gt;Build 165 · 34d883e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;li&gt;feat: 版本检测改进 + hook 通知升级 (v0.3.91)&lt;/li&gt;&lt;li&gt;feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）&lt;/li&gt;&lt;li&gt;feat: fetch-usage.sh 读系统代理 (scutil --proxy)&lt;/li&gt;&lt;li&gt;fix: 去掉首次启动的自动 launchd 安装提示&lt;/li&gt;&lt;li&gt;perf: refreshData IO 全部丢到后台&lt;/li&gt;&lt;li&gt;fix: install 异步 + 弹窗绑 popover + noData 分场景提示&lt;/li&gt;&lt;li&gt;perf: 修复 MenuBar 首次点击卡顿 + 每帧读盘&lt;/li&gt;&lt;li&gt;fix: notify.sh URL 优先级反转 + LaunchAgents 目录缺失 + compact 通知&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.114/ClaudeUsageMenuBar-0.3.114.dmg" sparkle:edSignature="tq1aRxcX0iUFlgfbur7GPFPmFMuqz5LFY6oiObptLJssARAa02/U5qWFwMnajN+Eg5lJQhx6TBcbfpgW7KR7BQ==" length="3541642" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
