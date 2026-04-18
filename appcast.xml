@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.193-beta.198+b65dda6</title>
+      <title>Version 0.3.193</title>
       <guid isPermaLink="false">b65dda69d82538b475b0113918feacbacd012b92</guid>
       <sparkle:version>198</sparkle:version>
-      <sparkle:shortVersionString>0.3.193-beta.198+b65dda6</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.193</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 16:56:46 +0000</pubDate>
-      <description><![CDATA[<h3>Build 198 · b65dda6</h3><ul><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.193-beta.198+b65dda6/ClaudeUsageMenuBar-0.3.193-beta.198+b65dda6.dmg" sparkle:edSignature="Uw13EGU6vJ1xBzOEiIG819IsbQvhcR+woEtbBbl2hhkIs55p6LbuBE5UFD12uhPf1NbhNXAjM94/AG/RJbbdBA==" length="9966162" type="application/octet-stream" />
+      <pubDate>Sat, 18 Apr 2026 16:59:54 +0000</pubDate>
+      <description><![CDATA[<h3>Build 198 · b65dda6</h3><ul><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li><li>fix: Insights 卡死 + 空态误导 (v0.3.176)</li><li>chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)</li><li>feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)</li><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li><li>feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)</li><li>feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)</li><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li><li>ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166</li><li>chore: bump 0.3.164 → 0.3.165</li><li>ci: 添加 jieba-ffi 构建步骤到 release workflow</li><li>feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)</li><li>feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)</li><li>chore: deploy.sh build 号自动用 git commit count</li><li>feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)</li><li>feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)</li><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li><li>fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)</li><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.193/ClaudeUsageMenuBar-0.3.193.dmg" sparkle:edSignature="FtREGaCpytE7ZrfpbCqpCjlKkdcOs9bCmzg5wm/Iz3O6x/2LbSCUJrcP7INqE1+RC9RAG6QCpWbpNTYY2nQRBw==" length="9966181" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.176-beta.197+90e69c5</title>
