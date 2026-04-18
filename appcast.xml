@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.171-beta.192+ee698f0</title>
+      <guid isPermaLink="false">ee698f01608a3f47433c3a3a93406cd118d038f3</guid>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.3.171-beta.192+ee698f0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 18 Apr 2026 13:50:31 +0000</pubDate>
+      <description><![CDATA[<h3>Build 192 · ee698f0</h3><ul><li>feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.171-beta.192+ee698f0/ClaudeUsageMenuBar-0.3.171-beta.192+ee698f0.dmg" sparkle:edSignature="cCbCtWHxSZRE429omickEqdVOyUjiidMCwA1i5ozRKLmRLwBVPml1/uog8TdEEbscOyfry4abeitwlLOJwEFAw==" length="9907694" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.170-beta.191+1f3d1f0</title>
       <guid isPermaLink="false">1f3d1f0c7a80e355b9c64c6159486f875b13d97d</guid>
       <sparkle:version>191</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 18 Apr 2026 13:40:33 +0000</pubDate>
-      <description><![CDATA[<h3>Build 191 · 1f3d1f0</h3><ul><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 191 · 1f3d1f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.170-beta.191+1f3d1f0/ClaudeUsageMenuBar-0.3.170-beta.191+1f3d1f0.dmg" sparkle:edSignature="iw64ANJSb1V6PdQ4N8yBdKDxYBuxC4f5g9wTQgbBOaynbebX94JXocqzlTGgOYVcHJ0TwM7t2sxMaa9xPq+PCw==" length="9871790" type="application/octet-stream" />
     </item>
     <item>
@@ -198,17 +209,6 @@
       <pubDate>Fri, 17 Apr 2026 08:13:45 +0000</pubDate>
       <description>&lt;h3&gt;Build 168 · 196628c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.168+196628c/ClaudeUsageMenuBar-0.3.120-beta.168+196628c.dmg" sparkle:edSignature="qiiwnesDdjn8i3taAHotsIjMymYZG4E5W5pLEgQ8EYfxO+5BRz+yhj8uqRaUutOJzBM/57uo6f5t287/+doCCg==" length="3782680" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.119-beta.167+7cdcc13</title>
-      <guid isPermaLink="false">7cdcc13e72e5d3b0fab491b939f10d1ec5121de7</guid>
-      <sparkle:version>167</sparkle:version>
-      <sparkle:shortVersionString>0.3.119-beta.167+7cdcc13</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 17 Apr 2026 08:11:23 +0000</pubDate>
-      <description>&lt;h3&gt;Build 167 · 7cdcc13&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.119-beta.167+7cdcc13/ClaudeUsageMenuBar-0.3.119-beta.167+7cdcc13.dmg" sparkle:edSignature="MTEXZQGPh5qbSkvrohoWToxDFKDFdkNlvryKarAzRhEhPzJiYi3DdefOhxQg1U/ujARYCin5U0jGEDjZzjrEAA==" length="3781756" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
