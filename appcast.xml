@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.173-beta.194+6dba464</title>
+      <guid isPermaLink="false">6dba4645a786a627144d5c2a9c805cb8f63cb7e2</guid>
+      <sparkle:version>194</sparkle:version>
+      <sparkle:shortVersionString>0.3.173-beta.194+6dba464</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 18 Apr 2026 14:22:39 +0000</pubDate>
+      <description><![CDATA[<h3>Build 194 · 6dba464</h3><ul><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.173-beta.194+6dba464/ClaudeUsageMenuBar-0.3.173-beta.194+6dba464.dmg" sparkle:edSignature="apJxaOiJ7G5GHLvEVte/vgN6k3fkZ4vPXXMRPBa1TMfqoU2ziGQDh6wMnCwRx6fWWwiE6pZdNyofcjDKKaQvDQ==" length="9925934" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.172-beta.193+f977880</title>
       <guid isPermaLink="false">f977880722c7ac6c9605668d862e7c1795b591fd</guid>
       <sparkle:version>193</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 18 Apr 2026 14:02:20 +0000</pubDate>
-      <description><![CDATA[<h3>Build 193 · f977880</h3><ul><li>feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 193 · f977880&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.172-beta.193+f977880/ClaudeUsageMenuBar-0.3.172-beta.193+f977880.dmg" sparkle:edSignature="Yx/ZIJKtKEhdhhsEICp7+dAdDBhSum6HUrTtlbaAdtvmSHlrdHlj32S8ZRqDrH0KByezYj3APhP6WWNZHxdvCw==" length="9909322" type="application/octet-stream" />
     </item>
     <item>
@@ -198,17 +209,6 @@
       <pubDate>Fri, 17 Apr 2026 09:34:28 +0000</pubDate>
       <description>&lt;h3&gt;Build 170 · 88d5a94&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)&lt;/li&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;li&gt;feat: ClaudeCodePatcher + Opus 4.7 定价&lt;/li&gt;&lt;li&gt;fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)&lt;/li&gt;&lt;li&gt;feat: 推送链路优化 + Claude status page 重构 (v0.3.109)&lt;/li&gt;&lt;li&gt;fix: ClaudeStatusHistoryCard 用 VStack 替换 Group 确保 .task 触发&lt;/li&gt;&lt;li&gt;feat: Claude status monitor + 状态历史 (v0.3.94)&lt;/li&gt;&lt;li&gt;fix: VS Code 卸载先清 registry 再删目录，避免 invalid extension&lt;/li&gt;&lt;li&gt;fix: 清理 VS Code .obsolete 残留，解决卸载后无法重装的问题&lt;/li&gt;&lt;li&gt;feat: IDE 扩展一键安装/卸载 + 版本检测 (v0.3.93)&lt;/li&gt;&lt;li&gt;fix: JetBrains plugin jvmToolchain 21→17（runner 无 JDK 21）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains 构建用 Homebrew JDK 路径（java_home 不索引 Homebrew JDK）&lt;/li&gt;&lt;li&gt;fix: CI JetBrains plugin 构建修复 (JAVA_HOME) + vsce 警告修复&lt;/li&gt;&lt;li&gt;feat: VS Code terminal 精准跳转 + IDE 扩展管理 UI (v0.3.92)&lt;/li&gt;&lt;li&gt;fix: notify.sh 清理系统注入标签 + 临时 compact hook 调试日志&lt;/li&gt;&lt;li&gt;feat: 版本检测改进 + hook 通知升级 (v0.3.91)&lt;/li&gt;&lt;li&gt;feat: Terminal.app 精准 tab 跳转（用 tty 匹配 window_id）&lt;/li&gt;&lt;li&gt;feat: fetch-usage.sh 读系统代理 (scutil --proxy)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.124/ClaudeUsageMenuBar-0.3.124.dmg" sparkle:edSignature="EEvWM4VmTTwHywQfyGyuLju9/Ay4gMAazs9InWi0jkjLQ0pT6xGbuxWOzTYh40FIy87nh/0UjAFGRWKAuF/1Dg==" length="3782290" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.120-beta.169+6d753b2</title>
-      <guid isPermaLink="false">6d753b23cbcadfcdd01b7cffeb764322edee1986</guid>
-      <sparkle:version>169</sparkle:version>
-      <sparkle:shortVersionString>0.3.120-beta.169+6d753b2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 17 Apr 2026 08:47:30 +0000</pubDate>
-      <description>&lt;h3&gt;Build 169 · 6d753b2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.120-beta.169+6d753b2/ClaudeUsageMenuBar-0.3.120-beta.169+6d753b2.dmg" sparkle:edSignature="0JAZRkyB8+nKEIsUlMO17Hrv3oOfE967EAd7/WbyxHhCWUIrqjklwuVJey6PxuOC1RZGdRIK0Apgwm/PIZfHCQ==" length="3783960" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
