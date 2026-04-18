@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.160-beta.184+3fdd71b</title>
+      <title>Version 0.3.160</title>
       <guid isPermaLink="false">3fdd71b2c9c58ee71eccf7c9e6f4017a473e8f6d</guid>
       <sparkle:version>184</sparkle:version>
-      <sparkle:shortVersionString>0.3.160-beta.184+3fdd71b</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.160</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 05:50:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 184 · 3fdd71b</h3><ul><li>feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.160-beta.184+3fdd71b/ClaudeUsageMenuBar-0.3.160-beta.184+3fdd71b.dmg" sparkle:edSignature="R8k7Yac20iPF6Fv+j8hbjeVKBbK5XI7q3UPHWBqUKU+D4OwmWY4sSfwwX50/65DV3lN8c+SFDfpGdpTZ1GMwCA==" length="4066451" type="application/octet-stream" />
+      <pubDate>Sat, 18 Apr 2026 05:52:42 +0000</pubDate>
+      <description><![CDATA[<h3>Build 184 · 3fdd71b</h3><ul><li>feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)</li><li>feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)</li><li>fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)</li><li>fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)</li><li>fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)</li><li>fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)</li><li>fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)</li><li>feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)</li><li>fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为</li><li>fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)</li><li>fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)</li><li>fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)</li><li>fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)</li><li>feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)</li><li>feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)</li><li>fix: 设备协调 probe 超时放宽 + 推测判决文案澄清</li><li>fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)</li><li>feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)</li><li>feat: ClaudeCodePatcher + Opus 4.7 定价</li><li>fix: iOS NSE 按 session_id dedup 清除同 session 残留 permission 通知 (v0.3.114)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.160/ClaudeUsageMenuBar-0.3.160.dmg" sparkle:edSignature="20Zf2NTekJ+WMPVLUw+zcSjyLIuMoIj4Eh5YmAqvIya+fowhl22U4ZCLD9V2n6B+VzgC6zRaODjNfIsMQdZyBA==" length="4066415" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.144</title>
