@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.214-beta.206+a1cdeac</title>
+      <title>Version 0.3.214</title>
       <guid isPermaLink="false">a1cdeacf71c06a142a89ee01019ddde0aeaffc8b</guid>
       <sparkle:version>206</sparkle:version>
-      <sparkle:shortVersionString>0.3.214-beta.206+a1cdeac</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.214</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 07:25:38 +0000</pubDate>
-      <description><![CDATA[<h3>Build 206 · a1cdeac</h3><ul><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.214-beta.206+a1cdeac/ClaudeUsageMenuBar-0.3.214-beta.206+a1cdeac.dmg" sparkle:edSignature="2wRCJvdYiFYH1jVbApYlKUb6uRmxlLRArLpia0SfrWzDkNNbtr/4ACdqvTX801GBxF8RdZTH5JbHl87FyBACCg==" length="10042195" type="application/octet-stream" />
+      <pubDate>Sun, 19 Apr 2026 07:28:57 +0000</pubDate>
+      <description><![CDATA[<h3>Build 206 · a1cdeac</h3><ul><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li><li>chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)</li><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li><li>fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)</li><li>fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)</li><li>feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)</li><li>feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)</li><li>feat: session turn 同步切 CloudKit Private DB (v0.3.202)</li><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li><li>fix: Insights 卡死 + 空态误导 (v0.3.176)</li><li>chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)</li><li>feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)</li><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li><li>feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)</li><li>feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)</li><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li><li>ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166</li><li>chore: bump 0.3.164 → 0.3.165</li><li>ci: 添加 jieba-ffi 构建步骤到 release workflow</li><li>feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.214/ClaudeUsageMenuBar-0.3.214.dmg" sparkle:edSignature="6vrqUSeBdzCGDVcWronIw5MGcmnwD+HGlbRQ/K+gxaE2wlmbWE9aenO+sbZY9d4k8sbITMBM9bFDX7UkvnoSCA==" length="10042289" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.213-beta.205+6a75671</title>
