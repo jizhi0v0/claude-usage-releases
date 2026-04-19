@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.227-beta.224+df11060</title>
+      <guid isPermaLink="false">df110602af8434a7736dd895e62c3946843827f8</guid>
+      <sparkle:version>224</sparkle:version>
+      <sparkle:shortVersionString>0.3.227-beta.224+df11060</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 16:27:36 +0000</pubDate>
+      <description><![CDATA[<h3>Build 224 · df11060</h3><ul><li>chore: bump build 260 → 261 (TF v0.3.227)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.227-beta.224+df11060/ClaudeUsageMenuBar-0.3.227-beta.224+df11060.dmg" sparkle:edSignature="pr5uuytqdeUYyRJYxfT1GKEgpkmhRz7LmXl9GDJJz6RjR0iNj2EZurDMmr+gMHSKDRMOYcJ7K8E65N3LZUFZAA==" length="9955722" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.227-beta.223+a0f4d0e</title>
       <guid isPermaLink="false">a0f4d0ee38538acc0a67094a96769ea4cb64fe50</guid>
       <sparkle:version>223</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 16:20:48 +0000</pubDate>
-      <description><![CDATA[<h3>Build 223 · a0f4d0e</h3><ul><li>fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 223 · a0f4d0e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.227-beta.223+a0f4d0e/ClaudeUsageMenuBar-0.3.227-beta.223+a0f4d0e.dmg" sparkle:edSignature="9Vp/xPKMGfP8hm1eZF0KOs292GqeS3yBg+vRxsm+8ELsHkwXh5lNvBZGyZ8R8d6e6Ci6obwhtkmTBSZ8RT86Bg==" length="9955737" type="application/octet-stream" />
     </item>
     <item>
@@ -203,17 +214,6 @@
       <pubDate>Sun, 19 Apr 2026 06:04:48 +0000</pubDate>
       <description>&lt;h3&gt;Build 201 · 794b04c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.210-beta.201+794b04c/ClaudeUsageMenuBar-0.3.210-beta.201+794b04c.dmg" sparkle:edSignature="0Uf/RKTco8ElISIpbXxWqiD/u+CYB3tfZfsjaVhX6SAX0mRoyaBhiz/l5CIGlpHwuh5o7jTitRjqkVNvpseaAA==" length="10051073" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.203-beta.200+1af39ce</title>
-      <guid isPermaLink="false">1af39ce06f8c8e6d0d7a0b60cec5ae1c415a2a80</guid>
-      <sparkle:version>200</sparkle:version>
-      <sparkle:shortVersionString>0.3.203-beta.200+1af39ce</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 03:01:48 +0000</pubDate>
-      <description>&lt;h3&gt;Build 200 · 1af39ce&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.203-beta.200+1af39ce/ClaudeUsageMenuBar-0.3.203-beta.200+1af39ce.dmg" sparkle:edSignature="y2wZ4Bc8YEwZ58o+D6pl3dNUQbWhY5NPsVkXvbPv1hdGlGiOgw+EKJGr4IJr/hZqi+C1dU6OfsvWrWyLXPdTCA==" length="10034126" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
