@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.228-beta.225+636edfb</title>
+      <title>Version 0.3.228</title>
       <guid isPermaLink="false">636edfb610d36ad2cf11a2b80c5a3234ae2e0570</guid>
       <sparkle:version>225</sparkle:version>
-      <sparkle:shortVersionString>0.3.228-beta.225+636edfb</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.228</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 17:14:19 +0000</pubDate>
-      <description><![CDATA[<h3>Build 225 · 636edfb</h3><ul><li>feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.228-beta.225+636edfb/ClaudeUsageMenuBar-0.3.228-beta.225+636edfb.dmg" sparkle:edSignature="cPqkvPkpuuQLnsMjcvAiZ1bm1ottt86t1I1rz80s+NenG7dSQsbS+nBn6Ns01tfuqUtLpUFUURMsTWY6OL+tBQ==" length="9976191" type="application/octet-stream" />
+      <pubDate>Sun, 19 Apr 2026 17:17:46 +0000</pubDate>
+      <description><![CDATA[<h3>Build 225 · 636edfb</h3><ul><li>feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)</li><li>chore: bump build 260 → 261 (TF v0.3.227)</li><li>fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)</li><li>chore: bump build 259 → 260 (TF v0.3.226)</li><li>fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)</li><li>chore: bump build 258 → 259 (TF v0.3.225)</li><li>feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)</li><li>chore: bump build 257 → 258 (TF v0.3.224)</li><li>fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)</li><li>chore: bump build 252 → 257 (TF v0.3.223)</li><li>fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)</li><li>chore: bump build 250 → 252 (TF v0.3.222)</li><li>feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)</li><li>feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)</li><li>feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)</li><li>feat: CK fetch 进度指示灯 + 角标 (v0.3.216)</li><li>chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)</li><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li><li>chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)</li><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.228/ClaudeUsageMenuBar-0.3.228.dmg" sparkle:edSignature="Nfn4LsShr6NKwNVO/ZVArFoIjjP1SdGbd2jtzDeogLWIVbdPVB09D54VTgpvT0ZKgQyQNw3wJxTyxt+iOou6Cg==" length="9976654" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.227-beta.224+df11060</title>
