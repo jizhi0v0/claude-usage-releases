@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.225-beta.219+35a907b</title>
+      <guid isPermaLink="false">35a907b3e17453dcde41f646cb8e800e740c4663</guid>
+      <sparkle:version>219</sparkle:version>
+      <sparkle:shortVersionString>0.3.225-beta.219+35a907b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 15:36:58 +0000</pubDate>
+      <description><![CDATA[<h3>Build 219 · 35a907b</h3><ul><li>feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)</li><li>chore: bump build 257 → 258 (TF v0.3.224)</li><li>fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)</li><li>chore: bump build 252 → 257 (TF v0.3.223)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.225-beta.219+35a907b/ClaudeUsageMenuBar-0.3.225-beta.219+35a907b.dmg" sparkle:edSignature="qy0qwdeMEURWkC3+KLO888rNPazaSb44pybPua9Z6iSR+pOz/5VJmeqsytwIi6G+THPmeJi47XQK07Dlyj/kDw==" length="9955378" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.223</title>
       <guid isPermaLink="false">5c3f9be450f6e5d7349f81214d683a0b2d10b086</guid>
       <sparkle:version>215</sparkle:version>
       <sparkle:shortVersionString>0.3.223</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 15:08:39 +0000</pubDate>
-      <description><![CDATA[<h3>Build 215 · 5c3f9be</h3><ul><li>fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)</li><li>chore: bump build 250 → 252 (TF v0.3.222)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 215 · 5c3f9be&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)&lt;/li&gt;&lt;li&gt;chore: bump build 250 → 252 (TF v0.3.222)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.223/ClaudeUsageMenuBar-0.3.223.dmg" sparkle:edSignature="O4JXjUXQ4a9FQdA0GcNWJX7fu8uGtNullXX+jknmIJ13Jlr8kgP08DIUC3f2TNKZbzmxi+h7M3h8WjRYVG38CQ==" length="9948045" type="application/octet-stream" />
     </item>
     <item>
@@ -204,17 +215,6 @@
       <pubDate>Sat, 18 Apr 2026 14:39:31 +0000</pubDate>
       <description>&lt;h3&gt;Build 196 · 684df4b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.175-beta.196+684df4b/ClaudeUsageMenuBar-0.3.175-beta.196+684df4b.dmg" sparkle:edSignature="Xc4Qs16V39TeqT/xUBynNXJsTIP7tDoUsT3Wz/i43tRUf6ASAXTnQEZjcRgutdTY2NtKDZ8YjmkWUjT2363NDA==" length="9923131" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.174-beta.195+649814e</title>
-      <guid isPermaLink="false">649814e297e4fe9b626b7a33864f375a10598a31</guid>
-      <sparkle:version>195</sparkle:version>
-      <sparkle:shortVersionString>0.3.174-beta.195+649814e</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 14:33:27 +0000</pubDate>
-      <description>&lt;h3&gt;Build 195 · 649814e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.174-beta.195+649814e/ClaudeUsageMenuBar-0.3.174-beta.195+649814e.dmg" sparkle:edSignature="6zdnVkyG0TZglTf2GdjlgoAZMdKRnxqaf75ozuGwCAgrifj0sEhdrKz+TVlw80MM1EUSdn4LLvbzCjo7f462Aw==" length="9941343" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
