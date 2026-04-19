@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.226-beta.221+9819dea</title>
+      <guid isPermaLink="false">9819dea09ace98fca904c9582c946cde3ee4e6f7</guid>
+      <sparkle:version>221</sparkle:version>
+      <sparkle:shortVersionString>0.3.226-beta.221+9819dea</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 15:48:43 +0000</pubDate>
+      <description><![CDATA[<h3>Build 221 · 9819dea</h3><ul><li>fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.226-beta.221+9819dea/ClaudeUsageMenuBar-0.3.226-beta.221+9819dea.dmg" sparkle:edSignature="u3fufezXMdI5tM5o+S/zlL6g3q0/64aSogle4ma4KPIH9enEa/nirIc73MMcGksF1CGzC4kJ0KKrEfUDdMNiCA==" length="9955821" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.225-beta.220+61fb5e4</title>
       <guid isPermaLink="false">61fb5e4211a293459a7d6cb2dcd481127e329c40</guid>
       <sparkle:version>220</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 15:44:39 +0000</pubDate>
-      <description><![CDATA[<h3>Build 220 · 61fb5e4</h3><ul><li>chore: bump build 258 → 259 (TF v0.3.225)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 220 · 61fb5e4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 258 → 259 (TF v0.3.225)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.225-beta.220+61fb5e4/ClaudeUsageMenuBar-0.3.225-beta.220+61fb5e4.dmg" sparkle:edSignature="mNVjI45QlAX1sSlQR5ZTvEPFKA9Phem8fTMcE9x4Mqi/RKFGfK6GDbVm2/sNOAHyJfsrWfUDUM10S3a+CK3QCA==" length="9955359" type="application/octet-stream" />
     </item>
     <item>
@@ -203,17 +214,6 @@
       <pubDate>Sat, 18 Apr 2026 16:59:54 +0000</pubDate>
       <description>&lt;h3&gt;Build 198 · b65dda6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;li&gt;feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)&lt;/li&gt;&lt;li&gt;feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)&lt;/li&gt;&lt;li&gt;fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)&lt;/li&gt;&lt;li&gt;fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)&lt;/li&gt;&lt;li&gt;fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)&lt;/li&gt;&lt;li&gt;fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.193/ClaudeUsageMenuBar-0.3.193.dmg" sparkle:edSignature="FtREGaCpytE7ZrfpbCqpCjlKkdcOs9bCmzg5wm/Iz3O6x/2LbSCUJrcP7INqE1+RC9RAG6QCpWbpNTYY2nQRBw==" length="9966181" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.176-beta.197+90e69c5</title>
-      <guid isPermaLink="false">90e69c5f688fd7dc56892bbc5b539fcd79e7dc11</guid>
-      <sparkle:version>197</sparkle:version>
-      <sparkle:shortVersionString>0.3.176-beta.197+90e69c5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 14:44:58 +0000</pubDate>
-      <description>&lt;h3&gt;Build 197 · 90e69c5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.176-beta.197+90e69c5/ClaudeUsageMenuBar-0.3.176-beta.197+90e69c5.dmg" sparkle:edSignature="/D3Cib6BC+2C5Q94BntfQymeoCDX2foLpY8wZmsRWegkB8iT/WigVFtFlbTER1/2Mpnr7MxGT7Hse59g/YM1BA==" length="9928223" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
