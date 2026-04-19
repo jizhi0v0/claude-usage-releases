@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.213-beta.204+af1fa81</title>
+      <title>Version 0.3.213</title>
       <guid isPermaLink="false">af1fa8159813f19b5dbb83fb553d21f6efc25385</guid>
       <sparkle:version>204</sparkle:version>
-      <sparkle:shortVersionString>0.3.213-beta.204+af1fa81</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.213</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 07:06:44 +0000</pubDate>
-      <description><![CDATA[<h3>Build 204 · af1fa81</h3><ul><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.213-beta.204+af1fa81/ClaudeUsageMenuBar-0.3.213-beta.204+af1fa81.dmg" sparkle:edSignature="WAcr1HKf0n8pJX/zkY5nhPM3ZVC0HLg0ZRDU/RZ6qcbnvypHe1LJRCR3mulK1MR6qqyxtHxC0v4BWXEG8KYXBA==" length="10042212" type="application/octet-stream" />
+      <pubDate>Sun, 19 Apr 2026 07:09:51 +0000</pubDate>
+      <description><![CDATA[<h3>Build 204 · af1fa81</h3><ul><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li><li>fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)</li><li>fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)</li><li>feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)</li><li>feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)</li><li>feat: session turn 同步切 CloudKit Private DB (v0.3.202)</li><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li><li>fix: Insights 卡死 + 空态误导 (v0.3.176)</li><li>chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)</li><li>feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)</li><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li><li>feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)</li><li>feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)</li><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li><li>ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166</li><li>chore: bump 0.3.164 → 0.3.165</li><li>ci: 添加 jieba-ffi 构建步骤到 release workflow</li><li>feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)</li><li>feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)</li><li>chore: deploy.sh build 号自动用 git commit count</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.213/ClaudeUsageMenuBar-0.3.213.dmg" sparkle:edSignature="BWoCfPUqV00Nzs9sb1dxCmu4jrRAtyNepnXsfGF5M4lyLag/VLXlRQ8Yc5Htha4rLkljGzG2mqnCoLkJ8shVCg==" length="10042160" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.212</title>
