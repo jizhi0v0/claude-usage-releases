@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.225-beta.220+61fb5e4</title>
+      <guid isPermaLink="false">61fb5e4211a293459a7d6cb2dcd481127e329c40</guid>
+      <sparkle:version>220</sparkle:version>
+      <sparkle:shortVersionString>0.3.225-beta.220+61fb5e4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 15:44:39 +0000</pubDate>
+      <description><![CDATA[<h3>Build 220 · 61fb5e4</h3><ul><li>chore: bump build 258 → 259 (TF v0.3.225)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.225-beta.220+61fb5e4/ClaudeUsageMenuBar-0.3.225-beta.220+61fb5e4.dmg" sparkle:edSignature="mNVjI45QlAX1sSlQR5ZTvEPFKA9Phem8fTMcE9x4Mqi/RKFGfK6GDbVm2/sNOAHyJfsrWfUDUM10S3a+CK3QCA==" length="9955359" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.225</title>
       <guid isPermaLink="false">35a907b3e17453dcde41f646cb8e800e740c4663</guid>
       <sparkle:version>219</sparkle:version>
       <sparkle:shortVersionString>0.3.225</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 15:40:47 +0000</pubDate>
-      <description><![CDATA[<h3>Build 219 · 35a907b</h3><ul><li>feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)</li><li>chore: bump build 257 → 258 (TF v0.3.224)</li><li>fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)</li><li>chore: bump build 252 → 257 (TF v0.3.223)</li><li>fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)</li><li>chore: bump build 250 → 252 (TF v0.3.222)</li><li>feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)</li><li>feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)</li><li>feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)</li><li>feat: CK fetch 进度指示灯 + 角标 (v0.3.216)</li><li>chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)</li><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li><li>chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)</li><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li><li>chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)</li><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li><li>fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)</li><li>fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)</li><li>feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)</li><li>feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 219 · 35a907b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)&lt;/li&gt;&lt;li&gt;chore: bump build 257 → 258 (TF v0.3.224)&lt;/li&gt;&lt;li&gt;fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)&lt;/li&gt;&lt;li&gt;chore: bump build 252 → 257 (TF v0.3.223)&lt;/li&gt;&lt;li&gt;fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)&lt;/li&gt;&lt;li&gt;chore: bump build 250 → 252 (TF v0.3.222)&lt;/li&gt;&lt;li&gt;feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)&lt;/li&gt;&lt;li&gt;feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)&lt;/li&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;li&gt;chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)&lt;/li&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)&lt;/li&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.225/ClaudeUsageMenuBar-0.3.225.dmg" sparkle:edSignature="5NZfDecsYR2BsZUrCE//meTEp08Go6f3t/xPlQsFGjvVmYX8HRTmFC6g3AYoa5ob/txeNHtQyKaHiiVlrfUAAA==" length="9955316" type="application/octet-stream" />
     </item>
     <item>
@@ -203,17 +214,6 @@
       <pubDate>Sat, 18 Apr 2026 14:44:58 +0000</pubDate>
       <description>&lt;h3&gt;Build 197 · 90e69c5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.176-beta.197+90e69c5/ClaudeUsageMenuBar-0.3.176-beta.197+90e69c5.dmg" sparkle:edSignature="/D3Cib6BC+2C5Q94BntfQymeoCDX2foLpY8wZmsRWegkB8iT/WigVFtFlbTER1/2Mpnr7MxGT7Hse59g/YM1BA==" length="9928223" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.175-beta.196+684df4b</title>
-      <guid isPermaLink="false">684df4b6b9e5fe3ce4c8ea2713113073dcf0ae2d</guid>
-      <sparkle:version>196</sparkle:version>
-      <sparkle:shortVersionString>0.3.175-beta.196+684df4b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 14:39:31 +0000</pubDate>
-      <description>&lt;h3&gt;Build 196 · 684df4b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.175-beta.196+684df4b/ClaudeUsageMenuBar-0.3.175-beta.196+684df4b.dmg" sparkle:edSignature="Xc4Qs16V39TeqT/xUBynNXJsTIP7tDoUsT3Wz/i43tRUf6ASAXTnQEZjcRgutdTY2NtKDZ8YjmkWUjT2363NDA==" length="9923131" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
