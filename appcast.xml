@@ -6,13 +6,23 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.223</title>
+      <guid isPermaLink="false">5c3f9be450f6e5d7349f81214d683a0b2d10b086</guid>
+      <sparkle:version>215</sparkle:version>
+      <sparkle:shortVersionString>0.3.223</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 19 Apr 2026 15:08:39 +0000</pubDate>
+      <description><![CDATA[<h3>Build 215 · 5c3f9be</h3><ul><li>fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)</li><li>chore: bump build 250 → 252 (TF v0.3.222)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.223/ClaudeUsageMenuBar-0.3.223.dmg" sparkle:edSignature="O4JXjUXQ4a9FQdA0GcNWJX7fu8uGtNullXX+jknmIJ13Jlr8kgP08DIUC3f2TNKZbzmxi+h7M3h8WjRYVG38CQ==" length="9948045" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.222</title>
       <guid isPermaLink="false">c8111d980c9913dda6ac69c08d09eaa3ff7a82b5</guid>
       <sparkle:version>213</sparkle:version>
       <sparkle:shortVersionString>0.3.222</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 15:01:18 +0000</pubDate>
-      <description><![CDATA[<h3>Build 213 · c8111d9</h3><ul><li>feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)</li><li>feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)</li><li>feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)</li><li>feat: CK fetch 进度指示灯 + 角标 (v0.3.216)</li><li>chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)</li><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li><li>chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)</li><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li><li>chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)</li><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li><li>fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)</li><li>fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)</li><li>feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)</li><li>feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)</li><li>feat: session turn 同步切 CloudKit Private DB (v0.3.202)</li><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li><li>fix: Insights 卡死 + 空态误导 (v0.3.176)</li><li>chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)</li><li>feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)</li><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 213 · c8111d9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)&lt;/li&gt;&lt;li&gt;feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)&lt;/li&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;li&gt;chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)&lt;/li&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)&lt;/li&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.222/ClaudeUsageMenuBar-0.3.222.dmg" sparkle:edSignature="TjooiHwCYalAyKsQpHnZQ3A8Ga1Y8B9Dt4zAZnLvhw62BCIFONCvjxUt/MnI4T7wu226S1lNNm9cxbkz2ylLCQ==" length="9948012" type="application/octet-stream" />
     </item>
     <item>
@@ -205,17 +215,6 @@
       <pubDate>Sat, 18 Apr 2026 14:33:27 +0000</pubDate>
       <description>&lt;h3&gt;Build 195 · 649814e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.174-beta.195+649814e/ClaudeUsageMenuBar-0.3.174-beta.195+649814e.dmg" sparkle:edSignature="6zdnVkyG0TZglTf2GdjlgoAZMdKRnxqaf75ozuGwCAgrifj0sEhdrKz+TVlw80MM1EUSdn4LLvbzCjo7f462Aw==" length="9941343" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.173-beta.194+6dba464</title>
-      <guid isPermaLink="false">6dba4645a786a627144d5c2a9c805cb8f63cb7e2</guid>
-      <sparkle:version>194</sparkle:version>
-      <sparkle:shortVersionString>0.3.173-beta.194+6dba464</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 14:22:39 +0000</pubDate>
-      <description>&lt;h3&gt;Build 194 · 6dba464&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.173-beta.194+6dba464/ClaudeUsageMenuBar-0.3.173-beta.194+6dba464.dmg" sparkle:edSignature="apJxaOiJ7G5GHLvEVte/vgN6k3fkZ4vPXXMRPBa1TMfqoU2ziGQDh6wMnCwRx6fWWwiE6pZdNyofcjDKKaQvDQ==" length="9925934" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
