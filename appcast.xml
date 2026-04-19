@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.232-beta.231+818d400</title>
+      <guid isPermaLink="false">818d4003f02068aeb553623ca4679f1fc766a100</guid>
+      <sparkle:version>231</sparkle:version>
+      <sparkle:shortVersionString>0.3.232-beta.231+818d400</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[<h3>Build 231 · 818d400</h3><ul><li>fix: use stable dark cards for iOS snapshots</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.232-beta.231+818d400/ClaudeUsageMenuBar-0.3.232-beta.231+818d400.dmg" sparkle:edSignature="AjkuyKz07hBmCJO/6w4vAbcLbjdv44zeiWe/+OsY1lTs0l65+QrnAX0/Ur1x1PnjeJLhJZ7R1OG+XmK/Yq9KAQ==" length="9988617" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.231-beta.230+5c541e0</title>
       <guid isPermaLink="false">5c541e05aa3ef981c2899d5565b6963d802bd20f</guid>
       <sparkle:version>230</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 18:10:04 +0000</pubDate>
-      <description><![CDATA[<h3>Build 230 · 5c541e0</h3><ul><li>chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 230 · 5c541e0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.231-beta.230+5c541e0/ClaudeUsageMenuBar-0.3.231-beta.230+5c541e0.dmg" sparkle:edSignature="dg5HNERGraGmtiH4AiZlFhlXn5waeHabEpsKMBAdTeOHQmgGBVgSlUa2jStdsGvdqIwaGjBxyka33FkCaGroBA==" length="9988566" type="application/octet-stream" />
     </item>
     <item>
@@ -204,16 +215,6 @@
       <pubDate>Sun, 19 Apr 2026 07:32:22 +0000</pubDate>
       <description>&lt;h3&gt;Build 207 · b009e62&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.214-beta.207+b009e62/ClaudeUsageMenuBar-0.3.214-beta.207+b009e62.dmg" sparkle:edSignature="XjVgVDmJ8G+DM6WWbJM28kdcyCOHr7ifsDGojQi6AqOksNt8Rdex9ANyN3a01+k5kg06NmhpVgewwcN30ZVfDg==" length="10044875" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.214</title>
-      <guid isPermaLink="false">a1cdeacf71c06a142a89ee01019ddde0aeaffc8b</guid>
-      <sparkle:version>206</sparkle:version>
-      <sparkle:shortVersionString>0.3.214</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 07:28:57 +0000</pubDate>
-      <description>&lt;h3&gt;Build 206 · a1cdeac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)&lt;/li&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.214/ClaudeUsageMenuBar-0.3.214.dmg" sparkle:edSignature="6vrqUSeBdzCGDVcWronIw5MGcmnwD+HGlbRQ/K+gxaE2wlmbWE9aenO+sbZY9d4k8sbITMBM9bFDX7UkvnoSCA==" length="10042289" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
