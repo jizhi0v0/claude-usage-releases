@@ -6,6 +6,16 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.230</title>
+      <guid isPermaLink="false">6b14804b17608256ab4d95499379e8ca778df645</guid>
+      <sparkle:version>228</sparkle:version>
+      <sparkle:shortVersionString>0.3.230</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 19 Apr 2026 17:54:12 +0000</pubDate>
+      <description><![CDATA[<h3>Build 228 · 6b14804</h3><ul><li>fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.230/ClaudeUsageMenuBar-0.3.230.dmg" sparkle:edSignature="xxZJf7lgYs1uhoHsgIwjDY83LZtPxiNum4H28rP8PVTEuWJc03cP0TdIepfjTNEszkXQWvwY1NbMga6XC6oJBQ==" length="9984061" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.229-beta.227+ad31e9c</title>
       <guid isPermaLink="false">ad31e9c75a6e0d16f2cb6d3c0f36545c1943d660</guid>
       <sparkle:version>227</sparkle:version>
@@ -13,7 +23,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 17:45:54 +0000</pubDate>
-      <description><![CDATA[<h3>Build 227 · ad31e9c</h3><ul><li>fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败</li><li>feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 227 · ad31e9c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败&lt;/li&gt;&lt;li&gt;feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.229-beta.227+ad31e9c/ClaudeUsageMenuBar-0.3.229-beta.227+ad31e9c.dmg" sparkle:edSignature="h+crtc9uhOIm83MkSNFhILaU5GCbLFjbpgn61VL6r9mfUv+DoYfXATR+/aM6joyVhhk1SJ2URFAUDMPgFopmCw==" length="9984087" type="application/octet-stream" />
     </item>
     <item>
@@ -204,16 +214,6 @@
       <pubDate>Sun, 19 Apr 2026 07:09:51 +0000</pubDate>
       <description>&lt;h3&gt;Build 204 · af1fa81&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.213/ClaudeUsageMenuBar-0.3.213.dmg" sparkle:edSignature="BWoCfPUqV00Nzs9sb1dxCmu4jrRAtyNepnXsfGF5M4lyLag/VLXlRQ8Yc5Htha4rLkljGzG2mqnCoLkJ8shVCg==" length="10042160" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.212</title>
-      <guid isPermaLink="false">74128dcfeb5d71e55ecb2d1e2c9778a080670f36</guid>
-      <sparkle:version>203</sparkle:version>
-      <sparkle:shortVersionString>0.3.212</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 06:54:14 +0000</pubDate>
-      <description>&lt;h3&gt;Build 203 · 74128dc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;li&gt;feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.212/ClaudeUsageMenuBar-0.3.212.dmg" sparkle:edSignature="wUJtjL+aeq77yBeqRgbWu0Km/Is9cdo5t5eX/EnsyuCMt6uQQWGztk6xVI+EUwk605wgviv5IR6Yi68NSZqOAQ==" length="10042134" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
