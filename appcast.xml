@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.215-beta.208+4383d6c</title>
+      <title>Version 0.3.215</title>
       <guid isPermaLink="false">4383d6c35e2e4deff70616a8b22853a744dcbc62</guid>
       <sparkle:version>208</sparkle:version>
-      <sparkle:shortVersionString>0.3.215-beta.208+4383d6c</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.215</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 08:17:22 +0000</pubDate>
-      <description><![CDATA[<h3>Build 208 · 4383d6c</h3><ul><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215-beta.208+4383d6c/ClaudeUsageMenuBar-0.3.215-beta.208+4383d6c.dmg" sparkle:edSignature="8HVifLL8PVK/1R/DA+n3Dr1j1oRG5pZQkCMMjvTWGIpKeZENawfHmB4p5hzzysPaRG7YLMZ8CjDiaRKYs7t/Aw==" length="10042545" type="application/octet-stream" />
+      <pubDate>Sun, 19 Apr 2026 08:21:16 +0000</pubDate>
+      <description><![CDATA[<h3>Build 208 · 4383d6c</h3><ul><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li><li>chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)</li><li>fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)</li><li>chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)</li><li>chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)</li><li>fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)</li><li>fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)</li><li>feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)</li><li>feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)</li><li>feat: session turn 同步切 CloudKit Private DB (v0.3.202)</li><li>feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)</li><li>fix: Insights 卡死 + 空态误导 (v0.3.176)</li><li>chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)</li><li>feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)</li><li>feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)</li><li>feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)</li><li>feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)</li><li>feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)</li><li>ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166</li><li>chore: bump 0.3.164 → 0.3.165</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215/ClaudeUsageMenuBar-0.3.215.dmg" sparkle:edSignature="n9jndoyVFRnC9ldPLJN28cU9f70VYU6bCpoUUQQwToUdchV0A0gY1acaEUv2AKcp9P7RQnb71bYR46NwNw8gAw==" length="10042193" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.214-beta.207+b009e62</title>
