@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.219-beta.212+fcc9e88</title>
+      <guid isPermaLink="false">fcc9e8861a19a39aee2e21755037a865e933df20</guid>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>0.3.219-beta.212+fcc9e88</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 13:12:10 +0000</pubDate>
+      <description><![CDATA[<h3>Build 212 · fcc9e88</h3><ul><li>feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.219-beta.212+fcc9e88/ClaudeUsageMenuBar-0.3.219-beta.212+fcc9e88.dmg" sparkle:edSignature="uq8X9cstNM0qkYL6YJPkmS5O/qp/rFO2CEd3axS0Y55FI5a0YCeuTjUdeIb2dwrJJjpOZsODr7kOb46vF3Y3BA==" length="10049942" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.218-beta.211+ebfe5d2</title>
       <guid isPermaLink="false">ebfe5d214228d75ae451ea14855e282903de3eb4</guid>
       <sparkle:version>211</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 12:38:34 +0000</pubDate>
-      <description><![CDATA[<h3>Build 211 · ebfe5d2</h3><ul><li>feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 211 · ebfe5d2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.218-beta.211+ebfe5d2/ClaudeUsageMenuBar-0.3.218-beta.211+ebfe5d2.dmg" sparkle:edSignature="zAaUusdDy7kNYJ96B22t+KQKfKLupCcaTNgQxC+yW9boaGIbRQJ+KXwbQgJEtGNtBdW2hC3J+I2oqsaZPrCqDg==" length="10042173" type="application/octet-stream" />
     </item>
     <item>
@@ -206,17 +217,6 @@
       <pubDate>Sat, 18 Apr 2026 14:02:20 +0000</pubDate>
       <description>&lt;h3&gt;Build 193 · f977880&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.172-beta.193+f977880/ClaudeUsageMenuBar-0.3.172-beta.193+f977880.dmg" sparkle:edSignature="Yx/ZIJKtKEhdhhsEICp7+dAdDBhSum6HUrTtlbaAdtvmSHlrdHlj32S8ZRqDrH0KByezYj3APhP6WWNZHxdvCw==" length="9909322" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.171-beta.192+ee698f0</title>
-      <guid isPermaLink="false">ee698f01608a3f47433c3a3a93406cd118d038f3</guid>
-      <sparkle:version>192</sparkle:version>
-      <sparkle:shortVersionString>0.3.171-beta.192+ee698f0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 13:50:31 +0000</pubDate>
-      <description>&lt;h3&gt;Build 192 · ee698f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.171-beta.192+ee698f0/ClaudeUsageMenuBar-0.3.171-beta.192+ee698f0.dmg" sparkle:edSignature="cCbCtWHxSZRE429omickEqdVOyUjiidMCwA1i5ozRKLmRLwBVPml1/uog8TdEEbscOyfry4abeitwlLOJwEFAw==" length="9907694" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
