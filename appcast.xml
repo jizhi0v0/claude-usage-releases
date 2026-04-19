@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.231-beta.229+9091f35</title>
+      <guid isPermaLink="false">9091f35f28a7cef2caf4f273f368816aa0ceba99</guid>
+      <sparkle:version>229</sparkle:version>
+      <sparkle:shortVersionString>0.3.231-beta.229+9091f35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 18:03:16 +0000</pubDate>
+      <description><![CDATA[<h3>Build 229 · 9091f35</h3><ul><li>fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.231-beta.229+9091f35/ClaudeUsageMenuBar-0.3.231-beta.229+9091f35.dmg" sparkle:edSignature="zSy1sMiyr9/qvsW1y4Jy/kB/aW+PKE5Yh/tsIuzSuZJPhsiKODU8qKcDRa8ZL9q/ZiBJTHVOFWAxC82aXWgHDA==" length="9988596" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.230</title>
       <guid isPermaLink="false">6b14804b17608256ab4d95499379e8ca778df645</guid>
       <sparkle:version>228</sparkle:version>
       <sparkle:shortVersionString>0.3.230</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 17:54:12 +0000</pubDate>
-      <description><![CDATA[<h3>Build 228 · 6b14804</h3><ul><li>fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 228 · 6b14804&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.230/ClaudeUsageMenuBar-0.3.230.dmg" sparkle:edSignature="xxZJf7lgYs1uhoHsgIwjDY83LZtPxiNum4H28rP8PVTEuWJc03cP0TdIepfjTNEszkXQWvwY1NbMga6XC6oJBQ==" length="9984061" type="application/octet-stream" />
     </item>
     <item>
@@ -204,16 +215,6 @@
       <pubDate>Sun, 19 Apr 2026 07:13:14 +0000</pubDate>
       <description>&lt;h3&gt;Build 205 · 6a75671&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.213-beta.205+6a75671/ClaudeUsageMenuBar-0.3.213-beta.205+6a75671.dmg" sparkle:edSignature="nNc7stnPajXjqJ5ZOO8L6X/0BmJZh0y2lH50aQvJ0Cltr9Fme2QRf/uRKxAu5LJ55MFnynNgSlKD+T0hL0t9Cg==" length="10042181" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.213</title>
-      <guid isPermaLink="false">af1fa8159813f19b5dbb83fb553d21f6efc25385</guid>
-      <sparkle:version>204</sparkle:version>
-      <sparkle:shortVersionString>0.3.213</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 07:09:51 +0000</pubDate>
-      <description>&lt;h3&gt;Build 204 · af1fa81&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;li&gt;ci: 添加 jieba-ffi 构建步骤到 release workflow&lt;/li&gt;&lt;li&gt;feat: 集成 jieba-rs 中文分词 FFI + 其它小改 (v0.3.164)&lt;/li&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.213/ClaudeUsageMenuBar-0.3.213.dmg" sparkle:edSignature="BWoCfPUqV00Nzs9sb1dxCmu4jrRAtyNepnXsfGF5M4lyLag/VLXlRQ8Yc5Htha4rLkljGzG2mqnCoLkJ8shVCg==" length="10042160" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
