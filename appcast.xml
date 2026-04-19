@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.218-beta.211+ebfe5d2</title>
+      <guid isPermaLink="false">ebfe5d214228d75ae451ea14855e282903de3eb4</guid>
+      <sparkle:version>211</sparkle:version>
+      <sparkle:shortVersionString>0.3.218-beta.211+ebfe5d2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 12:38:34 +0000</pubDate>
+      <description><![CDATA[<h3>Build 211 · ebfe5d2</h3><ul><li>feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.218-beta.211+ebfe5d2/ClaudeUsageMenuBar-0.3.218-beta.211+ebfe5d2.dmg" sparkle:edSignature="zAaUusdDy7kNYJ96B22t+KQKfKLupCcaTNgQxC+yW9boaGIbRQJ+KXwbQgJEtGNtBdW2hC3J+I2oqsaZPrCqDg==" length="10042173" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.216</title>
       <guid isPermaLink="false">01f779f86ee65d209cfbc1f59f457468937b7861</guid>
       <sparkle:version>210</sparkle:version>
       <sparkle:shortVersionString>0.3.216</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 08:51:57 +0000</pubDate>
-      <description><![CDATA[<h3>Build 210 · 01f779f</h3><ul><li>feat: CK fetch 进度指示灯 + 角标 (v0.3.216)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 210 · 01f779f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.216/ClaudeUsageMenuBar-0.3.216.dmg" sparkle:edSignature="PgKALsvDDmU4PTuCXOwWSUPSpU2Ox7o+hcVL6MF1N/naWkKnqrDeBc/kn3bOx9zCCNWI8F0K3w4X6CEioRmqDw==" length="10042206" type="application/octet-stream" />
     </item>
     <item>
@@ -206,17 +217,6 @@
       <pubDate>Sat, 18 Apr 2026 13:50:31 +0000</pubDate>
       <description>&lt;h3&gt;Build 192 · ee698f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.171-beta.192+ee698f0/ClaudeUsageMenuBar-0.3.171-beta.192+ee698f0.dmg" sparkle:edSignature="cCbCtWHxSZRE429omickEqdVOyUjiidMCwA1i5ozRKLmRLwBVPml1/uog8TdEEbscOyfry4abeitwlLOJwEFAw==" length="9907694" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.170-beta.191+1f3d1f0</title>
-      <guid isPermaLink="false">1f3d1f0c7a80e355b9c64c6159486f875b13d97d</guid>
-      <sparkle:version>191</sparkle:version>
-      <sparkle:shortVersionString>0.3.170-beta.191+1f3d1f0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 13:40:33 +0000</pubDate>
-      <description>&lt;h3&gt;Build 191 · 1f3d1f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.170-beta.191+1f3d1f0/ClaudeUsageMenuBar-0.3.170-beta.191+1f3d1f0.dmg" sparkle:edSignature="iw64ANJSb1V6PdQ4N8yBdKDxYBuxC4f5g9wTQgbBOaynbebX94JXocqzlTGgOYVcHJ0TwM7t2sxMaa9xPq+PCw==" length="9871790" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
