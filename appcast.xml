@@ -6,13 +6,23 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.234</title>
+      <guid isPermaLink="false">019d2ad11c7dbaa3eea0bd894dbc505b3cbc20e4</guid>
+      <sparkle:version>233</sparkle:version>
+      <sparkle:shortVersionString>0.3.234</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 19 Apr 2026 18:44:00 +0000</pubDate>
+      <description><![CDATA[<h3>Build 233 · 019d2ad</h3><ul><li>fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234/ClaudeUsageMenuBar-0.3.234.dmg" sparkle:edSignature="lLwe8uUFayHa53xo4rkKi+iQhAretnC94SYhnoFRzDpBzT866aKUlp+IiFr9X9FvJ4vJmkGrS3CXso0YXJzIAQ==" length="9997405" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.233</title>
       <guid isPermaLink="false">0a2d4ac63e2a00f1139c19adcd8b3ff5031af393</guid>
       <sparkle:version>232</sparkle:version>
       <sparkle:shortVersionString>0.3.233</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 18:31:15 +0000</pubDate>
-      <description><![CDATA[<h3>Build 232 · 0a2d4ac</h3><ul><li>feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 232 · 0a2d4ac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.233/ClaudeUsageMenuBar-0.3.233.dmg" sparkle:edSignature="xS08UUP2QGr/UAgcxHG/AcDlyp1bDxeLTOLxjoNj8MOIGEEnYfy39ZRPO+xRAX3o98DF3F3wSoYgA4dHsGPnDA==" length="9992171" type="application/octet-stream" />
     </item>
     <item>
@@ -204,16 +214,6 @@
       <pubDate>Sun, 19 Apr 2026 08:24:38 +0000</pubDate>
       <description>&lt;h3&gt;Build 209 · c4b7250&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215-beta.209+c4b7250/ClaudeUsageMenuBar-0.3.215-beta.209+c4b7250.dmg" sparkle:edSignature="rzwL3Slqjj3+lfQ4xLezkK3lASI3BM2xUvAHWMTcdtbNYmi3Lm9FdEmSRfqGqEdef6kziETBIsn7SCQayDJABA==" length="10042199" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.215</title>
-      <guid isPermaLink="false">4383d6c35e2e4deff70616a8b22853a744dcbc62</guid>
-      <sparkle:version>208</sparkle:version>
-      <sparkle:shortVersionString>0.3.215</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 08:21:16 +0000</pubDate>
-      <description>&lt;h3&gt;Build 208 · 4383d6c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)&lt;/li&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)&lt;/li&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;li&gt;feat: session turn 同步切 CloudKit Private DB (v0.3.202)&lt;/li&gt;&lt;li&gt;feat: Analytics 自动刷新 + 图表视觉修复累积 (v0.3.193)&lt;/li&gt;&lt;li&gt;fix: Insights 卡死 + 空态误导 (v0.3.176)&lt;/li&gt;&lt;li&gt;chore: 删除 UsageHistoryStore / HistoryDataPoint (v0.3.175)&lt;/li&gt;&lt;li&gt;feat: BudgetForecaster 重写为配额耗尽预测器 (v0.3.174)&lt;/li&gt;&lt;li&gt;feat: Analytics 切换到 SessionJournal cost 语义 (v0.3.173)&lt;/li&gt;&lt;li&gt;feat: Swift 原生 turn 增量写入 + iCloud 懒同步 (v0.3.172)&lt;/li&gt;&lt;li&gt;feat: 叙事洞察扩展 + StatusPage 状态抽离 + 脚本同步修复 (v0.3.171)&lt;/li&gt;&lt;li&gt;feat: turn 级主源数据结构 + rebuild 脚本 (v0.3.170)&lt;/li&gt;&lt;li&gt;ci: workflow bootstrap rustup + bump 0.3.165 → 0.3.166&lt;/li&gt;&lt;li&gt;chore: bump 0.3.164 → 0.3.165&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215/ClaudeUsageMenuBar-0.3.215.dmg" sparkle:edSignature="n9jndoyVFRnC9ldPLJN28cU9f70VYU6bCpoUUQQwToUdchV0A0gY1acaEUv2AKcp9P7RQnb71bYR46NwNw8gAw==" length="10042193" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
