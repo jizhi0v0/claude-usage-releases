@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.215-beta.208+4383d6c</title>
+      <guid isPermaLink="false">4383d6c35e2e4deff70616a8b22853a744dcbc62</guid>
+      <sparkle:version>208</sparkle:version>
+      <sparkle:shortVersionString>0.3.215-beta.208+4383d6c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 19 Apr 2026 08:17:22 +0000</pubDate>
+      <description><![CDATA[<h3>Build 208 · 4383d6c</h3><ul><li>fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215-beta.208+4383d6c/ClaudeUsageMenuBar-0.3.215-beta.208+4383d6c.dmg" sparkle:edSignature="8HVifLL8PVK/1R/DA+n3Dr1j1oRG5pZQkCMMjvTWGIpKeZENawfHmB4p5hzzysPaRG7YLMZ8CjDiaRKYs7t/Aw==" length="10042545" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.214-beta.207+b009e62</title>
       <guid isPermaLink="false">b009e62180683b94ef6a15c604b1f04b642656c2</guid>
       <sparkle:version>207</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 19 Apr 2026 07:32:22 +0000</pubDate>
-      <description><![CDATA[<h3>Build 207 · b009e62</h3><ul><li>chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 207 · b009e62&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.214-beta.207+b009e62/ClaudeUsageMenuBar-0.3.214-beta.207+b009e62.dmg" sparkle:edSignature="XjVgVDmJ8G+DM6WWbJM28kdcyCOHr7ifsDGojQi6AqOksNt8Rdex9ANyN3a01+k5kg06NmhpVgewwcN30ZVfDg==" length="10044875" type="application/octet-stream" />
     </item>
     <item>
@@ -206,17 +217,6 @@
       <pubDate>Sat, 18 Apr 2026 10:25:04 +0000</pubDate>
       <description>&lt;h3&gt;Build 186 · 7a0607c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Claude Design 独立额度 + 通知去重简化 (v0.3.163)&lt;/li&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;li&gt;feat: SessionAdvisor 会话健康分析端到端 + 推送通知 (v0.3.160)&lt;/li&gt;&lt;li&gt;feat: 预算预测图表 + fix: /clear 后会话 lastActive 停留老 JSONL (v0.3.144)&lt;/li&gt;&lt;li&gt;fix: iOS NSE 清空 permission bug + Mac/iOS 双端去重一致 (v0.3.142)&lt;/li&gt;&lt;li&gt;fix: notify.sh truncate 顺序 bug + PostCompact strip (v0.3.141)&lt;/li&gt;&lt;li&gt;fix: Stop hook 推送 body 剥干净 summary/event/status 等系统标签 (v0.3.140)&lt;/li&gt;&lt;li&gt;fix: iCloud 冲突规避 + 孤儿副本清理 + 网络恢复补拉 + curl 超时 (v0.3.139)&lt;/li&gt;&lt;li&gt;fix: source lastStatus 真实反映可达性，不再配对后永挂 online (v0.3.135)&lt;/li&gt;&lt;li&gt;feat: 设备详情改用 .large sheet 绕开 iOS 26 pop 回搜索闪烁 bug (v0.3.134)&lt;/li&gt;&lt;li&gt;fix: 搜索栏 pop 闪烁调查 + 还原 .searchable 原生行为&lt;/li&gt;&lt;li&gt;fix: SSE 解析兼容 + sessionId 权威源统一 (v0.3.133)&lt;/li&gt;&lt;li&gt;fix: 详情页跳转/高亮 index 错位 + 可靠滚动 (v0.3.131)&lt;/li&gt;&lt;li&gt;fix: 详情页加载抖动 + 高亮缺失 + Markdown 样式 + 搜索栏背景闪烁 (v0.3.130)&lt;/li&gt;&lt;li&gt;fix: model 通知显示完整版本号 + CFBundleVersion 修正 (v0.3.129)&lt;/li&gt;&lt;li&gt;feat: 搜索详情分页 + Markdown 渲染 + 会话内搜索 + 扫码超时优化 (v0.3.128)&lt;/li&gt;&lt;li&gt;feat: RoleReconciler 自动主从纠错 + /role-ping 秒级同步 (v0.3.124)&lt;/li&gt;&lt;li&gt;fix: 设备协调 probe 超时放宽 + 推测判决文案澄清&lt;/li&gt;&lt;li&gt;fix: DeviceRegistryPublisher 至少每 6h 刷一次 heartbeat (v0.3.120)&lt;/li&gt;&lt;li&gt;feat: FetchCoordinator Phase 1 角色自动判决 + config.json 合并保留 (v0.3.119)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.163/ClaudeUsageMenuBar-0.3.163.dmg" sparkle:edSignature="UUzP04Z7M5NhPUNStBfhAW+iAxVRd7hE2bLdooq7EdEhleT7Cl+RaRTwbWs8p4lty0gnKtO5D/gM1xn33kd0DA==" length="4073391" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.160-beta.185+55a5952</title>
-      <guid isPermaLink="false">55a5952057650a1ffa238d65c517c6c84b571039</guid>
-      <sparkle:version>185</sparkle:version>
-      <sparkle:shortVersionString>0.3.160-beta.185+55a5952</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 18 Apr 2026 06:24:06 +0000</pubDate>
-      <description>&lt;h3&gt;Build 185 · 55a5952&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: deploy.sh build 号自动用 git commit count&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.160-beta.185+55a5952/ClaudeUsageMenuBar-0.3.160-beta.185+55a5952.dmg" sparkle:edSignature="m2LEn8xcuFuoiqonEcqNTURjwOL2cCqr91S9KAvTM9nEcqDy5WlYI18sdKPTs8zm97ReNRynbvZQRxzJpkTOAg==" length="4066389" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
