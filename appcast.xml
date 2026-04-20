@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.241-beta.239+fbd726e</title>
+      <title>Version 0.3.241</title>
       <guid isPermaLink="false">fbd726e41561bec7522d3d8dabc50105f0e8a3a0</guid>
       <sparkle:version>239</sparkle:version>
-      <sparkle:shortVersionString>0.3.241-beta.239+fbd726e</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.241</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 04:48:22 +0000</pubDate>
-      <description><![CDATA[<h3>Build 239 · fbd726e</h3><ul><li>feat: 多设备推送 — hook 通知转发到所有已注册 iOS 设备 (v0.3.241)</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.241-beta.239+fbd726e/ClaudeUsageMenuBar-0.3.241-beta.239+fbd726e.dmg" sparkle:edSignature="ry0tQW/UqZoVd5iQz6bjy71T0RCUZiOAzJD2i64stLuALhf1xZJRpRNRYGhdevDXWEUHBwPqI1iVXjn+HKl1BQ==" length="10041181" type="application/octet-stream" />
+      <pubDate>Mon, 20 Apr 2026 04:52:18 +0000</pubDate>
+      <description><![CDATA[<h3>Build 239 · fbd726e</h3><ul><li>feat: 多设备推送 — hook 通知转发到所有已注册 iOS 设备 (v0.3.241)</li><li>fix: standby Mac 周期性从 CK 拉主设备 usage，保持 remote-state 新鲜 (v0.3.240)</li><li>fix: CK per-record 错误日志 + Cost 回写 + push token 重拉 + deploy 改 Developer ID 签名 (v0.3.239)</li><li>ci: retry archive after clearing cache</li><li>ci: locate Sparkle from Xcode artifacts</li><li>ci: optimize release workflow runner</li><li>fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)</li><li>feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)</li><li>fix: use stable dark cards for iOS snapshots</li><li>chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)</li><li>fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)</li><li>fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)</li><li>fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败</li><li>feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)</li><li>feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)</li><li>chore: bump build 260 → 261 (TF v0.3.227)</li><li>fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)</li><li>chore: bump build 259 → 260 (TF v0.3.226)</li><li>fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)</li><li>chore: bump build 258 → 259 (TF v0.3.225)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.241/ClaudeUsageMenuBar-0.3.241.dmg" sparkle:edSignature="3idDePqWKY/X/G0/a1IyqlnhXN0j9OcxEjldUhh6Vf+KKU8d06MuN79q4aGb+Fs38OoMt5nLfea0KhBoKBWPAA==" length="10040733" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.240</title>
