@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.256-beta.1251+a2afd1a</title>
+      <guid isPermaLink="false">a2afd1a291c412b4a7c6c71ac51d883d9f9f3166</guid>
+      <sparkle:version>1251</sparkle:version>
+      <sparkle:shortVersionString>0.3.256-beta.1251+a2afd1a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 09:19:41 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1251 · a2afd1a</h3><ul><li>debug: push 日志改用 Logger API，NSLog 在 Release 被 unified log 过滤掉 (v0.3.256)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.256-beta.1251+a2afd1a/ClaudeUsageMenuBar-0.3.256-beta.1251+a2afd1a.dmg" sparkle:edSignature="m0ujyph0DGKtIAFYzw3+nbEPQThkxN+lpo1pHOZGwoqMp3twnW76LoGPKX2QNd+eB09/H/m8NvJbbSM//6XUAQ==" length="10062516" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.255-beta.1250+24da737</title>
       <guid isPermaLink="false">24da7373d6f4b5642677033831fa9167790d982f</guid>
       <sparkle:version>1250</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 09:10:49 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1250 · 24da737</h3><ul><li>debug: macOS silent push 日志加强 + registerForRemoteNotifications 多入口兜底 (v0.3.255)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1250 · 24da737&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;debug: macOS silent push 日志加强 + registerForRemoteNotifications 多入口兜底 (v0.3.255)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.255-beta.1250+24da737/ClaudeUsageMenuBar-0.3.255-beta.1250+24da737.dmg" sparkle:edSignature="wQBmY/XyYKhbw0acyIA0pJlyUF+Y8nINgkaiD7VQ5SELXKfRpZBnK0XfeQUSJfBw++5NVJMXVbCggsMC6CVLCg==" length="10063056" type="application/octet-stream" />
     </item>
     <item>
@@ -206,17 +217,6 @@
       <pubDate>Sun, 19 Apr 2026 18:15:00 +0000</pubDate>
       <description>&lt;h3&gt;Build 231 · 818d400&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: use stable dark cards for iOS snapshots&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.232-beta.231+818d400/ClaudeUsageMenuBar-0.3.232-beta.231+818d400.dmg" sparkle:edSignature="AjkuyKz07hBmCJO/6w4vAbcLbjdv44zeiWe/+OsY1lTs0l65+QrnAX0/Ur1x1PnjeJLhJZ7R1OG+XmK/Yq9KAQ==" length="9988617" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.231-beta.230+5c541e0</title>
-      <guid isPermaLink="false">5c541e05aa3ef981c2899d5565b6963d802bd20f</guid>
-      <sparkle:version>230</sparkle:version>
-      <sparkle:shortVersionString>0.3.231-beta.230+5c541e0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 18:10:04 +0000</pubDate>
-      <description>&lt;h3&gt;Build 230 · 5c541e0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.231-beta.230+5c541e0/ClaudeUsageMenuBar-0.3.231-beta.230+5c541e0.dmg" sparkle:edSignature="dg5HNERGraGmtiH4AiZlFhlXn5waeHabEpsKMBAdTeOHQmgGBVgSlUa2jStdsGvdqIwaGjBxyka33FkCaGroBA==" length="9988566" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
