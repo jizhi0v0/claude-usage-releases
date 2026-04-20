@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.254-beta.1249+4b12753</title>
+      <guid isPermaLink="false">4b12753b8623ba617d30d607d85bd9022161e508</guid>
+      <sparkle:version>1249</sparkle:version>
+      <sparkle:shortVersionString>0.3.254-beta.1249+4b12753</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 08:57:02 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1249 · 4b12753</h3><ul><li>fix: macOS aps-environment entitlement key 写错导致 silent push 无效 (v0.3.254)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.254-beta.1249+4b12753/ClaudeUsageMenuBar-0.3.254-beta.1249+4b12753.dmg" sparkle:edSignature="zahKm6hum/jlFr/Nwts/KiSR2iSnjudaDFydnbtoOz/S+hPDwCvsVr73VWeFYlwSZCcXUUHNMKwecv2s8cfsDA==" length="10060795" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.253-beta.1248+d74fada</title>
       <guid isPermaLink="false">d74fada72d40bdcf97a4236e4ca745961960ed23</guid>
       <sparkle:version>1248</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 08:47:58 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1248 · d74fada</h3><ul><li>fix: standby Mac 主/从徽章错乱 + CK silent push 秒级刷新 (v0.3.253)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1248 · d74fada&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: standby Mac 主/从徽章错乱 + CK silent push 秒级刷新 (v0.3.253)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.253-beta.1248+d74fada/ClaudeUsageMenuBar-0.3.253-beta.1248+d74fada.dmg" sparkle:edSignature="3wC+M2qp7sc972c46+Onlmvou9eEhdDsWPuC5Vy3HAnb7qRrcbz/WBviAQ8esodmQ9qsTZAn9u5AoQnLCfkxAw==" length="10061134" type="application/octet-stream" />
     </item>
     <item>
@@ -205,16 +216,6 @@
       <pubDate>Sun, 19 Apr 2026 18:06:35 +0000</pubDate>
       <description>&lt;h3&gt;Build 229 · 9091f35&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)&lt;/li&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;li&gt;fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败&lt;/li&gt;&lt;li&gt;feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)&lt;/li&gt;&lt;li&gt;feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)&lt;/li&gt;&lt;li&gt;chore: bump build 260 → 261 (TF v0.3.227)&lt;/li&gt;&lt;li&gt;fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)&lt;/li&gt;&lt;li&gt;chore: bump build 259 → 260 (TF v0.3.226)&lt;/li&gt;&lt;li&gt;fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)&lt;/li&gt;&lt;li&gt;chore: bump build 258 → 259 (TF v0.3.225)&lt;/li&gt;&lt;li&gt;feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)&lt;/li&gt;&lt;li&gt;chore: bump build 257 → 258 (TF v0.3.224)&lt;/li&gt;&lt;li&gt;fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)&lt;/li&gt;&lt;li&gt;chore: bump build 252 → 257 (TF v0.3.223)&lt;/li&gt;&lt;li&gt;fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)&lt;/li&gt;&lt;li&gt;chore: bump build 250 → 252 (TF v0.3.222)&lt;/li&gt;&lt;li&gt;feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)&lt;/li&gt;&lt;li&gt;feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)&lt;/li&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.231/ClaudeUsageMenuBar-0.3.231.dmg" sparkle:edSignature="UfzV9JCkGrMUJmbQNrP+66Tl6Cizs4FLvOW+H/NJzQpI0GCVaPLMTyLvUKd4oIFC8Ljr6Au4EUEZJ7MuPLdWDA==" length="9988607" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.230</title>
-      <guid isPermaLink="false">6b14804b17608256ab4d95499379e8ca778df645</guid>
-      <sparkle:version>228</sparkle:version>
-      <sparkle:shortVersionString>0.3.230</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 17:54:12 +0000</pubDate>
-      <description>&lt;h3&gt;Build 228 · 6b14804&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.230/ClaudeUsageMenuBar-0.3.230.dmg" sparkle:edSignature="xxZJf7lgYs1uhoHsgIwjDY83LZtPxiNum4H28rP8PVTEuWJc03cP0TdIepfjTNEszkXQWvwY1NbMga6XC6oJBQ==" length="9984061" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
