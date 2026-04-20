@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.234-beta.235+775161c</title>
+      <guid isPermaLink="false">775161c75d814842bbe237139c8476f60b958981</guid>
+      <sparkle:version>235</sparkle:version>
+      <sparkle:shortVersionString>0.3.234-beta.235+775161c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 03:42:13 +0000</pubDate>
+      <description><![CDATA[<h3>Build 235 · 775161c</h3><ul><li>ci: locate Sparkle from Xcode artifacts</li><li>ci: optimize release workflow runner</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234-beta.235+775161c/ClaudeUsageMenuBar-0.3.234-beta.235+775161c.dmg" sparkle:edSignature="AGM4FdE12cd1r+QKH2H+ci2LeL0ubwt4s7Mawr6iLeXhNjD7PJXx9exSqacCD+9OZbOCq4+mYBq9cOpb2B0rAw==" length="9997798" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.234</title>
       <guid isPermaLink="false">019d2ad11c7dbaa3eea0bd894dbc505b3cbc20e4</guid>
       <sparkle:version>233</sparkle:version>
       <sparkle:shortVersionString>0.3.234</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 19 Apr 2026 18:44:00 +0000</pubDate>
-      <description><![CDATA[<h3>Build 233 · 019d2ad</h3><ul><li>fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 233 · 019d2ad&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234/ClaudeUsageMenuBar-0.3.234.dmg" sparkle:edSignature="lLwe8uUFayHa53xo4rkKi+iQhAretnC94SYhnoFRzDpBzT866aKUlp+IiFr9X9FvJ4vJmkGrS3CXso0YXJzIAQ==" length="9997405" type="application/octet-stream" />
     </item>
     <item>
@@ -203,17 +214,6 @@
       <pubDate>Sun, 19 Apr 2026 08:51:57 +0000</pubDate>
       <description>&lt;h3&gt;Build 210 · 01f779f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.216/ClaudeUsageMenuBar-0.3.216.dmg" sparkle:edSignature="PgKALsvDDmU4PTuCXOwWSUPSpU2Ox7o+hcVL6MF1N/naWkKnqrDeBc/kn3bOx9zCCNWI8F0K3w4X6CEioRmqDw==" length="10042206" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.215-beta.209+c4b7250</title>
-      <guid isPermaLink="false">c4b72503ee0daab2446ea7b6b6aaaa2691dfdb50</guid>
-      <sparkle:version>209</sparkle:version>
-      <sparkle:shortVersionString>0.3.215-beta.209+c4b7250</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 08:24:38 +0000</pubDate>
-      <description>&lt;h3&gt;Build 209 · c4b7250&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.215-beta.209+c4b7250/ClaudeUsageMenuBar-0.3.215-beta.209+c4b7250.dmg" sparkle:edSignature="rzwL3Slqjj3+lfQ4xLezkK3lASI3BM2xUvAHWMTcdtbNYmi3Lm9FdEmSRfqGqEdef6kziETBIsn7SCQayDJABA==" length="10042199" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
