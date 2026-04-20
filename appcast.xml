@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.253-beta.1248+d74fada</title>
+      <guid isPermaLink="false">d74fada72d40bdcf97a4236e4ca745961960ed23</guid>
+      <sparkle:version>1248</sparkle:version>
+      <sparkle:shortVersionString>0.3.253-beta.1248+d74fada</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 08:47:58 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1248 · d74fada</h3><ul><li>fix: standby Mac 主/从徽章错乱 + CK silent push 秒级刷新 (v0.3.253)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.253-beta.1248+d74fada/ClaudeUsageMenuBar-0.3.253-beta.1248+d74fada.dmg" sparkle:edSignature="3wC+M2qp7sc972c46+Onlmvou9eEhdDsWPuC5Vy3HAnb7qRrcbz/WBviAQ8esodmQ9qsTZAn9u5AoQnLCfkxAw==" length="10061134" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.251-beta.1247+baeaaab</title>
       <guid isPermaLink="false">baeaaab4a9546da21040b2599ff1c13b3961a74f</guid>
       <sparkle:version>1247</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 08:04:29 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1247 · baeaaab</h3><ul><li>fix: Daily tab 闪烁——onAppear 只 fetch 一次，空结果不覆盖 (v0.3.251)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1247 · baeaaab&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Daily tab 闪烁——onAppear 只 fetch 一次，空结果不覆盖 (v0.3.251)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.251-beta.1247+baeaaab/ClaudeUsageMenuBar-0.3.251-beta.1247+baeaaab.dmg" sparkle:edSignature="7EjO+AuuCJAIa5QqPshYnsjwJPPNLThZkAf6B6im0rXWoAJUolrLC/vAQ2vGaqBWRNBchUq6ZxUWczdcEPq+AQ==" length="10048892" type="application/octet-stream" />
     </item>
     <item>
@@ -204,17 +215,6 @@
       <pubDate>Sun, 19 Apr 2026 17:54:12 +0000</pubDate>
       <description>&lt;h3&gt;Build 228 · 6b14804&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.230/ClaudeUsageMenuBar-0.3.230.dmg" sparkle:edSignature="xxZJf7lgYs1uhoHsgIwjDY83LZtPxiNum4H28rP8PVTEuWJc03cP0TdIepfjTNEszkXQWvwY1NbMga6XC6oJBQ==" length="9984061" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.229-beta.227+ad31e9c</title>
-      <guid isPermaLink="false">ad31e9c75a6e0d16f2cb6d3c0f36545c1943d660</guid>
-      <sparkle:version>227</sparkle:version>
-      <sparkle:shortVersionString>0.3.229-beta.227+ad31e9c</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 17:45:54 +0000</pubDate>
-      <description>&lt;h3&gt;Build 227 · ad31e9c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败&lt;/li&gt;&lt;li&gt;feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.229-beta.227+ad31e9c/ClaudeUsageMenuBar-0.3.229-beta.227+ad31e9c.dmg" sparkle:edSignature="h+crtc9uhOIm83MkSNFhILaU5GCbLFjbpgn61VL6r9mfUv+DoYfXATR+/aM6joyVhhk1SJ2URFAUDMPgFopmCw==" length="9984087" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
