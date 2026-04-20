@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.258-beta.1253+ac0860b</title>
+      <guid isPermaLink="false">ac0860b20171edbb5aa79cdc589efb4ba683bc65</guid>
+      <sparkle:version>1253</sparkle:version>
+      <sparkle:shortVersionString>0.3.258-beta.1253+ac0860b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 09:43:10 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1253 · ac0860b</h3><ul><li>feat: Mac→Mac direct APNs silent push，绕开 CK silent push 5-10s 延迟 (v0.3.258)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.258-beta.1253+ac0860b/ClaudeUsageMenuBar-0.3.258-beta.1253+ac0860b.dmg" sparkle:edSignature="/wegV6cd/MDrILPYN5zpy1LXjqGPjjisjRsjnBBSPyDCsjIiOrGrlLavoV0h8wHPaY8WV3F9uRXSbKGtsR4sBg==" length="10109577" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.257-beta.1252+47adc88</title>
       <guid isPermaLink="false">47adc889f08d359e770e4e7c5b2bd01cd1b8dd61</guid>
       <sparkle:version>1252</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 09:27:08 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1252 · 47adc88</h3><ul><li>chore: 精简 silent push 调试日志 + 去掉冗余 register 入口 (v0.3.257)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1252 · 47adc88&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 精简 silent push 调试日志 + 去掉冗余 register 入口 (v0.3.257)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.257-beta.1252+47adc88/ClaudeUsageMenuBar-0.3.257-beta.1252+47adc88.dmg" sparkle:edSignature="LS8jmePciAqVS/PmOrj9GHogOI/+D4MEZ78X6ttxPyPJXvVgWXuwAXpCHO4faerzv887boDfwNVT3D77yyJ7CQ==" length="10061349" type="application/octet-stream" />
     </item>
     <item>
@@ -207,16 +218,6 @@
       <pubDate>Sun, 19 Apr 2026 18:44:00 +0000</pubDate>
       <description>&lt;h3&gt;Build 233 · 019d2ad&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234/ClaudeUsageMenuBar-0.3.234.dmg" sparkle:edSignature="lLwe8uUFayHa53xo4rkKi+iQhAretnC94SYhnoFRzDpBzT866aKUlp+IiFr9X9FvJ4vJmkGrS3CXso0YXJzIAQ==" length="9997405" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.233</title>
-      <guid isPermaLink="false">0a2d4ac63e2a00f1139c19adcd8b3ff5031af393</guid>
-      <sparkle:version>232</sparkle:version>
-      <sparkle:shortVersionString>0.3.233</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 18:31:15 +0000</pubDate>
-      <description>&lt;h3&gt;Build 232 · 0a2d4ac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.233/ClaudeUsageMenuBar-0.3.233.dmg" sparkle:edSignature="xS08UUP2QGr/UAgcxHG/AcDlyp1bDxeLTOLxjoNj8MOIGEEnYfy39ZRPO+xRAX3o98DF3F3wSoYgA4dHsGPnDA==" length="9992171" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
