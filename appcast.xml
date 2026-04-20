@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.246-beta.240+f22485a</title>
+      <guid isPermaLink="false">f22485a729687a3abdc8fdaa65529eed5997fb4b</guid>
+      <sparkle:version>240</sparkle:version>
+      <sparkle:shortVersionString>0.3.246-beta.240+f22485a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 05:46:20 +0000</pubDate>
+      <description><![CDATA[<h3>Build 240 · f22485a</h3><ul><li>feat: 多设备 push token + CK cache partial-fetch 合并 (v0.3.246)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.246-beta.240+f22485a/ClaudeUsageMenuBar-0.3.246-beta.240+f22485a.dmg" sparkle:edSignature="y7eg2b5K5yW5QYSMgsvyLLRSwID0DDnxss2z7aWk3XFA1DoNvxLj1s3xPXsE1ZsUCdVuODey62EAN44aKVSjCA==" length="10049093" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.241</title>
       <guid isPermaLink="false">fbd726e41561bec7522d3d8dabc50105f0e8a3a0</guid>
       <sparkle:version>239</sparkle:version>
       <sparkle:shortVersionString>0.3.241</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Mon, 20 Apr 2026 04:52:18 +0000</pubDate>
-      <description><![CDATA[<h3>Build 239 · fbd726e</h3><ul><li>feat: 多设备推送 — hook 通知转发到所有已注册 iOS 设备 (v0.3.241)</li><li>fix: standby Mac 周期性从 CK 拉主设备 usage，保持 remote-state 新鲜 (v0.3.240)</li><li>fix: CK per-record 错误日志 + Cost 回写 + push token 重拉 + deploy 改 Developer ID 签名 (v0.3.239)</li><li>ci: retry archive after clearing cache</li><li>ci: locate Sparkle from Xcode artifacts</li><li>ci: optimize release workflow runner</li><li>fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)</li><li>feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)</li><li>fix: use stable dark cards for iOS snapshots</li><li>chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)</li><li>fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)</li><li>fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)</li><li>fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败</li><li>feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)</li><li>feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)</li><li>chore: bump build 260 → 261 (TF v0.3.227)</li><li>fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)</li><li>chore: bump build 259 → 260 (TF v0.3.226)</li><li>fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)</li><li>chore: bump build 258 → 259 (TF v0.3.225)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 239 · fbd726e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 多设备推送 — hook 通知转发到所有已注册 iOS 设备 (v0.3.241)&lt;/li&gt;&lt;li&gt;fix: standby Mac 周期性从 CK 拉主设备 usage，保持 remote-state 新鲜 (v0.3.240)&lt;/li&gt;&lt;li&gt;fix: CK per-record 错误日志 + Cost 回写 + push token 重拉 + deploy 改 Developer ID 签名 (v0.3.239)&lt;/li&gt;&lt;li&gt;ci: retry archive after clearing cache&lt;/li&gt;&lt;li&gt;ci: locate Sparkle from Xcode artifacts&lt;/li&gt;&lt;li&gt;ci: optimize release workflow runner&lt;/li&gt;&lt;li&gt;fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)&lt;/li&gt;&lt;li&gt;feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)&lt;/li&gt;&lt;li&gt;fix: use stable dark cards for iOS snapshots&lt;/li&gt;&lt;li&gt;chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)&lt;/li&gt;&lt;li&gt;fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)&lt;/li&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;li&gt;fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败&lt;/li&gt;&lt;li&gt;feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)&lt;/li&gt;&lt;li&gt;feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)&lt;/li&gt;&lt;li&gt;chore: bump build 260 → 261 (TF v0.3.227)&lt;/li&gt;&lt;li&gt;fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)&lt;/li&gt;&lt;li&gt;chore: bump build 259 → 260 (TF v0.3.226)&lt;/li&gt;&lt;li&gt;fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)&lt;/li&gt;&lt;li&gt;chore: bump build 258 → 259 (TF v0.3.225)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.241/ClaudeUsageMenuBar-0.3.241.dmg" sparkle:edSignature="3idDePqWKY/X/G0/a1IyqlnhXN0j9OcxEjldUhh6Vf+KKU8d06MuN79q4aGb+Fs38OoMt5nLfea0KhBoKBWPAA==" length="10040733" type="application/octet-stream" />
     </item>
     <item>
@@ -203,16 +214,6 @@
       <pubDate>Sun, 19 Apr 2026 15:40:47 +0000</pubDate>
       <description>&lt;h3&gt;Build 219 · 35a907b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)&lt;/li&gt;&lt;li&gt;chore: bump build 257 → 258 (TF v0.3.224)&lt;/li&gt;&lt;li&gt;fix: iOS 首次启动永远 loading — bootstrap 挂起无超时 (v0.3.224)&lt;/li&gt;&lt;li&gt;chore: bump build 252 → 257 (TF v0.3.223)&lt;/li&gt;&lt;li&gt;fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)&lt;/li&gt;&lt;li&gt;chore: bump build 250 → 252 (TF v0.3.222)&lt;/li&gt;&lt;li&gt;feat: CloudKit 全面替代 iCloud Drive + 代码清理 (v0.3.222)&lt;/li&gt;&lt;li&gt;feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)&lt;/li&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;li&gt;feat: CK fetch 进度指示灯 + 角标 (v0.3.216)&lt;/li&gt;&lt;li&gt;chore: bump build 242 → 243 (TF v0.3.215 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Daily/Weekly/Heatmap 首帧空状态闪烁 — gate 在 loaded 后 (v0.3.215)&lt;/li&gt;&lt;li&gt;chore: bump build 241 → 242 (TF v0.3.214 实际 upload build)&lt;/li&gt;&lt;li&gt;fix: Insights/Daily 卡 loading — reload 不再 await CK fetchChanges (v0.3.214)&lt;/li&gt;&lt;li&gt;chore: bump build 240 → 241 (TF v0.3.213 实际 upload build)&lt;/li&gt;&lt;li&gt;chore: 修 TF build 号倒退导致新 beta 看不见 (v0.3.213 build 240)&lt;/li&gt;&lt;li&gt;fix: Weekly tab 永远空 — reload/reloadHourly epoch 拆分 (v0.3.212)&lt;/li&gt;&lt;li&gt;fix: 设备 picker 切换无响应 + 冷启动空态闪烁 (v0.3.211)&lt;/li&gt;&lt;li&gt;feat: Analytics 设备 picker + 多项稳定性修复 (v0.3.210)&lt;/li&gt;&lt;li&gt;feat: Search 图片支持 + Daily chart 稀疏数据修复 (v0.3.203)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.225/ClaudeUsageMenuBar-0.3.225.dmg" sparkle:edSignature="5NZfDecsYR2BsZUrCE//meTEp08Go6f3t/xPlQsFGjvVmYX8HRTmFC6g3AYoa5ob/txeNHtQyKaHiiVlrfUAAA==" length="9955316" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.223</title>
-      <guid isPermaLink="false">5c3f9be450f6e5d7349f81214d683a0b2d10b086</guid>
-      <sparkle:version>215</sparkle:version>
-      <sparkle:shortVersionString>0.3.223</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 19 Apr 2026 15:08:39 +0000</pubDate>
-      <description>&lt;h3&gt;Build 215 · 5c3f9be&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 新设备首次启动 CloudKit bootstrap 失败时永远显示 loading (v0.3.223)&lt;/li&gt;&lt;li&gt;chore: bump build 250 → 252 (TF v0.3.222)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.223/ClaudeUsageMenuBar-0.3.223.dmg" sparkle:edSignature="O4JXjUXQ4a9FQdA0GcNWJX7fu8uGtNullXX+jknmIJ13Jlr8kgP08DIUC3f2TNKZbzmxi+h7M3h8WjRYVG38CQ==" length="9948045" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
