@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.239-beta.237+17c70b1</title>
+      <guid isPermaLink="false">17c70b1e0c2d31268481e40df006900460f56dff</guid>
+      <sparkle:version>237</sparkle:version>
+      <sparkle:shortVersionString>0.3.239-beta.237+17c70b1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 04:14:19 +0000</pubDate>
+      <description><![CDATA[<h3>Build 237 · 17c70b1</h3><ul><li>fix: CK per-record 错误日志 + Cost 回写 + push token 重拉 + deploy 改 Developer ID 签名 (v0.3.239)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.239-beta.237+17c70b1/ClaudeUsageMenuBar-0.3.239-beta.237+17c70b1.dmg" sparkle:edSignature="aMimi+MvGWVtssKyDRtEwpiJHO7o5Dkd0L0BX5TRzh14dDN8VtyaSB6fxCqT1pPnBMGPVMe+aTi0Rb3XQ9+GCw==" length="10006029" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.234-beta.236+ee5720e</title>
       <guid isPermaLink="false">ee5720e7f8e5aa924da093149390174c733bfc76</guid>
       <sparkle:version>236</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 03:57:51 +0000</pubDate>
-      <description><![CDATA[<h3>Build 236 · ee5720e</h3><ul><li>ci: retry archive after clearing cache</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 236 · ee5720e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: retry archive after clearing cache&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234-beta.236+ee5720e/ClaudeUsageMenuBar-0.3.234-beta.236+ee5720e.dmg" sparkle:edSignature="t7bJY9snHl+e2L9JHfwIFw9jy5aVefvk/j/xRv/36NUylFxyoUGeIW2yqO6q/Ao0vxPlS9k0KEgYDFNyHeF+CA==" length="9997356" type="application/octet-stream" />
     </item>
     <item>
@@ -204,17 +215,6 @@
       <pubDate>Sun, 19 Apr 2026 13:12:10 +0000</pubDate>
       <description>&lt;h3&gt;Build 212 · fcc9e88&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Usage data 改用 CloudKit 同步，替代不可靠的 iCloud Drive 文件传播 (v0.3.219)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.219-beta.212+fcc9e88/ClaudeUsageMenuBar-0.3.219-beta.212+fcc9e88.dmg" sparkle:edSignature="uq8X9cstNM0qkYL6YJPkmS5O/qp/rFO2CEd3axS0Y55FI5a0YCeuTjUdeIb2dwrJJjpOZsODr7kOb46vF3Y3BA==" length="10049942" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.218-beta.211+ebfe5d2</title>
-      <guid isPermaLink="false">ebfe5d214228d75ae451ea14855e282903de3eb4</guid>
-      <sparkle:version>211</sparkle:version>
-      <sparkle:shortVersionString>0.3.218-beta.211+ebfe5d2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 19 Apr 2026 12:38:34 +0000</pubDate>
-      <description>&lt;h3&gt;Build 211 · ebfe5d2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Session transcript 改用 WKWebView + 滚动定位修复 (v0.3.218)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.218-beta.211+ebfe5d2/ClaudeUsageMenuBar-0.3.218-beta.211+ebfe5d2.dmg" sparkle:edSignature="zAaUusdDy7kNYJ96B22t+KQKfKLupCcaTNgQxC+yW9boaGIbRQJ+KXwbQgJEtGNtBdW2hC3J+I2oqsaZPrCqDg==" length="10042173" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
