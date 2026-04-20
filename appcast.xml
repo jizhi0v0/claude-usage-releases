@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.260-beta.1257+9390d48</title>
+      <guid isPermaLink="false">9390d489bfda1a24084c1153e853d597f3372069</guid>
+      <sparkle:version>1257</sparkle:version>
+      <sparkle:shortVersionString>0.3.260-beta.1257+9390d48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 20 Apr 2026 14:07:37 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1257 · 9390d48</h3><ul><li>fix: SessionJournal 设备过滤也 lowercase，修复 CostPatcher merge 后 $0 (v0.3.260)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.260-beta.1257+9390d48/ClaudeUsageMenuBar-0.3.260-beta.1257+9390d48.dmg" sparkle:edSignature="+Z66Y5yfHfb9zf5SSRuKfMFPv3G21LyTPCdIqZgoHujUVAxabGVBlNEHBz8RTJXXbutzxMuK8hrRMBChw/kZCg==" length="10099575" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.260-beta.1256+4ac4422</title>
       <guid isPermaLink="false">4ac4422f4c9c89ae5eb9d261cd5b596453b18cfb</guid>
       <sparkle:version>1256</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 20 Apr 2026 13:47:05 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1256 · 4ac4422</h3><ul><li>fix: 设备名统一 lowercase，合并历史大小写变体 (v0.3.260)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1256 · 4ac4422&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备名统一 lowercase，合并历史大小写变体 (v0.3.260)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.260-beta.1256+4ac4422/ClaudeUsageMenuBar-0.3.260-beta.1256+4ac4422.dmg" sparkle:edSignature="h6UVOgAedAgtceouXJKjlw+dx7JUyqCJDcapO5XA4i8WLzeA56Z8plxrFIs3WRddNGvTpFniDlTyOKHY0c/JBg==" length="10099255" type="application/octet-stream" />
     </item>
     <item>
@@ -208,17 +219,6 @@
       <pubDate>Mon, 20 Apr 2026 04:19:01 +0000</pubDate>
       <description>&lt;h3&gt;Build 237 · 17c70b1&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CK per-record 错误日志 + Cost 回写 + push token 重拉 + deploy 改 Developer ID 签名 (v0.3.239)&lt;/li&gt;&lt;li&gt;ci: retry archive after clearing cache&lt;/li&gt;&lt;li&gt;ci: locate Sparkle from Xcode artifacts&lt;/li&gt;&lt;li&gt;ci: optimize release workflow runner&lt;/li&gt;&lt;li&gt;fix: bootstrap 时直接拉 CK usage-latest + 分析摘要缺失时不再死转圈 (v0.3.234)&lt;/li&gt;&lt;li&gt;feat: CK usage 回写本地 usage.json + FSEvents 监听秒级刷新 (v0.3.233)&lt;/li&gt;&lt;li&gt;fix: use stable dark cards for iOS snapshots&lt;/li&gt;&lt;li&gt;chore: bump CFBundleVersion 229 → 272 for TF upload (v0.3.231)&lt;/li&gt;&lt;li&gt;fix: CK usage 上传加 data/新鲜度 guard + launchd 脚本尊重 remote-state.json (v0.3.231)&lt;/li&gt;&lt;li&gt;fix: envelope.data=nil 时 iOS 不再黑屏，显示 token 过期 / API 错误提示 (v0.3.230)&lt;/li&gt;&lt;li&gt;fix: CI clear-cache step 容忍 Xcode indexing 锁文件导致的 rm 失败&lt;/li&gt;&lt;li&gt;feat: 分析摘要增加按设备拆分数据，恢复 device picker (v0.3.229)&lt;/li&gt;&lt;li&gt;feat: Analytics 改用 Mac 预计算 + CloudKit 摘要，iOS 不再全量拉取 Turn 记录 (v0.3.228)&lt;/li&gt;&lt;li&gt;chore: bump build 260 → 261 (TF v0.3.227)&lt;/li&gt;&lt;li&gt;fix: usage 刷新不再被 fetchChanges 全量拉取阻塞 (v0.3.227)&lt;/li&gt;&lt;li&gt;chore: bump build 259 → 260 (TF v0.3.226)&lt;/li&gt;&lt;li&gt;fix: Retry 按钮修复 + 网络权限弹窗后自动重试 (v0.3.226)&lt;/li&gt;&lt;li&gt;chore: bump build 258 → 259 (TF v0.3.225)&lt;/li&gt;&lt;li&gt;feat: iOS 首次启动先拉 usage snapshot，首页秒显 (v0.3.225)&lt;/li&gt;&lt;li&gt;chore: bump build 257 → 258 (TF v0.3.224)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.239/ClaudeUsageMenuBar-0.3.239.dmg" sparkle:edSignature="apswW6vcOP//8QQjMnvhzHgCREHy1bpnR/vaW+IA0e+EdpM4U5aEoUaJi/yuCEfin7+e5953xxGORLY06zcrCg==" length="10006488" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.234-beta.236+ee5720e</title>
-      <guid isPermaLink="false">ee5720e7f8e5aa924da093149390174c733bfc76</guid>
-      <sparkle:version>236</sparkle:version>
-      <sparkle:shortVersionString>0.3.234-beta.236+ee5720e</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 03:57:51 +0000</pubDate>
-      <description>&lt;h3&gt;Build 236 · ee5720e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: retry archive after clearing cache&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.234-beta.236+ee5720e/ClaudeUsageMenuBar-0.3.234-beta.236+ee5720e.dmg" sparkle:edSignature="t7bJY9snHl+e2L9JHfwIFw9jy5aVefvk/j/xRv/36NUylFxyoUGeIW2yqO6q/Ao0vxPlS9k0KEgYDFNyHeF+CA==" length="9997356" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
