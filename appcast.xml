@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.268-beta.1266+7ca7cd5</title>
+      <guid isPermaLink="false">7ca7cd56e36ad29db00ff9a2467f6a0bf9422553</guid>
+      <sparkle:version>1266</sparkle:version>
+      <sparkle:shortVersionString>0.3.268-beta.1266+7ca7cd5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 03:10:47 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1266 · 7ca7cd5</h3><ul><li>fix: insight 金额符号统一为 $（如 $0.093/turn），去掉 ¢ (v0.3.268)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.268-beta.1266+7ca7cd5/ClaudeUsageMenuBar-0.3.268-beta.1266+7ca7cd5.dmg" sparkle:edSignature="QJGhxWeu0EM7SY/b/ufu03voUwPuV3au0hIBfCGVYOXyA7HFuxwzrtMY3TajqY9FVTHGGiAcOfgNny3Q4BtbAQ==" length="10124273" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.267-beta.1265+a35f06e</title>
       <guid isPermaLink="false">a35f06eb6d64aa7268d6c2bb34c72c6883c06f7f</guid>
       <sparkle:version>1265</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 03:07:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1265 · a35f06e</h3><ul><li>feat: CC 版本最佳组合 insight 增加对比列表，展示其余版本 cost/turn 排名 (v0.3.267)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1265 · a35f06e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本最佳组合 insight 增加对比列表，展示其余版本 cost/turn 排名 (v0.3.267)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.267-beta.1265+a35f06e/ClaudeUsageMenuBar-0.3.267-beta.1265+a35f06e.dmg" sparkle:edSignature="4xbU51wgzVJ93xkGlQxviRN0KGg6DfJM9/4JfSKOS53aQhuz3yPJ9SUw5g4mdWYDgV6ehq9UqaQEgv/b1RK+AQ==" length="10125502" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 07:52:18 +0000</pubDate>
       <description>&lt;h3&gt;Build 1246 · b3242b3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: AnalyticsSummary 恢复 deviceName 字段 (v0.3.250)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.250-beta.1246+b3242b3/ClaudeUsageMenuBar-0.3.250-beta.1246+b3242b3.dmg" sparkle:edSignature="Mb889Y62cOCJ/8cnGfBYix7TUdO4LWFU9FXgsLUYFB59R6Nsyl/pgDaExOxdhT3Y+cUYmASx3Mq0JgxD1TU5Bw==" length="10048867" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.249-beta.1245+96e3b09</title>
-      <guid isPermaLink="false">96e3b090b64050800dbad2e1beb58035beb1db4c</guid>
-      <sparkle:version>1245</sparkle:version>
-      <sparkle:shortVersionString>0.3.249-beta.1245+96e3b09</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 07:43:47 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1245 · 96e3b09&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: AnalyticsSummary 不再写 deviceName 字段，用 recordName 编码设备 (v0.3.249)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.249-beta.1245+96e3b09/ClaudeUsageMenuBar-0.3.249-beta.1245+96e3b09.dmg" sparkle:edSignature="0wo1mq/BywlWirvD+Tq8jWgQ6mzNxM/60f1iLHLnUPjLqgrlz2+yA1sw0JS/+qf1wQ8gZKOip6Xr6JEqndcPAw==" length="10048970" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
