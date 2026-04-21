@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.273-beta.1271+e823934</title>
+      <guid isPermaLink="false">e82393443aea82c7f2212d53df2e92efbce7e23d</guid>
+      <sparkle:version>1271</sparkle:version>
+      <sparkle:shortVersionString>0.3.273-beta.1271+e823934</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 04:06:10 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1271 · e823934</h3><ul><li>feat: macOS Analytics 统一从 CloudKit 读取，三端数据一致 (v0.3.273)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1271+e823934/ClaudeUsageMenuBar-0.3.273-beta.1271+e823934.dmg" sparkle:edSignature="PHU7JhqV2yRHR7DAwYxgwwLREPyx+TQo5ijaAnvej1QiVDdrsAta+tLux8jdjd1YqVlLfIQcZCgLc2j4oyjXBw==" length="10154106" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.271-beta.1270+52c38b3</title>
       <guid isPermaLink="false">52c38b31236600e0263bd65a393fa8c2837f14df</guid>
       <sparkle:version>1270</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 03:48:17 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1270 · 52c38b3</h3><ul><li>feat: CC 版本效率 insight 展示具体模型版本（如 opus4.6 vs opus4.7）(v0.3.271)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1270 · 52c38b3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本效率 insight 展示具体模型版本（如 opus4.6 vs opus4.7）(v0.3.271)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.271-beta.1270+52c38b3/ClaudeUsageMenuBar-0.3.271-beta.1270+52c38b3.dmg" sparkle:edSignature="KzDx5LuCxwc/ZiHNxiL6fJg5LnCCjIGCeeqVNUBs/ob4UJ3c/BZisa+QZ0jXWpkBAhlJ6knlkgj+FfIdQnxYDw==" length="10130170" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 09:10:49 +0000</pubDate>
       <description>&lt;h3&gt;Build 1250 · 24da737&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;debug: macOS silent push 日志加强 + registerForRemoteNotifications 多入口兜底 (v0.3.255)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.255-beta.1250+24da737/ClaudeUsageMenuBar-0.3.255-beta.1250+24da737.dmg" sparkle:edSignature="wQBmY/XyYKhbw0acyIA0pJlyUF+Y8nINgkaiD7VQ5SELXKfRpZBnK0XfeQUSJfBw++5NVJMXVbCggsMC6CVLCg==" length="10063056" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.254-beta.1249+4b12753</title>
-      <guid isPermaLink="false">4b12753b8623ba617d30d607d85bd9022161e508</guid>
-      <sparkle:version>1249</sparkle:version>
-      <sparkle:shortVersionString>0.3.254-beta.1249+4b12753</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 08:57:02 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1249 · 4b12753&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: macOS aps-environment entitlement key 写错导致 silent push 无效 (v0.3.254)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.254-beta.1249+4b12753/ClaudeUsageMenuBar-0.3.254-beta.1249+4b12753.dmg" sparkle:edSignature="zahKm6hum/jlFr/Nwts/KiSR2iSnjudaDFydnbtoOz/S+hPDwCvsVr73VWeFYlwSZCcXUUHNMKwecv2s8cfsDA==" length="10060795" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
