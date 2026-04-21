@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.279-beta.1292+ff189a6</title>
+      <guid isPermaLink="false">ff189a6edc083f7bbd8c58b20e1a5315380c67c0</guid>
+      <sparkle:version>1292</sparkle:version>
+      <sparkle:shortVersionString>0.3.279-beta.1292+ff189a6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 11:57:58 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1292 · ff189a6</h3><ul><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1292+ff189a6/ClaudeUsageMenuBar-0.3.279-beta.1292+ff189a6.dmg" sparkle:edSignature="rI8/Jy7mzgXzJqsYTgYBRVsQqL3x6rDSqkMgmkL4j5mXLsGG01XLbNKAtRdl8+k67tcxGD2W14ISkixT7/oUCQ==" length="10303863" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.279-beta.1291+251b954</title>
       <guid isPermaLink="false">251b954e6c723322f8eb03d42c1215a69e9a8e94</guid>
       <sparkle:version>1291</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 11:35:17 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1291 · 251b954</h3><ul><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1291 · 251b954&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1291+251b954/ClaudeUsageMenuBar-0.3.279-beta.1291+251b954.dmg" sparkle:edSignature="bZaMW/uo/DxgKJTY7bnTIHhLwf9KmN4e0RuBF0BDdw6bcFzjKeejxznOI9aGHArInvb2PCm3LOj6xoSykrLOCg==" length="10305628" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 04:39:04 +0000</pubDate>
       <description>&lt;h3&gt;Build 1272 · 3fac7f9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本排名改用 cost/kTok（产出效率）替代 cost/turn，3 位小数精度 (v0.3.272)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1272+3fac7f9/ClaudeUsageMenuBar-0.3.273-beta.1272+3fac7f9.dmg" sparkle:edSignature="CMSeXJnthp7zbdV5njEBgIOIB9i74HE8BXlH/HYXguBKgASaG/Fha4eaT97RpEYXtmK93tVMjTAJ13PF61kWDg==" length="10151090" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1271+e823934</title>
-      <guid isPermaLink="false">e82393443aea82c7f2212d53df2e92efbce7e23d</guid>
-      <sparkle:version>1271</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1271+e823934</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 04:06:10 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1271 · e823934&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: macOS Analytics 统一从 CloudKit 读取，三端数据一致 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1271+e823934/ClaudeUsageMenuBar-0.3.273-beta.1271+e823934.dmg" sparkle:edSignature="PHU7JhqV2yRHR7DAwYxgwwLREPyx+TQo5ijaAnvej1QiVDdrsAta+tLux8jdjd1YqVlLfIQcZCgLc2j4oyjXBw==" length="10154106" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
