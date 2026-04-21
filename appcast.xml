@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.279-beta.1290+76429f7</title>
+      <guid isPermaLink="false">76429f705f464cf080516323600237bdc3e06be2</guid>
+      <sparkle:version>1290</sparkle:version>
+      <sparkle:shortVersionString>0.3.279-beta.1290+76429f7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 11:25:40 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1290 · 76429f7</h3><ul><li>fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1290+76429f7/ClaudeUsageMenuBar-0.3.279-beta.1290+76429f7.dmg" sparkle:edSignature="7QEKwvpIBLSinGipb6jpd48v9pZJRqb/nhqmvJueP3vcmpS4g2seHFg8GrHIto4SGrRFpYV5ik00O+o+rzyeCQ==" length="10305868" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.279-beta.1289+c6ad899</title>
       <guid isPermaLink="false">c6ad8990bdbe5fd551b61f2fb18bf12b87b23c02</guid>
       <sparkle:version>1289</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 10:02:21 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1289 · c6ad899</h3><ul><li>feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查</li><li>fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1289 · c6ad899&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1289+c6ad899/ClaudeUsageMenuBar-0.3.279-beta.1289+c6ad899.dmg" sparkle:edSignature="zcBh22aN6iHpda9ThrX19CGjwz21MDighn2E58EuqaqO1lrmLFjXB8P10NXKGhGI7HEkV6sgBH6syAtL/xMoBQ==" length="10256120" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 03:48:17 +0000</pubDate>
       <description>&lt;h3&gt;Build 1270 · 52c38b3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本效率 insight 展示具体模型版本（如 opus4.6 vs opus4.7）(v0.3.271)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.271-beta.1270+52c38b3/ClaudeUsageMenuBar-0.3.271-beta.1270+52c38b3.dmg" sparkle:edSignature="KzDx5LuCxwc/ZiHNxiL6fJg5LnCCjIGCeeqVNUBs/ob4UJ3c/BZisa+QZ0jXWpkBAhlJ6knlkgj+FfIdQnxYDw==" length="10130170" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.270-beta.1269+e45e8ce</title>
-      <guid isPermaLink="false">e45e8ce8db0b995c9ffe75c9cac615ecfacdeeb8</guid>
-      <sparkle:version>1269</sparkle:version>
-      <sparkle:shortVersionString>0.3.270-beta.1269+e45e8ce</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 03:23:24 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1269 · e45e8ce&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本排名增加 avg output tok/turn 指标，便于判断输出冗余度 (v0.3.270)&lt;/li&gt;&lt;li&gt;feat: Sparkle 更新后自动打开设置窗口并再次检查更新&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.270-beta.1269+e45e8ce/ClaudeUsageMenuBar-0.3.270-beta.1269+e45e8ce.dmg" sparkle:edSignature="dtNZBKSP5egdQGfcvsMnixG0yKgewoNDenOu84kfdBgk9mYYreFl90OjtUJExCjVtLuU3Bs2Y20SPK7CoMQlDg==" length="10131138" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
