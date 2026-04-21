@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.275-beta.1282+d4198c3</title>
+      <guid isPermaLink="false">d4198c31772e8fde6beceda7921c2ce0c087c0f1</guid>
+      <sparkle:version>1282</sparkle:version>
+      <sparkle:shortVersionString>0.3.275-beta.1282+d4198c3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 07:52:15 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1282 · d4198c3</h3><ul><li>feat: 7-day window 利用率阈值告警（80%/95%），macOS + iOS 推送 (v0.3.275)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.275-beta.1282+d4198c3/ClaudeUsageMenuBar-0.3.275-beta.1282+d4198c3.dmg" sparkle:edSignature="lmanTLD/QEKh7gAbbj2qgbFF6DNPmMBtzb5VSnI1uDehHTQnWNTlIz5IMORCR01ynqLuJCaLf1R1hAJO0RNRBw==" length="10232258" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.274-beta.1281+6ae125a</title>
       <guid isPermaLink="false">6ae125a92f08cd5761925b2b5f8649e022fb8fdb</guid>
       <sparkle:version>1281</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 07:48:22 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1281 · 6ae125a</h3><ul><li>fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1281 · 6ae125a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.274-beta.1281+6ae125a/ClaudeUsageMenuBar-0.3.274-beta.1281+6ae125a.dmg" sparkle:edSignature="3xlfB/EgH0XihpjVrVJHqfNL5NhNzmuJ5z/KitOr689/gFpubrDGa8yRwdve22PNtYqcDek85T+yv66a/Vz4BQ==" length="10226688" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 02:44:34 +0000</pubDate>
       <description>&lt;h3&gt;Build 1262 · cd0fec6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: macOS AnalyticsView 补齐 4 条新 Insight（cost/turn 趋势、output 膨胀、cache 命中率、CC 版本效率对比）(v0.3.264)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.264-beta.1262+cd0fec6/ClaudeUsageMenuBar-0.3.264-beta.1262+cd0fec6.dmg" sparkle:edSignature="V4ycxGhUDnWUnMj7MJy1EhuefPT6mKPs53RvaACHCKcxOut0fsXyrUmtBZjugkqf1s5yaeaQCQWU30SGJCOaDg==" length="10118929" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.263-beta.1261+44f9b4b</title>
-      <guid isPermaLink="false">44f9b4b052d230f9034170c3e2df889910cc26e5</guid>
-      <sparkle:version>1261</sparkle:version>
-      <sparkle:shortVersionString>0.3.263-beta.1261+44f9b4b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 02:34:01 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1261 · 44f9b4b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Insights 新增 CC 版本+模型效率对比、cost/turn 趋势、output 膨胀检测 (v0.3.263)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.263-beta.1261+44f9b4b/ClaudeUsageMenuBar-0.3.263-beta.1261+44f9b4b.dmg" sparkle:edSignature="iVCzxrJnpgz55BJp0HvdDFJeJ5iIJnBUyePInvrjN7lFrimEZVVeUnFHj6w5QhecEXcB1WFK3NzaghJt78GIDA==" length="10110163" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
