@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.276-beta.1285+c4d3332</title>
+      <guid isPermaLink="false">c4d3332b8f9202bdf63eee8905d41b5a4f5f9efb</guid>
+      <sparkle:version>1285</sparkle:version>
+      <sparkle:shortVersionString>0.3.276-beta.1285+c4d3332</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 09:03:14 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1285 · c4d3332</h3><ul><li>fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.276-beta.1285+c4d3332/ClaudeUsageMenuBar-0.3.276-beta.1285+c4d3332.dmg" sparkle:edSignature="7Wsvfp3fM0daBDYX/5HkZsCsNegllwBGgwaoXaLIvQIxFY7tu7q39+NSwwplDzL1B0WzyIvZfoK8KiMkaj9lDg==" length="10232586" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.276-beta.1284+cb326da</title>
       <guid isPermaLink="false">cb326dae5e1aa8ebb8d55c1b28c4f7713de5cbfe</guid>
       <sparkle:version>1284</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 08:35:40 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1284 · cb326da</h3><ul><li>fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1284 · cb326da&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.276-beta.1284+cb326da/ClaudeUsageMenuBar-0.3.276-beta.1284+cb326da.dmg" sparkle:edSignature="LXnY5ZzlhRM6c9XfUcl6f2qNOO0OrOb/mTR8ucv/AcUo05nWWEYxgkY99Fmysvsjp/Q3B4evMEOfNwG/nBUgDw==" length="10233410" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 03:07:35 +0000</pubDate>
       <description>&lt;h3&gt;Build 1265 · a35f06e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本最佳组合 insight 增加对比列表，展示其余版本 cost/turn 排名 (v0.3.267)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.267-beta.1265+a35f06e/ClaudeUsageMenuBar-0.3.267-beta.1265+a35f06e.dmg" sparkle:edSignature="4xbU51wgzVJ93xkGlQxviRN0KGg6DfJM9/4JfSKOS53aQhuz3yPJ9SUw5g4mdWYDgV6ehq9UqaQEgv/b1RK+AQ==" length="10125502" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.266-beta.1264+e32ad6a</title>
-      <guid isPermaLink="false">e32ad6a942d4b6082fbd56de1c8c4c5444811b86</guid>
-      <sparkle:version>1264</sparkle:version>
-      <sparkle:shortVersionString>0.3.266-beta.1264+e32ad6a</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 03:02:30 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1264 · e32ad6a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本效率改为"最佳组合"推荐，直接展示最省 cost/turn 的版本 (v0.3.266)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.266-beta.1264+e32ad6a/ClaudeUsageMenuBar-0.3.266-beta.1264+e32ad6a.dmg" sparkle:edSignature="dKNb1FV1P91J7ow4PsosmQnMTh8n9/5UUvj+LihieD7HP5wpZnRthLlrS2fefg1GwHDzzGl4Ai3FaFUEiJW1Dg==" length="10122470" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
