@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.274-beta.1279+d182a79</title>
+      <guid isPermaLink="false">d182a79c9342a4fe5fa5764cada159a912ce068c</guid>
+      <sparkle:version>1279</sparkle:version>
+      <sparkle:shortVersionString>0.3.274-beta.1279+d182a79</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 07:04:18 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1279 · d182a79</h3><ul><li>fix: 版本锁定后 patcher 版本刷新 + 运行中会话重启提示 (v0.3.274)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.274-beta.1279+d182a79/ClaudeUsageMenuBar-0.3.274-beta.1279+d182a79.dmg" sparkle:edSignature="y19JDK+fdUQGwPbL9ioJx2jCPZrVCRcVz5v1IQMfOR4440j6j5w+cP6oI3N/lpgj3x4JUx8krVv7MudWdkoBAQ==" length="10219302" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.273-beta.1278+ebf85b6</title>
       <guid isPermaLink="false">ebf85b6623515a939935ad0a44c535367ebaea82</guid>
       <sparkle:version>1278</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 06:55:51 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1278 · ebf85b6</h3><ul><li>feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1278 · ebf85b6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1278+ebf85b6/ClaudeUsageMenuBar-0.3.273-beta.1278+ebf85b6.dmg" sparkle:edSignature="E53cmqt5d9BB55auyS6a2LBwpls2mWYjRcrLSl2d0z4pGyV0yu1oSwZ0HYOH+p0YAsEssEHZ9BA6LUyIMswzBQ==" length="10215962" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 15:06:34 +0000</pubDate>
       <description>&lt;h3&gt;Build 1259 · 82745f6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 区分分析数据"加载中"vs"真没数据"+ app 级 keeper 捕获首轮派发&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.261-beta.1259+82745f6/ClaudeUsageMenuBar-0.3.261-beta.1259+82745f6.dmg" sparkle:edSignature="kMVTdkMUB+/H7PrhyAubPCtnYgcYdmks2IBZHP2uf9j7HWulJ+3AsS7vhvCCr9N5CJ1q7wLVGv25HDPOMTb3DA==" length="10099614" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.261-beta.1258+5d9f680</title>
-      <guid isPermaLink="false">5d9f68066510de09cc980ac9b38e62ba717fb51e</guid>
-      <sparkle:version>1258</sparkle:version>
-      <sparkle:shortVersionString>0.3.261-beta.1258+5d9f680</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 14:50:42 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1258 · 5d9f680&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: iOS AnalyticsSummary SWR（App Group 缓存 + 启动 prefetch）(v0.3.261)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.261-beta.1258+5d9f680/ClaudeUsageMenuBar-0.3.261-beta.1258+5d9f680.dmg" sparkle:edSignature="pI8QnRyrFCcTgPYxURDUa2cI8JqYQ+J/WoT5TeiaZqmaiSUtOQX4YxdeF/1rGS8hLFixE49LUq1xxyzDFUzeCg==" length="10100047" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
