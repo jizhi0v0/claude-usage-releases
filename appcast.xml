@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.280-beta.1293+38c1288</title>
+      <guid isPermaLink="false">38c1288ab273261fa4ee302f0348d108ba924855</guid>
+      <sparkle:version>1293</sparkle:version>
+      <sparkle:shortVersionString>0.3.280-beta.1293+38c1288</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 12:43:27 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1293 · 38c1288</h3><ul><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.280-beta.1293+38c1288/ClaudeUsageMenuBar-0.3.280-beta.1293+38c1288.dmg" sparkle:edSignature="d4Jc4KkEZ9c+9hCZAVnrDi+JhvlBZIjJH1b6OSENthA/nhjyJHcXmCItlOo1CVkWwQNfr67FfSKZKhxkBa+lCg==" length="10310407" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.279-beta.1292+ff189a6</title>
       <guid isPermaLink="false">ff189a6edc083f7bbd8c58b20e1a5315380c67c0</guid>
       <sparkle:version>1292</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 11:57:58 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1292 · ff189a6</h3><ul><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1292 · ff189a6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1292+ff189a6/ClaudeUsageMenuBar-0.3.279-beta.1292+ff189a6.dmg" sparkle:edSignature="rI8/Jy7mzgXzJqsYTgYBRVsQqL3x6rDSqkMgmkL4j5mXLsGG01XLbNKAtRdl8+k67tcxGD2W14ISkixT7/oUCQ==" length="10303863" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 05:32:47 +0000</pubDate>
       <description>&lt;h3&gt;Build 1273 · 514b16a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: analytics summary 设备名大小写合并 + macOS 本地 fallback + exporter 日志 (v0.3.272)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1273+514b16a/ClaudeUsageMenuBar-0.3.273-beta.1273+514b16a.dmg" sparkle:edSignature="h98K3zE2xQT5zV0ggyU3gxNvR2anigBuBx+0P5s6C1Sle4wISnAHwksevYxfW8e+CeitqrZzy8NFQWOnHk7xAg==" length="10164964" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1272+3fac7f9</title>
-      <guid isPermaLink="false">3fac7f91314b9b3c0dbfc0cfb2ae7f65bb21c619</guid>
-      <sparkle:version>1272</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1272+3fac7f9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 04:39:04 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1272 · 3fac7f9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本排名改用 cost/kTok（产出效率）替代 cost/turn，3 位小数精度 (v0.3.272)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1272+3fac7f9/ClaudeUsageMenuBar-0.3.273-beta.1272+3fac7f9.dmg" sparkle:edSignature="CMSeXJnthp7zbdV5njEBgIOIB9i74HE8BXlH/HYXguBKgASaG/Fha4eaT97RpEYXtmK93tVMjTAJ13PF61kWDg==" length="10151090" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
