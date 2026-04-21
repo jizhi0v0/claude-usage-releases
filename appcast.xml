@@ -6,6 +6,16 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.281</title>
+      <guid isPermaLink="false">ce2d04a22e3d8a920852276511518a7b0aef33ac</guid>
+      <sparkle:version>1294</sparkle:version>
+      <sparkle:shortVersionString>0.3.281</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 21 Apr 2026 13:45:58 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1294 · ce2d04a</h3><ul><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281/ClaudeUsageMenuBar-0.3.281.dmg" sparkle:edSignature="8NpW4B4YhoYMB7zVHFcX64LX3FAi/Z8ozQvU+XtuO+ZeZrU33iT8RpD0WwJIABL2nMy3/sBgwKLeUiywpq7oDw==" length="10314154" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.280-beta.1293+38c1288</title>
       <guid isPermaLink="false">38c1288ab273261fa4ee302f0348d108ba924855</guid>
       <sparkle:version>1293</sparkle:version>
@@ -13,7 +23,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 12:43:27 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1293 · 38c1288</h3><ul><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1293 · 38c1288&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.280-beta.1293+38c1288/ClaudeUsageMenuBar-0.3.280-beta.1293+38c1288.dmg" sparkle:edSignature="d4Jc4KkEZ9c+9hCZAVnrDi+JhvlBZIjJH1b6OSENthA/nhjyJHcXmCItlOo1CVkWwQNfr67FfSKZKhxkBa+lCg==" length="10310407" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +223,6 @@
       <pubDate>Tue, 21 Apr 2026 05:40:35 +0000</pubDate>
       <description>&lt;h3&gt;Build 1274 · ffa2a28&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备名全链路 lowercase 统一，修 Fetcher 和 AnalyticsSummary.merge 遗漏&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1274+ffa2a28/ClaudeUsageMenuBar-0.3.273-beta.1274+ffa2a28.dmg" sparkle:edSignature="SlgKJtMYOxPD5EP+v8n224ZM9mbRol4uHGCAcOtt65xAvA1N+XBfVidNKSkK1aLB4eVEga1V6KIQ4RyjsE0UAg==" length="10165710" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1273+514b16a</title>
-      <guid isPermaLink="false">514b16af62cce93772208778a349eb73138e7777</guid>
-      <sparkle:version>1273</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1273+514b16a</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 05:32:47 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1273 · 514b16a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: analytics summary 设备名大小写合并 + macOS 本地 fallback + exporter 日志 (v0.3.272)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1273+514b16a/ClaudeUsageMenuBar-0.3.273-beta.1273+514b16a.dmg" sparkle:edSignature="h98K3zE2xQT5zV0ggyU3gxNvR2anigBuBx+0P5s6C1Sle4wISnAHwksevYxfW8e+CeitqrZzy8NFQWOnHk7xAg==" length="10164964" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
