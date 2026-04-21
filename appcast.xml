@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.273-beta.1272+3fac7f9</title>
+      <guid isPermaLink="false">3fac7f91314b9b3c0dbfc0cfb2ae7f65bb21c619</guid>
+      <sparkle:version>1272</sparkle:version>
+      <sparkle:shortVersionString>0.3.273-beta.1272+3fac7f9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 04:39:04 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1272 · 3fac7f9</h3><ul><li>feat: CC 版本排名改用 cost/kTok（产出效率）替代 cost/turn，3 位小数精度 (v0.3.272)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1272+3fac7f9/ClaudeUsageMenuBar-0.3.273-beta.1272+3fac7f9.dmg" sparkle:edSignature="CMSeXJnthp7zbdV5njEBgIOIB9i74HE8BXlH/HYXguBKgASaG/Fha4eaT97RpEYXtmK93tVMjTAJ13PF61kWDg==" length="10151090" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.273-beta.1271+e823934</title>
       <guid isPermaLink="false">e82393443aea82c7f2212d53df2e92efbce7e23d</guid>
       <sparkle:version>1271</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 04:06:10 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1271 · e823934</h3><ul><li>feat: macOS Analytics 统一从 CloudKit 读取，三端数据一致 (v0.3.273)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1271 · e823934&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: macOS Analytics 统一从 CloudKit 读取，三端数据一致 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1271+e823934/ClaudeUsageMenuBar-0.3.273-beta.1271+e823934.dmg" sparkle:edSignature="PHU7JhqV2yRHR7DAwYxgwwLREPyx+TQo5ijaAnvej1QiVDdrsAta+tLux8jdjd1YqVlLfIQcZCgLc2j4oyjXBw==" length="10154106" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 09:19:41 +0000</pubDate>
       <description>&lt;h3&gt;Build 1251 · a2afd1a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;debug: push 日志改用 Logger API，NSLog 在 Release 被 unified log 过滤掉 (v0.3.256)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.256-beta.1251+a2afd1a/ClaudeUsageMenuBar-0.3.256-beta.1251+a2afd1a.dmg" sparkle:edSignature="m0ujyph0DGKtIAFYzw3+nbEPQThkxN+lpo1pHOZGwoqMp3twnW76LoGPKX2QNd+eB09/H/m8NvJbbSM//6XUAQ==" length="10062516" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.255-beta.1250+24da737</title>
-      <guid isPermaLink="false">24da7373d6f4b5642677033831fa9167790d982f</guid>
-      <sparkle:version>1250</sparkle:version>
-      <sparkle:shortVersionString>0.3.255-beta.1250+24da737</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 09:10:49 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1250 · 24da737&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;debug: macOS silent push 日志加强 + registerForRemoteNotifications 多入口兜底 (v0.3.255)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.255-beta.1250+24da737/ClaudeUsageMenuBar-0.3.255-beta.1250+24da737.dmg" sparkle:edSignature="wQBmY/XyYKhbw0acyIA0pJlyUF+Y8nINgkaiD7VQ5SELXKfRpZBnK0XfeQUSJfBw++5NVJMXVbCggsMC6CVLCg==" length="10063056" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
