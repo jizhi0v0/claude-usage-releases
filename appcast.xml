@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.273-beta.1275+dd4d55c</title>
+      <guid isPermaLink="false">dd4d55c1254df53a870130b4d04f95a1c68b1991</guid>
+      <sparkle:version>1275</sparkle:version>
+      <sparkle:shortVersionString>0.3.273-beta.1275+dd4d55c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 06:27:01 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1275 · dd4d55c</h3><ul><li>feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1275+dd4d55c/ClaudeUsageMenuBar-0.3.273-beta.1275+dd4d55c.dmg" sparkle:edSignature="k+Le3IkdAAdRz83tmd17X3zpP5qlIWOUsWtuBO3H8MZ2LmXUcRvkUqSt/Gj6dlPN+k69gYFbbDd0ma8Tn5U8Ag==" length="10179897" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.273-beta.1274+ffa2a28</title>
       <guid isPermaLink="false">ffa2a28250d7fd8d316ef8b76d4c0cc9cd09ef10</guid>
       <sparkle:version>1274</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 05:40:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1274 · ffa2a28</h3><ul><li>fix: 设备名全链路 lowercase 统一，修 Fetcher 和 AnalyticsSummary.merge 遗漏</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1274 · ffa2a28&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备名全链路 lowercase 统一，修 Fetcher 和 AnalyticsSummary.merge 遗漏&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1274+ffa2a28/ClaudeUsageMenuBar-0.3.273-beta.1274+ffa2a28.dmg" sparkle:edSignature="SlgKJtMYOxPD5EP+v8n224ZM9mbRol4uHGCAcOtt65xAvA1N+XBfVidNKSkK1aLB4eVEga1V6KIQ4RyjsE0UAg==" length="10165710" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 12:42:53 +0000</pubDate>
       <description>&lt;h3&gt;Build 1255 · 7f209f5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: Analytics 聚合单次遍历 + ProcessTreeWalker jsonl 缓存 (v0.3.259)&lt;/li&gt;&lt;li&gt;fix: iOS Analytics 冷启动 CK fetch 空结果时按 1/2/3s 回退重试&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.259-beta.1255+7f209f5/ClaudeUsageMenuBar-0.3.259-beta.1255+7f209f5.dmg" sparkle:edSignature="QJpfLzEcf4bV/TAsCzVfBQNuZpN9XM4uNJDdJAxhjiNimFkG8t8jCuJnpO6binOJ28G2ty/pFkT/jml3b/9dDA==" length="10096805" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.258-beta.1253+ac0860b</title>
-      <guid isPermaLink="false">ac0860b20171edbb5aa79cdc589efb4ba683bc65</guid>
-      <sparkle:version>1253</sparkle:version>
-      <sparkle:shortVersionString>0.3.258-beta.1253+ac0860b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 09:43:10 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1253 · ac0860b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Mac→Mac direct APNs silent push，绕开 CK silent push 5-10s 延迟 (v0.3.258)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.258-beta.1253+ac0860b/ClaudeUsageMenuBar-0.3.258-beta.1253+ac0860b.dmg" sparkle:edSignature="/wegV6cd/MDrILPYN5zpy1LXjqGPjjisjRsjnBBSPyDCsjIiOrGrlLavoV0h8wHPaY8WV3F9uRXSbKGtsR4sBg==" length="10109577" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
