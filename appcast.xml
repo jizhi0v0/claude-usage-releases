@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.273-beta.1273+514b16a</title>
+      <guid isPermaLink="false">514b16af62cce93772208778a349eb73138e7777</guid>
+      <sparkle:version>1273</sparkle:version>
+      <sparkle:shortVersionString>0.3.273-beta.1273+514b16a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 05:32:47 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1273 · 514b16a</h3><ul><li>fix: analytics summary 设备名大小写合并 + macOS 本地 fallback + exporter 日志 (v0.3.272)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1273+514b16a/ClaudeUsageMenuBar-0.3.273-beta.1273+514b16a.dmg" sparkle:edSignature="h98K3zE2xQT5zV0ggyU3gxNvR2anigBuBx+0P5s6C1Sle4wISnAHwksevYxfW8e+CeitqrZzy8NFQWOnHk7xAg==" length="10164964" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.273-beta.1272+3fac7f9</title>
       <guid isPermaLink="false">3fac7f91314b9b3c0dbfc0cfb2ae7f65bb21c619</guid>
       <sparkle:version>1272</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 04:39:04 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1272 · 3fac7f9</h3><ul><li>feat: CC 版本排名改用 cost/kTok（产出效率）替代 cost/turn，3 位小数精度 (v0.3.272)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1272 · 3fac7f9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本排名改用 cost/kTok（产出效率）替代 cost/turn，3 位小数精度 (v0.3.272)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1272+3fac7f9/ClaudeUsageMenuBar-0.3.273-beta.1272+3fac7f9.dmg" sparkle:edSignature="CMSeXJnthp7zbdV5njEBgIOIB9i74HE8BXlH/HYXguBKgASaG/Fha4eaT97RpEYXtmK93tVMjTAJ13PF61kWDg==" length="10151090" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 09:27:08 +0000</pubDate>
       <description>&lt;h3&gt;Build 1252 · 47adc88&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 精简 silent push 调试日志 + 去掉冗余 register 入口 (v0.3.257)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.257-beta.1252+47adc88/ClaudeUsageMenuBar-0.3.257-beta.1252+47adc88.dmg" sparkle:edSignature="LS8jmePciAqVS/PmOrj9GHogOI/+D4MEZ78X6ttxPyPJXvVgWXuwAXpCHO4faerzv887boDfwNVT3D77yyJ7CQ==" length="10061349" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.256-beta.1251+a2afd1a</title>
-      <guid isPermaLink="false">a2afd1a291c412b4a7c6c71ac51d883d9f9f3166</guid>
-      <sparkle:version>1251</sparkle:version>
-      <sparkle:shortVersionString>0.3.256-beta.1251+a2afd1a</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 09:19:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1251 · a2afd1a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;debug: push 日志改用 Logger API，NSLog 在 Release 被 unified log 过滤掉 (v0.3.256)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.256-beta.1251+a2afd1a/ClaudeUsageMenuBar-0.3.256-beta.1251+a2afd1a.dmg" sparkle:edSignature="m0ujyph0DGKtIAFYzw3+nbEPQThkxN+lpo1pHOZGwoqMp3twnW76LoGPKX2QNd+eB09/H/m8NvJbbSM//6XUAQ==" length="10062516" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
