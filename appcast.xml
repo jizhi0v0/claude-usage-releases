@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.264-beta.1262+cd0fec6</title>
+      <guid isPermaLink="false">cd0fec62f90ecba6645a8d8d08f48adb123da099</guid>
+      <sparkle:version>1262</sparkle:version>
+      <sparkle:shortVersionString>0.3.264-beta.1262+cd0fec6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 02:44:34 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1262 · cd0fec6</h3><ul><li>fix: macOS AnalyticsView 补齐 4 条新 Insight（cost/turn 趋势、output 膨胀、cache 命中率、CC 版本效率对比）(v0.3.264)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.264-beta.1262+cd0fec6/ClaudeUsageMenuBar-0.3.264-beta.1262+cd0fec6.dmg" sparkle:edSignature="V4ycxGhUDnWUnMj7MJy1EhuefPT6mKPs53RvaACHCKcxOut0fsXyrUmtBZjugkqf1s5yaeaQCQWU30SGJCOaDg==" length="10118929" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.263-beta.1261+44f9b4b</title>
       <guid isPermaLink="false">44f9b4b052d230f9034170c3e2df889910cc26e5</guid>
       <sparkle:version>1261</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 02:34:01 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1261 · 44f9b4b</h3><ul><li>feat: Insights 新增 CC 版本+模型效率对比、cost/turn 趋势、output 膨胀检测 (v0.3.263)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1261 · 44f9b4b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Insights 新增 CC 版本+模型效率对比、cost/turn 趋势、output 膨胀检测 (v0.3.263)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.263-beta.1261+44f9b4b/ClaudeUsageMenuBar-0.3.263-beta.1261+44f9b4b.dmg" sparkle:edSignature="iVCzxrJnpgz55BJp0HvdDFJeJ5iIJnBUyePInvrjN7lFrimEZVVeUnFHj6w5QhecEXcB1WFK3NzaghJt78GIDA==" length="10110163" type="application/octet-stream" />
     </item>
     <item>
@@ -213,16 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 06:07:23 +0000</pubDate>
       <description>&lt;h3&gt;Build 242 · 73ea918&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 拆分 release workflow — macOS archive 与 Ubuntu builds 并行&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.247-beta.242+73ea918/ClaudeUsageMenuBar-0.3.247-beta.242+73ea918.dmg" sparkle:edSignature="sz6BNWDf5Rj8FO3uW8yuloX+SPXMhal9meEZckh+G9GoBDmQ1FF6SSy8wL/wlxLE/F7nKJG2HLioktSzhr1GDg==" length="10049449" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.247</title>
-      <guid isPermaLink="false">beafce52338a68f8c2a90632b5b5e4c210935c37</guid>
-      <sparkle:version>241</sparkle:version>
-      <sparkle:shortVersionString>0.3.247</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Mon, 20 Apr 2026 05:53:55 +0000</pubDate>
-      <description>&lt;h3&gt;Build 241 · beafce5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 移除 Daily tab 顶部 CK fetch 调试条 (v0.3.247)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.247/ClaudeUsageMenuBar-0.3.247.dmg" sparkle:edSignature="lhjyjNJtJG4r9Uyr2b4nJ9wavms02oH8hHQ8mODRIDLLHpcDBblgIRNnIVYIy3g6vT1qCoKpDskiCxQEA6LYDw==" length="10049152" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
