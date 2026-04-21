@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.270-beta.1269+e45e8ce</title>
+      <guid isPermaLink="false">e45e8ce8db0b995c9ffe75c9cac615ecfacdeeb8</guid>
+      <sparkle:version>1269</sparkle:version>
+      <sparkle:shortVersionString>0.3.270-beta.1269+e45e8ce</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 21 Apr 2026 03:23:24 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1269 · e45e8ce</h3><ul><li>feat: CC 版本排名增加 avg output tok/turn 指标，便于判断输出冗余度 (v0.3.270)</li><li>feat: Sparkle 更新后自动打开设置窗口并再次检查更新</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.270-beta.1269+e45e8ce/ClaudeUsageMenuBar-0.3.270-beta.1269+e45e8ce.dmg" sparkle:edSignature="dtNZBKSP5egdQGfcvsMnixG0yKgewoNDenOu84kfdBgk9mYYreFl90OjtUJExCjVtLuU3Bs2Y20SPK7CoMQlDg==" length="10131138" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.269-beta.1267+cd801aa</title>
       <guid isPermaLink="false">cd801aaebda4f8d061e53f025a0622e1d9548385</guid>
       <sparkle:version>1267</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 03:17:43 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1267 · cd801aa</h3><ul><li>feat: CC 版本效率 insight 改为 Top 3 排名列表，第一名加粗 (v0.3.269)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1267 · cd801aa&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本效率 insight 改为 Top 3 排名列表，第一名加粗 (v0.3.269)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.269-beta.1267+cd801aa/ClaudeUsageMenuBar-0.3.269-beta.1267+cd801aa.dmg" sparkle:edSignature="BqbXz6L3EpEUDE5F4PP+7VRw0VI/0NvpsV66/wJDKsPFjnexIOjr4SMErOz9DiOcQGFMuIEdO7+3P94xcqn/AQ==" length="10123767" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Mon, 20 Apr 2026 08:47:58 +0000</pubDate>
       <description>&lt;h3&gt;Build 1248 · d74fada&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: standby Mac 主/从徽章错乱 + CK silent push 秒级刷新 (v0.3.253)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.253-beta.1248+d74fada/ClaudeUsageMenuBar-0.3.253-beta.1248+d74fada.dmg" sparkle:edSignature="3wC+M2qp7sc972c46+Onlmvou9eEhdDsWPuC5Vy3HAnb7qRrcbz/WBviAQ8esodmQ9qsTZAn9u5AoQnLCfkxAw==" length="10061134" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.251-beta.1247+baeaaab</title>
-      <guid isPermaLink="false">baeaaab4a9546da21040b2599ff1c13b3961a74f</guid>
-      <sparkle:version>1247</sparkle:version>
-      <sparkle:shortVersionString>0.3.251-beta.1247+baeaaab</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 20 Apr 2026 08:04:29 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1247 · baeaaab&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Daily tab 闪烁——onAppear 只 fetch 一次，空结果不覆盖 (v0.3.251)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.251-beta.1247+baeaaab/ClaudeUsageMenuBar-0.3.251-beta.1247+baeaaab.dmg" sparkle:edSignature="7EjO+AuuCJAIa5QqPshYnsjwJPPNLThZkAf6B6im0rXWoAJUolrLC/vAQ2vGaqBWRNBchUq6ZxUWczdcEPq+AQ==" length="10048892" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
