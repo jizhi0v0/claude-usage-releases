@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.281-beta.1295+6e55d4d</title>
+      <guid isPermaLink="false">6e55d4debce02130ed925da641fa83ac618d8535</guid>
+      <sparkle:version>1295</sparkle:version>
+      <sparkle:shortVersionString>0.3.281-beta.1295+6e55d4d</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 03:23:45 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1295 · 6e55d4d</h3><ul><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1295+6e55d4d/ClaudeUsageMenuBar-0.3.281-beta.1295+6e55d4d.dmg" sparkle:edSignature="KyPYdwnuRmjpEZvpkJDEzU+kT9hn2wzsIAz24It2PCig+v1xZSV1m7Em7PTapOI6qEhORZk6QMd6uicrXCrHDw==" length="10318314" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.281-beta.1294+ce2d04a</title>
       <guid isPermaLink="false">ce2d04a22e3d8a920852276511518a7b0aef33ac</guid>
       <sparkle:version>1294</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 21 Apr 2026 13:50:02 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1294 · ce2d04a</h3><ul><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li><li>fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化</li><li>feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查</li><li>fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)</li><li>fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃</li><li>fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT</li><li>fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）</li><li>fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276</li><li>fix: 修复版本 Picker 切换时 @Observable + didSet 排他性冲突导致的 crash</li><li>feat: 7-day window 利用率阈值告警（80%/95%），macOS + iOS 推送 (v0.3.275)</li><li>fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash</li><li>feat: 版本锁定双重守卫，防止 auto-updater 篡改 symlink</li><li>fix: 版本锁定后 patcher 版本刷新 + 运行中会话重启提示 (v0.3.274)</li><li>feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)</li><li>fix: 版本未下载时隐藏"应用锁定"按钮，提示等待下载或先下载 (v0.3.273)</li><li>feat: 版本锁定支持所有已知版本 + 远程下载，从 session 数据提取历史版本列表 (v0.3.273)</li><li>feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1294 · ce2d04a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)&lt;/li&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;li&gt;fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃&lt;/li&gt;&lt;li&gt;fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT&lt;/li&gt;&lt;li&gt;fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）&lt;/li&gt;&lt;li&gt;fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276&lt;/li&gt;&lt;li&gt;fix: 修复版本 Picker 切换时 @Observable + didSet 排他性冲突导致的 crash&lt;/li&gt;&lt;li&gt;feat: 7-day window 利用率阈值告警（80%/95%），macOS + iOS 推送 (v0.3.275)&lt;/li&gt;&lt;li&gt;fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash&lt;/li&gt;&lt;li&gt;feat: 版本锁定双重守卫，防止 auto-updater 篡改 symlink&lt;/li&gt;&lt;li&gt;fix: 版本锁定后 patcher 版本刷新 + 运行中会话重启提示 (v0.3.274)&lt;/li&gt;&lt;li&gt;feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)&lt;/li&gt;&lt;li&gt;fix: 版本未下载时隐藏"应用锁定"按钮，提示等待下载或先下载 (v0.3.273)&lt;/li&gt;&lt;li&gt;feat: 版本锁定支持所有已知版本 + 远程下载，从 session 数据提取历史版本列表 (v0.3.273)&lt;/li&gt;&lt;li&gt;feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1294+ce2d04a/ClaudeUsageMenuBar-0.3.281-beta.1294+ce2d04a.dmg" sparkle:edSignature="aYphhQLDpYoAP2dE3kZpQL7axrt5u+CUH2tPs+dV8J1B0LX6aEepwnUUO+JKVJe5z7JCaxn7WRMGl3bqRmm0DQ==" length="10313758" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 06:27:01 +0000</pubDate>
       <description>&lt;h3&gt;Build 1275 · dd4d55c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1275+dd4d55c/ClaudeUsageMenuBar-0.3.273-beta.1275+dd4d55c.dmg" sparkle:edSignature="k+Le3IkdAAdRz83tmd17X3zpP5qlIWOUsWtuBO3H8MZ2LmXUcRvkUqSt/Gj6dlPN+k69gYFbbDd0ma8Tn5U8Ag==" length="10179897" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1274+ffa2a28</title>
-      <guid isPermaLink="false">ffa2a28250d7fd8d316ef8b76d4c0cc9cd09ef10</guid>
-      <sparkle:version>1274</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1274+ffa2a28</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 05:40:35 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1274 · ffa2a28&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设备名全链路 lowercase 统一，修 Fetcher 和 AnalyticsSummary.merge 遗漏&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1274+ffa2a28/ClaudeUsageMenuBar-0.3.273-beta.1274+ffa2a28.dmg" sparkle:edSignature="SlgKJtMYOxPD5EP+v8n224ZM9mbRol4uHGCAcOtt65xAvA1N+XBfVidNKSkK1aLB4eVEga1V6KIQ4RyjsE0UAg==" length="10165710" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
