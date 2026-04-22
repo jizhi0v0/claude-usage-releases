@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.281-beta.1299+c512113</title>
+      <guid isPermaLink="false">c51211398e13b08df2f06463b09b42dd6c5153a0</guid>
+      <sparkle:version>1299</sparkle:version>
+      <sparkle:shortVersionString>0.3.281-beta.1299+c512113</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 06:12:29 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1299 · c512113</h3><ul><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1299+c512113/ClaudeUsageMenuBar-0.3.281-beta.1299+c512113.dmg" sparkle:edSignature="8j8gUB/XO3yxBjAdLGDAfrAYdrSDeVXH/Wd52FIuQjGFfl8WerXo6RVACcHjL8WRojwklDyxHpzwclNou4bpDA==" length="10322687" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.281-beta.1298+2578842</title>
       <guid isPermaLink="false">2578842b12ed0cc103d4d742bd9088cd650bb944</guid>
       <sparkle:version>1298</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 04:38:52 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1298 · 2578842</h3><ul><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1298 · 2578842&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1298+2578842/ClaudeUsageMenuBar-0.3.281-beta.1298+2578842.dmg" sparkle:edSignature="NiXyjheUg9N760W/n3dzYSfC2X0YQ4aI/zII7/k1Wn8xXNuh5QklYNx7XynGLclezFpONS+jAw1Iq40IuwQ7BQ==" length="10321456" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 07:04:18 +0000</pubDate>
       <description>&lt;h3&gt;Build 1279 · d182a79&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 版本锁定后 patcher 版本刷新 + 运行中会话重启提示 (v0.3.274)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.274-beta.1279+d182a79/ClaudeUsageMenuBar-0.3.274-beta.1279+d182a79.dmg" sparkle:edSignature="y19JDK+fdUQGwPbL9ioJx2jCPZrVCRcVz5v1IQMfOR4440j6j5w+cP6oI3N/lpgj3x4JUx8krVv7MudWdkoBAQ==" length="10219302" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1278+ebf85b6</title>
-      <guid isPermaLink="false">ebf85b6623515a939935ad0a44c535367ebaea82</guid>
-      <sparkle:version>1278</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1278+ebf85b6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 06:55:51 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1278 · ebf85b6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1278+ebf85b6/ClaudeUsageMenuBar-0.3.273-beta.1278+ebf85b6.dmg" sparkle:edSignature="E53cmqt5d9BB55auyS6a2LBwpls2mWYjRcrLSl2d0z4pGyV0yu1oSwZ0HYOH+p0YAsEssEHZ9BA6LUyIMswzBQ==" length="10215962" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
