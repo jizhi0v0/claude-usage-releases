@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.281-beta.1301+e6fc74c</title>
+      <guid isPermaLink="false">e6fc74c389bb2085a38fbcfcc9f9cae20adb9cec</guid>
+      <sparkle:version>1301</sparkle:version>
+      <sparkle:shortVersionString>0.3.281-beta.1301+e6fc74c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 07:26:18 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1301 · e6fc74c</h3><ul><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1301+e6fc74c/ClaudeUsageMenuBar-0.3.281-beta.1301+e6fc74c.dmg" sparkle:edSignature="4VdwL28Nu1iqxZRYdr3b/QcFRFFAoaqyjYpYKshGyeJWDvwjSxJrvS95SeHiLlv/CiKSGquLXj67T+eB4MrwAA==" length="10324697" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.281-beta.1300+7076a76</title>
       <guid isPermaLink="false">7076a76ae3f8e11c1e8c2f7f3461b15ca6ba27da</guid>
       <sparkle:version>1300</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 06:52:41 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1300 · 7076a76</h3><ul><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1300 · 7076a76&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1300+7076a76/ClaudeUsageMenuBar-0.3.281-beta.1300+7076a76.dmg" sparkle:edSignature="iNiURxO6inRKTYboHxHtvSm3q1l83EWrXBUZENXzJt6BQaA4rS1jyAAC5ejSlobB3NX5944fIqaWCM8ktdvADQ==" length="10322978" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 07:48:22 +0000</pubDate>
       <description>&lt;h3&gt;Build 1281 · 6ae125a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.274-beta.1281+6ae125a/ClaudeUsageMenuBar-0.3.274-beta.1281+6ae125a.dmg" sparkle:edSignature="3xlfB/EgH0XihpjVrVJHqfNL5NhNzmuJ5z/KitOr689/gFpubrDGa8yRwdve22PNtYqcDek85T+yv66a/Vz4BQ==" length="10226688" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.274-beta.1280+c92544d</title>
-      <guid isPermaLink="false">c92544dd91346c94a04d88e683e5644a85144499</guid>
-      <sparkle:version>1280</sparkle:version>
-      <sparkle:shortVersionString>0.3.274-beta.1280+c92544d</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 07:37:03 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1280 · c92544d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 版本锁定双重守卫，防止 auto-updater 篡改 symlink&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.274-beta.1280+c92544d/ClaudeUsageMenuBar-0.3.274-beta.1280+c92544d.dmg" sparkle:edSignature="x4UuKgHAZEBX/DP/coQEchUU8KZ0IKkUtKq/gWIgV8dHanHcBs24pmn5VdsUl93PSWrd8lutkAaygQm/a0a6CA==" length="10226858" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
