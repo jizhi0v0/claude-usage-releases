@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.292-beta.1303+2c3d51d</title>
+      <guid isPermaLink="false">2c3d51d92a8b2cdada9c3c69d8754a6dd4d2dd3c</guid>
+      <sparkle:version>1303</sparkle:version>
+      <sparkle:shortVersionString>0.3.292-beta.1303+2c3d51d</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 09:02:30 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1303 · 2c3d51d</h3><ul><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.292-beta.1303+2c3d51d/ClaudeUsageMenuBar-0.3.292-beta.1303+2c3d51d.dmg" sparkle:edSignature="A9ldoWj/TjWnQiA6tBQ+2rOVt/+QNrsvorEFqlNyfF1ryIueTZ4GseNbgSKhpt4DOio7sCkJHrd0AwmOcjbZAQ==" length="10326184" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.281-beta.1302+091a1fa</title>
       <guid isPermaLink="false">091a1fa7076cb20c3ec3016edbf7f9eef4a77ad1</guid>
       <sparkle:version>1302</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 07:54:20 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1302 · 091a1fa</h3><ul><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1302 · 091a1fa&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1302+091a1fa/ClaudeUsageMenuBar-0.3.281-beta.1302+091a1fa.dmg" sparkle:edSignature="RKgqPviLEr78a6ycM0z4wyNrzt/uc8J9ewKjzbv89UQ4J14oJYEA4UZFfzYIM9Aujgpfk8apf3cfcEuGAEZPBQ==" length="10322264" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 08:12:30 +0000</pubDate>
       <description>&lt;h3&gt;Build 1283 · 9d837a2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 修复版本 Picker 切换时 @Observable + didSet 排他性冲突导致的 crash&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.275-beta.1283+9d837a2/ClaudeUsageMenuBar-0.3.275-beta.1283+9d837a2.dmg" sparkle:edSignature="iFX8ek77BeGTQva627sWuE/CdAFEk1JvnbAfRe/8xvuLfyVDnH6bEcESTCiPJRBUfk8mHaewgEz8PJghirDlAA==" length="10233430" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.275-beta.1282+d4198c3</title>
-      <guid isPermaLink="false">d4198c31772e8fde6beceda7921c2ce0c087c0f1</guid>
-      <sparkle:version>1282</sparkle:version>
-      <sparkle:shortVersionString>0.3.275-beta.1282+d4198c3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 07:52:15 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1282 · d4198c3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 7-day window 利用率阈值告警（80%/95%），macOS + iOS 推送 (v0.3.275)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.275-beta.1282+d4198c3/ClaudeUsageMenuBar-0.3.275-beta.1282+d4198c3.dmg" sparkle:edSignature="lmanTLD/QEKh7gAbbj2qgbFF6DNPmMBtzb5VSnI1uDehHTQnWNTlIz5IMORCR01ynqLuJCaLf1R1hAJO0RNRBw==" length="10232258" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
