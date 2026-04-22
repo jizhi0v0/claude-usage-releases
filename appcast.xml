@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.281-beta.1296+c59a3ae</title>
+      <guid isPermaLink="false">c59a3ae7b708873427db71e54e09393271da184c</guid>
+      <sparkle:version>1296</sparkle:version>
+      <sparkle:shortVersionString>0.3.281-beta.1296+c59a3ae</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 22 Apr 2026 04:23:37 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1296 · c59a3ae</h3><ul><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1296+c59a3ae/ClaudeUsageMenuBar-0.3.281-beta.1296+c59a3ae.dmg" sparkle:edSignature="7kpdxhuqtWAdmMLzkgsJwLfcdamk3l/zi5j70gLIqh3X0EWlZQESNGZn07ey85QFPO8zFd7YVMZiJxQ5oEOYDQ==" length="10318664" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.281-beta.1295+6e55d4d</title>
       <guid isPermaLink="false">6e55d4debce02130ed925da641fa83ac618d8535</guid>
       <sparkle:version>1295</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 03:23:45 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1295 · 6e55d4d</h3><ul><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1295 · 6e55d4d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1295+6e55d4d/ClaudeUsageMenuBar-0.3.281-beta.1295+6e55d4d.dmg" sparkle:edSignature="KyPYdwnuRmjpEZvpkJDEzU+kT9hn2wzsIAz24It2PCig+v1xZSV1m7Em7PTapOI6qEhORZk6QMd6uicrXCrHDw==" length="10318314" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 06:39:24 +0000</pubDate>
       <description>&lt;h3&gt;Build 1276 · cbcbcf4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 版本锁定支持所有已知版本 + 远程下载，从 session 数据提取历史版本列表 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1276+cbcbcf4/ClaudeUsageMenuBar-0.3.273-beta.1276+cbcbcf4.dmg" sparkle:edSignature="FtWQl1izuPaNhvsRVp4je1+4ML9biyaRZ6PaDUgrQkLQp+POVUCGgTJ6qUhPKXk2s/wwOXBItM7sPOAh+hqQBg==" length="10202618" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.273-beta.1275+dd4d55c</title>
-      <guid isPermaLink="false">dd4d55c1254df53a870130b4d04f95a1c68b1991</guid>
-      <sparkle:version>1275</sparkle:version>
-      <sparkle:shortVersionString>0.3.273-beta.1275+dd4d55c</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 06:27:01 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1275 · dd4d55c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.273-beta.1275+dd4d55c/ClaudeUsageMenuBar-0.3.273-beta.1275+dd4d55c.dmg" sparkle:edSignature="k+Le3IkdAAdRz83tmd17X3zpP5qlIWOUsWtuBO3H8MZ2LmXUcRvkUqSt/Gj6dlPN+k69gYFbbDd0ma8Tn5U8Ag==" length="10179897" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
