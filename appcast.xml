@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.298-beta.1309+beed75f</title>
+      <guid isPermaLink="false">beed75f74774ac9199743fa98d7d9ebe49f8a0e5</guid>
+      <sparkle:version>1309</sparkle:version>
+      <sparkle:shortVersionString>0.3.298-beta.1309+beed75f</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 25 Apr 2026 11:31:23 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1309 · beed75f</h3><ul><li>fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1309+beed75f/ClaudeUsageMenuBar-0.3.298-beta.1309+beed75f.dmg" sparkle:edSignature="45t1+MMjuJSMQNeub8rT3OhN8XVLevGJB0PvxcSeiYDdH1ynBInPZ/gX+d7KVnuTx2eEVJhvubuaXnZOOH8+Dg==" length="10338297" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.297-beta.1308+0be23f5</title>
       <guid isPermaLink="false">0be23f5a3b1071d8d0657dde6ea7d7cabc44bea2</guid>
       <sparkle:version>1308</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 25 Apr 2026 11:26:34 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1308 · 0be23f5</h3><ul><li>fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1308 · 0be23f5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.297-beta.1308+0be23f5/ClaudeUsageMenuBar-0.3.297-beta.1308+0be23f5.dmg" sparkle:edSignature="zxeJ5UhTx/ODeU5yVFSo20UP1B8OOZ/oxI1XDPoIrmTsKIhV7PIzpsfdVt1DRjj5Y7yrSinl9LN/QxK5oJRdAw==" length="10338958" type="application/octet-stream" />
     </item>
     <item>
@@ -210,17 +221,6 @@
       <pubDate>Tue, 21 Apr 2026 11:25:40 +0000</pubDate>
       <description>&lt;h3&gt;Build 1290 · 76429f7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1290+76429f7/ClaudeUsageMenuBar-0.3.279-beta.1290+76429f7.dmg" sparkle:edSignature="7QEKwvpIBLSinGipb6jpd48v9pZJRqb/nhqmvJueP3vcmpS4g2seHFg8GrHIto4SGrRFpYV5ik00O+o+rzyeCQ==" length="10305868" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.279-beta.1289+c6ad899</title>
-      <guid isPermaLink="false">c6ad8990bdbe5fd551b61f2fb18bf12b87b23c02</guid>
-      <sparkle:version>1289</sparkle:version>
-      <sparkle:shortVersionString>0.3.279-beta.1289+c6ad899</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 10:02:21 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1289 · c6ad899&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1289+c6ad899/ClaudeUsageMenuBar-0.3.279-beta.1289+c6ad899.dmg" sparkle:edSignature="zcBh22aN6iHpda9ThrX19CGjwz21MDighn2E58EuqaqO1lrmLFjXB8P10NXKGhGI7HEkV6sgBH6syAtL/xMoBQ==" length="10256120" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
