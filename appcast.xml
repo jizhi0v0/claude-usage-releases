@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.293-beta.1304+65c24b7</title>
+      <guid isPermaLink="false">65c24b704cf038eb92e094dd2449811cca953efc</guid>
+      <sparkle:version>1304</sparkle:version>
+      <sparkle:shortVersionString>0.3.293-beta.1304+65c24b7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 25 Apr 2026 08:21:02 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1304 · 65c24b7</h3><ul><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.293-beta.1304+65c24b7/ClaudeUsageMenuBar-0.3.293-beta.1304+65c24b7.dmg" sparkle:edSignature="ljTIjhbDbts8SBJ3wtHSHJy+SmcSC8WF03bc24vZPK1w5Meb2nRWDqRPwY5ep2SdgAF37MrqQYZuepxpmd4IBg==" length="10327762" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.292-beta.1303+2c3d51d</title>
       <guid isPermaLink="false">2c3d51d92a8b2cdada9c3c69d8754a6dd4d2dd3c</guid>
       <sparkle:version>1303</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 22 Apr 2026 09:02:30 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1303 · 2c3d51d</h3><ul><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1303 · 2c3d51d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.292-beta.1303+2c3d51d/ClaudeUsageMenuBar-0.3.292-beta.1303+2c3d51d.dmg" sparkle:edSignature="A9ldoWj/TjWnQiA6tBQ+2rOVt/+QNrsvorEFqlNyfF1ryIueTZ4GseNbgSKhpt4DOio7sCkJHrd0AwmOcjbZAQ==" length="10326184" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 21 Apr 2026 08:35:40 +0000</pubDate>
       <description>&lt;h3&gt;Build 1284 · cb326da&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.276-beta.1284+cb326da/ClaudeUsageMenuBar-0.3.276-beta.1284+cb326da.dmg" sparkle:edSignature="LXnY5ZzlhRM6c9XfUcl6f2qNOO0OrOb/mTR8ucv/AcUo05nWWEYxgkY99Fmysvsjp/Q3B4evMEOfNwG/nBUgDw==" length="10233410" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.275-beta.1283+9d837a2</title>
-      <guid isPermaLink="false">9d837a2c670e837564726a7a99249f2797f86b62</guid>
-      <sparkle:version>1283</sparkle:version>
-      <sparkle:shortVersionString>0.3.275-beta.1283+9d837a2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 08:12:30 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1283 · 9d837a2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 修复版本 Picker 切换时 @Observable + didSet 排他性冲突导致的 crash&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.275-beta.1283+9d837a2/ClaudeUsageMenuBar-0.3.275-beta.1283+9d837a2.dmg" sparkle:edSignature="iFX8ek77BeGTQva627sWuE/CdAFEk1JvnbAfRe/8xvuLfyVDnH6bEcESTCiPJRBUfk8mHaewgEz8PJghirDlAA==" length="10233430" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
