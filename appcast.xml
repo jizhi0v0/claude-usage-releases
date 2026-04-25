@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.298-beta.1310+0f26be8</title>
+      <guid isPermaLink="false">0f26be86486c5646b3e8ad5ba3700e9069f690ae</guid>
+      <sparkle:version>1310</sparkle:version>
+      <sparkle:shortVersionString>0.3.298-beta.1310+0f26be8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 25 Apr 2026 12:52:47 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1310 · 0f26be8</h3><ul><li>feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1310+0f26be8/ClaudeUsageMenuBar-0.3.298-beta.1310+0f26be8.dmg" sparkle:edSignature="hHa/afRcDNZDJx6EFiO8HywIneB3gwVZs85sC/VofGZ3QF8eFNENidQd3hjSrvLPu8bB9J10382GnIxx/4s/Cw==" length="10340128" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.298-beta.1309+beed75f</title>
       <guid isPermaLink="false">beed75f74774ac9199743fa98d7d9ebe49f8a0e5</guid>
       <sparkle:version>1309</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 25 Apr 2026 11:31:23 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1309 · beed75f</h3><ul><li>fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1309 · beed75f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1309+beed75f/ClaudeUsageMenuBar-0.3.298-beta.1309+beed75f.dmg" sparkle:edSignature="45t1+MMjuJSMQNeub8rT3OhN8XVLevGJB0PvxcSeiYDdH1ynBInPZ/gX+d7KVnuTx2eEVJhvubuaXnZOOH8+Dg==" length="10338297" type="application/octet-stream" />
     </item>
     <item>
@@ -210,17 +221,6 @@
       <pubDate>Tue, 21 Apr 2026 11:35:17 +0000</pubDate>
       <description>&lt;h3&gt;Build 1291 · 251b954&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1291+251b954/ClaudeUsageMenuBar-0.3.279-beta.1291+251b954.dmg" sparkle:edSignature="bZaMW/uo/DxgKJTY7bnTIHhLwf9KmN4e0RuBF0BDdw6bcFzjKeejxznOI9aGHArInvb2PCm3LOj6xoSykrLOCg==" length="10305628" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.279-beta.1290+76429f7</title>
-      <guid isPermaLink="false">76429f705f464cf080516323600237bdc3e06be2</guid>
-      <sparkle:version>1290</sparkle:version>
-      <sparkle:shortVersionString>0.3.279-beta.1290+76429f7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 11:25:40 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1290 · 76429f7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1290+76429f7/ClaudeUsageMenuBar-0.3.279-beta.1290+76429f7.dmg" sparkle:edSignature="7QEKwvpIBLSinGipb6jpd48v9pZJRqb/nhqmvJueP3vcmpS4g2seHFg8GrHIto4SGrRFpYV5ik00O+o+rzyeCQ==" length="10305868" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
