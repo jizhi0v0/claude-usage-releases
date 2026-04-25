@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.293-beta.1304+65c24b7</title>
+      <title>Version 0.3.293</title>
       <guid isPermaLink="false">65c24b704cf038eb92e094dd2449811cca953efc</guid>
       <sparkle:version>1304</sparkle:version>
-      <sparkle:shortVersionString>0.3.293-beta.1304+65c24b7</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.293</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 25 Apr 2026 08:21:02 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1304 · 65c24b7</h3><ul><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.293-beta.1304+65c24b7/ClaudeUsageMenuBar-0.3.293-beta.1304+65c24b7.dmg" sparkle:edSignature="ljTIjhbDbts8SBJ3wtHSHJy+SmcSC8WF03bc24vZPK1w5Meb2nRWDqRPwY5ep2SdgAF37MrqQYZuepxpmd4IBg==" length="10327762" type="application/octet-stream" />
+      <pubDate>Sat, 25 Apr 2026 08:24:24 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1304 · 65c24b7</h3><ul><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li><li>fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定</li><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li><li>fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化</li><li>feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查</li><li>fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)</li><li>fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃</li><li>fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT</li><li>fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.293/ClaudeUsageMenuBar-0.3.293.dmg" sparkle:edSignature="5THkcuOBMn2ZFYEsNlGtSi69PLVUHLlxaycnUUdWlNJmbXPHWDdtUEP3mtHH1qj1MtDQ+415lARhvt/DVYJgBg==" length="10325549" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.292-beta.1303+2c3d51d</title>
