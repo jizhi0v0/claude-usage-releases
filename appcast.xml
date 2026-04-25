@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.298-beta.1310+0f26be8</title>
+      <title>Version 0.3.299</title>
       <guid isPermaLink="false">0f26be86486c5646b3e8ad5ba3700e9069f690ae</guid>
       <sparkle:version>1310</sparkle:version>
-      <sparkle:shortVersionString>0.3.298-beta.1310+0f26be8</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.299</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 25 Apr 2026 12:52:47 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1310 · 0f26be8</h3><ul><li>feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1310+0f26be8/ClaudeUsageMenuBar-0.3.298-beta.1310+0f26be8.dmg" sparkle:edSignature="hHa/afRcDNZDJx6EFiO8HywIneB3gwVZs85sC/VofGZ3QF8eFNENidQd3hjSrvLPu8bB9J10382GnIxx/4s/Cw==" length="10340128" type="application/octet-stream" />
+      <pubDate>Sat, 25 Apr 2026 12:56:06 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1310 · 0f26be8</h3><ul><li>feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299</li><li>fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298</li><li>fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297</li><li>fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296</li><li>fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295</li><li>feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294</li><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li><li>fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定</li><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299/ClaudeUsageMenuBar-0.3.299.dmg" sparkle:edSignature="7eYSbdTBXaQQbLnCkG1sopgueJbuhT/r/A0Yg/qaj5bvygR7adgHjz/Gu1pjws0pjbgqNR0XkeXuqSA8DN0nBA==" length="10340176" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.298-beta.1309+beed75f</title>
