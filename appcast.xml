@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.294-beta.1305+c618e09</title>
+      <guid isPermaLink="false">c618e0926445cdc080e7ea2a24c0d48a6e4b452e</guid>
+      <sparkle:version>1305</sparkle:version>
+      <sparkle:shortVersionString>0.3.294-beta.1305+c618e09</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 25 Apr 2026 10:08:52 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1305 · c618e09</h3><ul><li>feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.294-beta.1305+c618e09/ClaudeUsageMenuBar-0.3.294-beta.1305+c618e09.dmg" sparkle:edSignature="6ZYjabp+pRkiLucvWlWIg9lcpjNbVz+Uk6AyitrvQ+75BPN8MqfmJjiQ+Zpazn7T+i5BtNemVV4xwNnFnpNtBA==" length="10338500" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.293</title>
       <guid isPermaLink="false">65c24b704cf038eb92e094dd2449811cca953efc</guid>
       <sparkle:version>1304</sparkle:version>
       <sparkle:shortVersionString>0.3.293</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 25 Apr 2026 08:24:24 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1304 · 65c24b7</h3><ul><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li><li>fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定</li><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li><li>fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化</li><li>feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查</li><li>fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)</li><li>fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃</li><li>fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT</li><li>fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1304 · 65c24b7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293&lt;/li&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;li&gt;fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式&lt;/li&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;li&gt;fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)&lt;/li&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;li&gt;fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃&lt;/li&gt;&lt;li&gt;fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT&lt;/li&gt;&lt;li&gt;fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.293/ClaudeUsageMenuBar-0.3.293.dmg" sparkle:edSignature="5THkcuOBMn2ZFYEsNlGtSi69PLVUHLlxaycnUUdWlNJmbXPHWDdtUEP3mtHH1qj1MtDQ+415lARhvt/DVYJgBg==" length="10325549" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Tue, 21 Apr 2026 09:03:14 +0000</pubDate>
       <description>&lt;h3&gt;Build 1285 · c4d3332&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.276-beta.1285+c4d3332/ClaudeUsageMenuBar-0.3.276-beta.1285+c4d3332.dmg" sparkle:edSignature="7Wsvfp3fM0daBDYX/5HkZsCsNegllwBGgwaoXaLIvQIxFY7tu7q39+NSwwplDzL1B0WzyIvZfoK8KiMkaj9lDg==" length="10232586" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.276-beta.1284+cb326da</title>
-      <guid isPermaLink="false">cb326dae5e1aa8ebb8d55c1b28c4f7713de5cbfe</guid>
-      <sparkle:version>1284</sparkle:version>
-      <sparkle:shortVersionString>0.3.276-beta.1284+cb326da</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 08:35:40 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1284 · cb326da&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.276-beta.1284+cb326da/ClaudeUsageMenuBar-0.3.276-beta.1284+cb326da.dmg" sparkle:edSignature="LXnY5ZzlhRM6c9XfUcl6f2qNOO0OrOb/mTR8ucv/AcUo05nWWEYxgkY99Fmysvsjp/Q3B4evMEOfNwG/nBUgDw==" length="10233410" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
