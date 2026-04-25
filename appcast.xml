@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.296-beta.1307+4affe03</title>
+      <guid isPermaLink="false">4affe03f20bd33b2308bf7325ed56c0dc5a0bbb0</guid>
+      <sparkle:version>1307</sparkle:version>
+      <sparkle:shortVersionString>0.3.296-beta.1307+4affe03</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 25 Apr 2026 11:19:43 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1307 · 4affe03</h3><ul><li>fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.296-beta.1307+4affe03/ClaudeUsageMenuBar-0.3.296-beta.1307+4affe03.dmg" sparkle:edSignature="XhMMQiwi8toxCS+n+StPN0P52PIzWCV44Nm19hP01KNlkW/zIX4MN8DqBVmciJ7jx4C9tTIK22revwzgo+MfBw==" length="10337092" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.295</title>
       <guid isPermaLink="false">d2492f381fcd242d5a2bdb31a90931f6f9f3513b</guid>
       <sparkle:version>1306</sparkle:version>
       <sparkle:shortVersionString>0.3.295</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 25 Apr 2026 10:41:52 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1306 · d2492f3</h3><ul><li>fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295</li><li>feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294</li><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li><li>fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定</li><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li><li>fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL</li><li>fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)</li><li>chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)</li><li>fix: 移除 macOS 端冗余的 CK zone subscription push handler</li><li>fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据</li><li>fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化</li><li>feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查</li><li>fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)</li><li>fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1306 · d2492f3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295&lt;/li&gt;&lt;li&gt;feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294&lt;/li&gt;&lt;li&gt;fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293&lt;/li&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;li&gt;fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式&lt;/li&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;li&gt;fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)&lt;/li&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;li&gt;fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.295/ClaudeUsageMenuBar-0.3.295.dmg" sparkle:edSignature="1Z2kpw3fkY/g/Hw4edFG4BBPkfAcqvtq7CaLdOJrLw5C5LRjJ86QP+HWo7MRQAeae6W1fzxkIJdzyWDiweW3Dw==" length="10336368" type="application/octet-stream" />
     </item>
     <item>
@@ -210,17 +221,6 @@
       <pubDate>Tue, 21 Apr 2026 09:47:34 +0000</pubDate>
       <description>&lt;h3&gt;Build 1287 · 00e2eaa&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.278-beta.1287+00e2eaa/ClaudeUsageMenuBar-0.3.278-beta.1287+00e2eaa.dmg" sparkle:edSignature="A9M5GeCggCAVPACNLlo+CuR8fvrZYcSaH2PCC4MDYEBUVB26fuVLckRUDCCF3nPiImx55ynJN4jqf77fbcwuAQ==" length="10233747" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.277-beta.1286+bd32e91</title>
-      <guid isPermaLink="false">bd32e91ef31f3695969fed04686a89446a2a1cbc</guid>
-      <sparkle:version>1286</sparkle:version>
-      <sparkle:shortVersionString>0.3.277-beta.1286+bd32e91</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 09:31:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1286 · bd32e91&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.277-beta.1286+bd32e91/ClaudeUsageMenuBar-0.3.277-beta.1286+bd32e91.dmg" sparkle:edSignature="vEWpSKBYQTRP2jOMhOpgvz+wfkCVpB/fsiNqF3ydkVASfFdy134l5OuTciNI34MZtYfaFx3Hm8y8MxY+v1m4Bg==" length="10240218" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
