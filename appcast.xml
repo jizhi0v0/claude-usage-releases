@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.299-beta.1312+320db82</title>
+      <guid isPermaLink="false">320db8262b13cd72f47fdbee191c9cd41427092c</guid>
+      <sparkle:version>1312</sparkle:version>
+      <sparkle:shortVersionString>0.3.299-beta.1312+320db82</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 27 Apr 2026 12:39:56 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1312 · 320db82</h3><ul><li>chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299-beta.1312+320db82/ClaudeUsageMenuBar-0.3.299-beta.1312+320db82.dmg" sparkle:edSignature="u3MlZJQ5kjcvEjSCedLLSLSM6L2AxANichiwvhbK+rw54mpuoGoApKKm+ltMYSt6w5yAUmKJ0uN/uM5TakzVAw==" length="10341932" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.298-beta.1311+da82635</title>
       <guid isPermaLink="false">da82635752856a0caab39063c1f62751a3def8ac</guid>
       <sparkle:version>1311</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 27 Apr 2026 12:08:58 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1311 · da82635</h3><ul><li>feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1311 · da82635&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1311+da82635/ClaudeUsageMenuBar-0.3.298-beta.1311+da82635.dmg" sparkle:edSignature="eT2IrMphfV88+5k7mnBUPZu0oK7J2iNhBSH3dBYmzIsvqz4jVRvd5/NeEJevr6d/7aO6YliC+nnE5vXnIlf0BQ==" length="10341490" type="application/octet-stream" />
     </item>
     <item>
@@ -209,17 +220,6 @@
       <pubDate>Tue, 21 Apr 2026 12:43:27 +0000</pubDate>
       <description>&lt;h3&gt;Build 1293 · 38c1288&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.280-beta.1293+38c1288/ClaudeUsageMenuBar-0.3.280-beta.1293+38c1288.dmg" sparkle:edSignature="d4Jc4KkEZ9c+9hCZAVnrDi+JhvlBZIjJH1b6OSENthA/nhjyJHcXmCItlOo1CVkWwQNfr67FfSKZKhxkBa+lCg==" length="10310407" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.279-beta.1292+ff189a6</title>
-      <guid isPermaLink="false">ff189a6edc083f7bbd8c58b20e1a5315380c67c0</guid>
-      <sparkle:version>1292</sparkle:version>
-      <sparkle:shortVersionString>0.3.279-beta.1292+ff189a6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 11:57:58 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1292 · ff189a6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.279-beta.1292+ff189a6/ClaudeUsageMenuBar-0.3.279-beta.1292+ff189a6.dmg" sparkle:edSignature="rI8/Jy7mzgXzJqsYTgYBRVsQqL3x6rDSqkMgmkL4j5mXLsGG01XLbNKAtRdl8+k67tcxGD2W14ISkixT7/oUCQ==" length="10303863" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
