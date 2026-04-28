@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1332+9aac731</title>
+      <guid isPermaLink="false">9aac7319cf6edac3e2963fac628644cfe3a83e2c</guid>
+      <sparkle:version>1332</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1332+9aac731</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 09:38:05 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1332 · 9aac731</h3><ul><li>fix: 通知点击跳转 — PPID 遍历改为无条件执行</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1332+9aac731/ClaudeUsageMenuBar-0.3.310-beta.1332+9aac731.dmg" sparkle:edSignature="dPFgzV6IQvEJ3S7ItB0Y2sqgOoMSW0aNbAG4GO4XJWMSWu5Vt+FOz5LN+jgB7EH79jLwnLvKkdNDur8h/IcGCg==" length="10543082" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.309-beta.1331+51609dc</title>
       <guid isPermaLink="false">51609dca3471d789094d31d84795a971f1289850</guid>
       <sparkle:version>1331</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 09:27:54 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1331 · 51609dc</h3><ul><li>feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1331 · 51609dc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.309-beta.1331+51609dc/ClaudeUsageMenuBar-0.3.309-beta.1331+51609dc.dmg" sparkle:edSignature="fDtMKVplnfO55vdbU4liL5RTJAtzcU+PcYqXKFa8+OxJ4XrjIDmsVMdFYj5ckzHvaDbGsRkGMHuRDLs25y/OBg==" length="10542815" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Mon, 27 Apr 2026 12:39:56 +0000</pubDate>
       <description>&lt;h3&gt;Build 1312 · 320db82&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299-beta.1312+320db82/ClaudeUsageMenuBar-0.3.299-beta.1312+320db82.dmg" sparkle:edSignature="u3MlZJQ5kjcvEjSCedLLSLSM6L2AxANichiwvhbK+rw54mpuoGoApKKm+ltMYSt6w5yAUmKJ0uN/uM5TakzVAw==" length="10341932" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.298-beta.1311+da82635</title>
-      <guid isPermaLink="false">da82635752856a0caab39063c1f62751a3def8ac</guid>
-      <sparkle:version>1311</sparkle:version>
-      <sparkle:shortVersionString>0.3.298-beta.1311+da82635</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 27 Apr 2026 12:08:58 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1311 · da82635&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1311+da82635/ClaudeUsageMenuBar-0.3.298-beta.1311+da82635.dmg" sparkle:edSignature="eT2IrMphfV88+5k7mnBUPZu0oK7J2iNhBSH3dBYmzIsvqz4jVRvd5/NeEJevr6d/7aO6YliC+nnE5vXnIlf0BQ==" length="10341490" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
