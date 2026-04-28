@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.300-beta.1315+e231ef5</title>
+      <guid isPermaLink="false">e231ef579d7b0d8c5550d411837e465cbf159419</guid>
+      <sparkle:version>1315</sparkle:version>
+      <sparkle:shortVersionString>0.3.300-beta.1315+e231ef5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 02:41:36 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1315 · e231ef5</h3><ul><li>chore: CFBundleShortVersionString 0.3.300</li><li>fix: Claude Desktop 通知点击跳转 — macOS 用 claude://resume deep link, iOS 用 universal link 兜底</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1315+e231ef5/ClaudeUsageMenuBar-0.3.300-beta.1315+e231ef5.dmg" sparkle:edSignature="+2lzjAltDtBGiH/TwvCPgvy6HbiX8LChJOePE/BuOVji0kGNZEMRGYZE5yo8S0NwLJwyxk3HWg5tW5fqJGvYCQ==" length="10344490" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.299-beta.1313+a5681f7</title>
       <guid isPermaLink="false">a5681f72a525f6d44bd69d7e3cd8ebc4683ac098</guid>
       <sparkle:version>1313</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 01:45:09 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1313 · a5681f7</h3><ul><li>fix: NotificationService icon 命名规范化 + lowercased 兜底</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1313 · a5681f7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: NotificationService icon 命名规范化 + lowercased 兜底&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299-beta.1313+a5681f7/ClaudeUsageMenuBar-0.3.299-beta.1313+a5681f7.dmg" sparkle:edSignature="yoWS6RyG/NJhuwtHI2/8iMJppiUPueiaCvu6IHvVgdJGMWT1587ehVCQ+D1czRoDS31j6LF2mWqAX1uPqk0pDw==" length="10341557" type="application/octet-stream" />
     </item>
     <item>
@@ -209,17 +220,6 @@
       <pubDate>Wed, 22 Apr 2026 03:23:45 +0000</pubDate>
       <description>&lt;h3&gt;Build 1295 · 6e55d4d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1295+6e55d4d/ClaudeUsageMenuBar-0.3.281-beta.1295+6e55d4d.dmg" sparkle:edSignature="KyPYdwnuRmjpEZvpkJDEzU+kT9hn2wzsIAz24It2PCig+v1xZSV1m7Em7PTapOI6qEhORZk6QMd6uicrXCrHDw==" length="10318314" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.281-beta.1294+ce2d04a</title>
-      <guid isPermaLink="false">ce2d04a22e3d8a920852276511518a7b0aef33ac</guid>
-      <sparkle:version>1294</sparkle:version>
-      <sparkle:shortVersionString>0.3.281-beta.1294+ce2d04a</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 21 Apr 2026 13:50:02 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1294 · ce2d04a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)&lt;/li&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;li&gt;fix: CK 同步日志落盘 + macOS bootstrap 重试 + 告警/趋势图优化&lt;/li&gt;&lt;li&gt;feat: Sparkle 更新跳版本检测 + appcast 新鲜度检查&lt;/li&gt;&lt;li&gt;fix: DispatchSource symlink watcher 闭包继承 @MainActor 隔离导致 EXC_BREAKPOINT (v0.3.279)&lt;/li&gt;&lt;li&gt;fix: DispatchSource handler Swift 6 @MainActor 隔离崩溃&lt;/li&gt;&lt;li&gt;fix: AlertManager @Observable + inout 排他性冲突导致设置窗口 SIGABRT&lt;/li&gt;&lt;li&gt;fix: 修复 MenuBarState 的 @Observable+didSet 排他性冲突（设置窗口打开即崩）&lt;/li&gt;&lt;li&gt;fix: 版本 Picker @Observable+didSet 排他性冲突 + bump v0.3.276&lt;/li&gt;&lt;li&gt;fix: 修复版本 Picker 切换时 @Observable + didSet 排他性冲突导致的 crash&lt;/li&gt;&lt;li&gt;feat: 7-day window 利用率阈值告警（80%/95%），macOS + iOS 推送 (v0.3.275)&lt;/li&gt;&lt;li&gt;fix: 修复 symlink watcher 在非 MainActor 线程访问 @MainActor 隔离对象导致的 crash&lt;/li&gt;&lt;li&gt;feat: 版本锁定双重守卫，防止 auto-updater 篡改 symlink&lt;/li&gt;&lt;li&gt;fix: 版本锁定后 patcher 版本刷新 + 运行中会话重启提示 (v0.3.274)&lt;/li&gt;&lt;li&gt;feat: 版本下载支持取消 + 旧版本清理按钮 (v0.3.273)&lt;/li&gt;&lt;li&gt;fix: 版本未下载时隐藏"应用锁定"按钮，提示等待下载或先下载 (v0.3.273)&lt;/li&gt;&lt;li&gt;feat: 版本锁定支持所有已知版本 + 远程下载，从 session 数据提取历史版本列表 (v0.3.273)&lt;/li&gt;&lt;li&gt;feat: CC 版本锁定功能，支持 pinned 通道选择本地已有版本 (v0.3.273)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1294+ce2d04a/ClaudeUsageMenuBar-0.3.281-beta.1294+ce2d04a.dmg" sparkle:edSignature="aYphhQLDpYoAP2dE3kZpQL7axrt5u+CUH2tPs+dV8J1B0LX6aEepwnUUO+JKVJe5z7JCaxn7WRMGl3bqRmm0DQ==" length="10313758" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
