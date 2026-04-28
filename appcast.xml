@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1335+628771b</title>
+      <guid isPermaLink="false">628771b5216107eb77c1824f72d4a38ab274ed9f</guid>
+      <sparkle:version>1335</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1335+628771b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 12:04:40 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1335 · 628771b</h3><ul><li>fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1335+628771b/ClaudeUsageMenuBar-0.3.310-beta.1335+628771b.dmg" sparkle:edSignature="BlwDm5Vz4PkdKtZQIRMI6bWb6UlY5YZf9GgQBQezxJAupubRaanrAfb5XLO3I1UyG+wqZqRt5teOR1VRXZXnBQ==" length="10551492" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1334+d37e280</title>
       <guid isPermaLink="false">d37e2802f272e03b8edd65aa6b00de40defcc482</guid>
       <sparkle:version>1334</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 10:26:49 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1334 · d37e280</h3><ul><li>feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1334 · d37e280&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1334+d37e280/ClaudeUsageMenuBar-0.3.310-beta.1334+d37e280.dmg" sparkle:edSignature="8G99irnM7opT56pGl4lGcSHDIER9alrtwiTOSueyWG1tL7oBW2W+m9SeJ7qIxqtlvNYoOCY1hUczM15hERrEDA==" length="10549806" type="application/octet-stream" />
     </item>
     <item>
@@ -213,16 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 02:47:42 +0000</pubDate>
       <description>&lt;h3&gt;Build 1316 · 8293a42&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: deploy-testflight.sh 加 trap 还原 project.yml/Info.plist&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1316+8293a42/ClaudeUsageMenuBar-0.3.300-beta.1316+8293a42.dmg" sparkle:edSignature="5bjH8a+g2Om7ymhZFHFLqVBQDiwUPZOPxcoxU+OAQ57eeLBoV+OA9eB1Vs6Wq6CNwXoy0GOUfpNzrMMJzzxxCA==" length="10344097" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.300</title>
-      <guid isPermaLink="false">e231ef579d7b0d8c5550d411837e465cbf159419</guid>
-      <sparkle:version>1315</sparkle:version>
-      <sparkle:shortVersionString>0.3.300</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 28 Apr 2026 02:44:25 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1315 · e231ef5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.300&lt;/li&gt;&lt;li&gt;fix: Claude Desktop 通知点击跳转 — macOS 用 claude://resume deep link, iOS 用 universal link 兜底&lt;/li&gt;&lt;li&gt;fix: NotificationService icon 命名规范化 + lowercased 兜底&lt;/li&gt;&lt;li&gt;chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299&lt;/li&gt;&lt;li&gt;feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口&lt;/li&gt;&lt;li&gt;feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299&lt;/li&gt;&lt;li&gt;fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298&lt;/li&gt;&lt;li&gt;fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297&lt;/li&gt;&lt;li&gt;fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296&lt;/li&gt;&lt;li&gt;fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295&lt;/li&gt;&lt;li&gt;feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294&lt;/li&gt;&lt;li&gt;fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293&lt;/li&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;li&gt;fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式&lt;/li&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300/ClaudeUsageMenuBar-0.3.300.dmg" sparkle:edSignature="drXrBGT56KwdcttZd5SRA9MHGL/fZ8f0R/VraeKkkBKqo1IUMsg/Ww2ofEsFBxSX3vkLfl7KNUQPb9nwaxGkDQ==" length="10344073" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
