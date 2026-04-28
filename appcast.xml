@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.301-beta.1322+2be82d4</title>
+      <guid isPermaLink="false">2be82d4cc93718b7b9b4ca9113090c5cf7650d33</guid>
+      <sparkle:version>1322</sparkle:version>
+      <sparkle:shortVersionString>0.3.301-beta.1322+2be82d4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 05:38:19 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1322 · 2be82d4</h3><ul><li>fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1322+2be82d4/ClaudeUsageMenuBar-0.3.301-beta.1322+2be82d4.dmg" sparkle:edSignature="6VEqRwf1NQaGW01FZy+6JnSYIeBlj7DuVo3ZsSwidGwXV1I59PL0+FQ9Xxrn5ENbSxeGp91d5bVmmICSoOGsCQ==" length="10356178" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.301-beta.1321+e8e392b</title>
       <guid isPermaLink="false">e8e392bc8b1b7b3a7c50b6c7e4b05b20884909dc</guid>
       <sparkle:version>1321</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 05:22:16 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1321 · e8e392b</h3><ul><li>fix: Sparkle Updater.app 缺失导致安装器无法启动</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1321 · e8e392b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Sparkle Updater.app 缺失导致安装器无法启动&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1321+e8e392b/ClaudeUsageMenuBar-0.3.301-beta.1321+e8e392b.dmg" sparkle:edSignature="UmGBQP3eToLBVxsdcle6VqtC/OPWnRQU3MYH4RIw+2ZGWIch5IrU5u8TnbTxhGcSHiDCJXUY/OXFlI34PUMOBA==" length="10356120" type="application/octet-stream" />
     </item>
     <item>
@@ -208,17 +219,6 @@
       <pubDate>Wed, 22 Apr 2026 07:54:20 +0000</pubDate>
       <description>&lt;h3&gt;Build 1302 · 091a1fa&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1302+091a1fa/ClaudeUsageMenuBar-0.3.281-beta.1302+091a1fa.dmg" sparkle:edSignature="RKgqPviLEr78a6ycM0z4wyNrzt/uc8J9ewKjzbv89UQ4J14oJYEA4UZFfzYIM9Aujgpfk8apf3cfcEuGAEZPBQ==" length="10322264" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.281-beta.1301+e6fc74c</title>
-      <guid isPermaLink="false">e6fc74c389bb2085a38fbcfcc9f9cae20adb9cec</guid>
-      <sparkle:version>1301</sparkle:version>
-      <sparkle:shortVersionString>0.3.281-beta.1301+e6fc74c</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 22 Apr 2026 07:26:18 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1301 · e6fc74c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1301+e6fc74c/ClaudeUsageMenuBar-0.3.281-beta.1301+e6fc74c.dmg" sparkle:edSignature="4VdwL28Nu1iqxZRYdr3b/QcFRFFAoaqyjYpYKshGyeJWDvwjSxJrvS95SeHiLlv/CiKSGquLXj67T+eB4MrwAA==" length="10324697" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
