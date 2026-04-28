@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.300-beta.1316+8293a42</title>
+      <guid isPermaLink="false">8293a42a21e2b7dc0d050e3785e0250f1cf18f2f</guid>
+      <sparkle:version>1316</sparkle:version>
+      <sparkle:shortVersionString>0.3.300-beta.1316+8293a42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 02:47:42 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1316 · 8293a42</h3><ul><li>fix: deploy-testflight.sh 加 trap 还原 project.yml/Info.plist</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1316+8293a42/ClaudeUsageMenuBar-0.3.300-beta.1316+8293a42.dmg" sparkle:edSignature="5bjH8a+g2Om7ymhZFHFLqVBQDiwUPZOPxcoxU+OAQ57eeLBoV+OA9eB1Vs6Wq6CNwXoy0GOUfpNzrMMJzzxxCA==" length="10344097" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.300</title>
       <guid isPermaLink="false">e231ef579d7b0d8c5550d411837e465cbf159419</guid>
       <sparkle:version>1315</sparkle:version>
       <sparkle:shortVersionString>0.3.300</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 28 Apr 2026 02:44:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1315 · e231ef5</h3><ul><li>chore: CFBundleShortVersionString 0.3.300</li><li>fix: Claude Desktop 通知点击跳转 — macOS 用 claude://resume deep link, iOS 用 universal link 兜底</li><li>fix: NotificationService icon 命名规范化 + lowercased 兜底</li><li>chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299</li><li>feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口</li><li>feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299</li><li>fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298</li><li>fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297</li><li>fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296</li><li>fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295</li><li>feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294</li><li>fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293</li><li>feat: extra usage 满额时增加已用尽提示，版本号 0.3.292</li><li>fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致</li><li>chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题</li><li>fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件</li><li>fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式</li><li>fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致</li><li>fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定</li><li>fix: 切回 stable/latest 时自动恢复 symlink 到最新版本</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1315 · e231ef5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.300&lt;/li&gt;&lt;li&gt;fix: Claude Desktop 通知点击跳转 — macOS 用 claude://resume deep link, iOS 用 universal link 兜底&lt;/li&gt;&lt;li&gt;fix: NotificationService icon 命名规范化 + lowercased 兜底&lt;/li&gt;&lt;li&gt;chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299&lt;/li&gt;&lt;li&gt;feat: Claude Desktop 通知 icon + 点击激活 Desktop 主窗口&lt;/li&gt;&lt;li&gt;feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299&lt;/li&gt;&lt;li&gt;fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298&lt;/li&gt;&lt;li&gt;fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297&lt;/li&gt;&lt;li&gt;fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296&lt;/li&gt;&lt;li&gt;fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295&lt;/li&gt;&lt;li&gt;feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294&lt;/li&gt;&lt;li&gt;fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293&lt;/li&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;li&gt;fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式&lt;/li&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300/ClaudeUsageMenuBar-0.3.300.dmg" sparkle:edSignature="drXrBGT56KwdcttZd5SRA9MHGL/fZ8f0R/VraeKkkBKqo1IUMsg/Ww2ofEsFBxSX3vkLfl7KNUQPb9nwaxGkDQ==" length="10344073" type="application/octet-stream" />
     </item>
     <item>
@@ -208,17 +219,6 @@
       <pubDate>Wed, 22 Apr 2026 04:23:37 +0000</pubDate>
       <description>&lt;h3&gt;Build 1296 · c59a3ae&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1296+c59a3ae/ClaudeUsageMenuBar-0.3.281-beta.1296+c59a3ae.dmg" sparkle:edSignature="7kpdxhuqtWAdmMLzkgsJwLfcdamk3l/zi5j70gLIqh3X0EWlZQESNGZn07ey85QFPO8zFd7YVMZiJxQ5oEOYDQ==" length="10318664" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.281-beta.1295+6e55d4d</title>
-      <guid isPermaLink="false">6e55d4debce02130ed925da641fa83ac618d8535</guid>
-      <sparkle:version>1295</sparkle:version>
-      <sparkle:shortVersionString>0.3.281-beta.1295+6e55d4d</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 22 Apr 2026 03:23:45 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1295 · 6e55d4d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1295+6e55d4d/ClaudeUsageMenuBar-0.3.281-beta.1295+6e55d4d.dmg" sparkle:edSignature="KyPYdwnuRmjpEZvpkJDEzU+kT9hn2wzsIAz24It2PCig+v1xZSV1m7Em7PTapOI6qEhORZk6QMd6uicrXCrHDw==" length="10318314" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
