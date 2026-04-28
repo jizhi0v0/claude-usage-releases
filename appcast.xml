@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.300-beta.1317+696acd3</title>
+      <guid isPermaLink="false">696acd30f9fcbb7b5a867f0fce6505b9ddc58e11</guid>
+      <sparkle:version>1317</sparkle:version>
+      <sparkle:shortVersionString>0.3.300-beta.1317+696acd3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 03:03:43 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1317 · 696acd3</h3><ul><li>fix: Live Activity APNs push priority 5 → 10，消除 iOS 端延迟</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1317+696acd3/ClaudeUsageMenuBar-0.3.300-beta.1317+696acd3.dmg" sparkle:edSignature="Qeo+Y9Bdwh35VGqYCkJiXJVmEP5lFvODfDIzc8JBiKyAEC42RLSoe5Z4MCXeyicKfMz+orCpH0UxfzGcuLn3Aw==" length="10344083" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.300-beta.1316+8293a42</title>
       <guid isPermaLink="false">8293a42a21e2b7dc0d050e3785e0250f1cf18f2f</guid>
       <sparkle:version>1316</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 02:47:42 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1316 · 8293a42</h3><ul><li>fix: deploy-testflight.sh 加 trap 还原 project.yml/Info.plist</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1316 · 8293a42&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: deploy-testflight.sh 加 trap 还原 project.yml/Info.plist&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1316+8293a42/ClaudeUsageMenuBar-0.3.300-beta.1316+8293a42.dmg" sparkle:edSignature="5bjH8a+g2Om7ymhZFHFLqVBQDiwUPZOPxcoxU+OAQ57eeLBoV+OA9eB1Vs6Wq6CNwXoy0GOUfpNzrMMJzzxxCA==" length="10344097" type="application/octet-stream" />
     </item>
     <item>
@@ -208,17 +219,6 @@
       <pubDate>Wed, 22 Apr 2026 04:27:17 +0000</pubDate>
       <description>&lt;h3&gt;Build 1297 · 8000653&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1297+8000653/ClaudeUsageMenuBar-0.3.281-beta.1297+8000653.dmg" sparkle:edSignature="Y4566kfmuLXbyc/0OivBAaDsqB+Q1gC9fVXmHt9GDp78h5XVKGwRLd+CUWapvc+5kT1ByrtszqN8YCQpjp70Aw==" length="10321681" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.281-beta.1296+c59a3ae</title>
-      <guid isPermaLink="false">c59a3ae7b708873427db71e54e09393271da184c</guid>
-      <sparkle:version>1296</sparkle:version>
-      <sparkle:shortVersionString>0.3.281-beta.1296+c59a3ae</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 22 Apr 2026 04:23:37 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1296 · c59a3ae&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1296+c59a3ae/ClaudeUsageMenuBar-0.3.281-beta.1296+c59a3ae.dmg" sparkle:edSignature="7kpdxhuqtWAdmMLzkgsJwLfcdamk3l/zi5j70gLIqh3X0EWlZQESNGZn07ey85QFPO8zFd7YVMZiJxQ5oEOYDQ==" length="10318664" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
