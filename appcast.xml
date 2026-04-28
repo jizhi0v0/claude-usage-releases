@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.301-beta.1323+ac873a5</title>
+      <guid isPermaLink="false">ac873a5e3409641afa3cff421584f792f1708417</guid>
+      <sparkle:version>1323</sparkle:version>
+      <sparkle:shortVersionString>0.3.301-beta.1323+ac873a5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 06:35:14 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1323 · ac873a5</h3><ul><li>feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1323+ac873a5/ClaudeUsageMenuBar-0.3.301-beta.1323+ac873a5.dmg" sparkle:edSignature="/A2N82sT3b43Bb/442wtYrqnrR9u6SbEPf2bc7E/RAWCDQ0rWaAX0MiIZuRoEUpmu/W6YrdreM5823kiZTVGAg==" length="10502834" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.301-beta.1322+2be82d4</title>
       <guid isPermaLink="false">2be82d4cc93718b7b9b4ca9113090c5cf7650d33</guid>
       <sparkle:version>1322</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 05:38:19 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1322 · 2be82d4</h3><ul><li>fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1322 · 2be82d4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1322+2be82d4/ClaudeUsageMenuBar-0.3.301-beta.1322+2be82d4.dmg" sparkle:edSignature="6VEqRwf1NQaGW01FZy+6JnSYIeBlj7DuVo3ZsSwidGwXV1I59PL0+FQ9Xxrn5ENbSxeGp91d5bVmmICSoOGsCQ==" length="10356178" type="application/octet-stream" />
     </item>
     <item>
@@ -208,17 +219,6 @@
       <pubDate>Wed, 22 Apr 2026 09:02:30 +0000</pubDate>
       <description>&lt;h3&gt;Build 1303 · 2c3d51d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.292-beta.1303+2c3d51d/ClaudeUsageMenuBar-0.3.292-beta.1303+2c3d51d.dmg" sparkle:edSignature="A9ldoWj/TjWnQiA6tBQ+2rOVt/+QNrsvorEFqlNyfF1ryIueTZ4GseNbgSKhpt4DOio7sCkJHrd0AwmOcjbZAQ==" length="10326184" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.281-beta.1302+091a1fa</title>
-      <guid isPermaLink="false">091a1fa7076cb20c3ec3016edbf7f9eef4a77ad1</guid>
-      <sparkle:version>1302</sparkle:version>
-      <sparkle:shortVersionString>0.3.281-beta.1302+091a1fa</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 22 Apr 2026 07:54:20 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1302 · 091a1fa&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.281-beta.1302+091a1fa/ClaudeUsageMenuBar-0.3.281-beta.1302+091a1fa.dmg" sparkle:edSignature="RKgqPviLEr78a6ycM0z4wyNrzt/uc8J9ewKjzbv89UQ4J14oJYEA4UZFfzYIM9Aujgpfk8apf3cfcEuGAEZPBQ==" length="10322264" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
