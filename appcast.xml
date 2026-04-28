@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1333+17caad4</title>
+      <guid isPermaLink="false">17caad4f5eabcb994c7ffef3ac3a42e686937ca0</guid>
+      <sparkle:version>1333</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1333+17caad4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 10:10:20 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1333 · 17caad4</h3><ul><li>fix: Sparkle 跳版本检测移到 install 时 — ETag HEAD 快速比对</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1333+17caad4/ClaudeUsageMenuBar-0.3.310-beta.1333+17caad4.dmg" sparkle:edSignature="Vn9QUQ/GwC10+zr4ZhhyyZGxph2+8Hh+dazZl0RKM50APbPRUZzDPz2sLSN9H04Pc32epUqk5y4jp9W2qXYnDg==" length="10542983" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1332+9aac731</title>
       <guid isPermaLink="false">9aac7319cf6edac3e2963fac628644cfe3a83e2c</guid>
       <sparkle:version>1332</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 09:38:05 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1332 · 9aac731</h3><ul><li>fix: 通知点击跳转 — PPID 遍历改为无条件执行</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1332 · 9aac731&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 通知点击跳转 — PPID 遍历改为无条件执行&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1332+9aac731/ClaudeUsageMenuBar-0.3.310-beta.1332+9aac731.dmg" sparkle:edSignature="dPFgzV6IQvEJ3S7ItB0Y2sqgOoMSW0aNbAG4GO4XJWMSWu5Vt+FOz5LN+jgB7EH79jLwnLvKkdNDur8h/IcGCg==" length="10543082" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Tue, 28 Apr 2026 01:45:09 +0000</pubDate>
       <description>&lt;h3&gt;Build 1313 · a5681f7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: NotificationService icon 命名规范化 + lowercased 兜底&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299-beta.1313+a5681f7/ClaudeUsageMenuBar-0.3.299-beta.1313+a5681f7.dmg" sparkle:edSignature="yoWS6RyG/NJhuwtHI2/8iMJppiUPueiaCvu6IHvVgdJGMWT1587ehVCQ+D1czRoDS31j6LF2mWqAX1uPqk0pDw==" length="10341557" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.299-beta.1312+320db82</title>
-      <guid isPermaLink="false">320db8262b13cd72f47fdbee191c9cd41427092c</guid>
-      <sparkle:version>1312</sparkle:version>
-      <sparkle:shortVersionString>0.3.299-beta.1312+320db82</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 27 Apr 2026 12:39:56 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1312 · 320db82&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleVersion 1297 + CFBundleShortVersionString 同步 0.3.299&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299-beta.1312+320db82/ClaudeUsageMenuBar-0.3.299-beta.1312+320db82.dmg" sparkle:edSignature="u3MlZJQ5kjcvEjSCedLLSLSM6L2AxANichiwvhbK+rw54mpuoGoApKKm+ltMYSt6w5yAUmKJ0uN/uM5TakzVAw==" length="10341932" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
