@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1337+248441c</title>
+      <guid isPermaLink="false">248441ca3fb87337902aed5abcb01e6b0659bbc1</guid>
+      <sparkle:version>1337</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1337+248441c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 13:12:10 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1337 · 248441c</h3><ul><li>fix: 图表 hover tooltip 预测区域抖动 — 缓存 prediction + overlay 渲染</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1337+248441c/ClaudeUsageMenuBar-0.3.310-beta.1337+248441c.dmg" sparkle:edSignature="ptQs2OibUvQJpxu1pavv7hq7xnAAwIAM/lHXlkZsJqOB38k8Fx1EWiTrB1z4w6m+WLMjXlaoVVYJB9dCvKEWCg==" length="10561684" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1336+b272d1b</title>
       <guid isPermaLink="false">b272d1b89a3a86e9bfd84c56388bf0c00ed86d29</guid>
       <sparkle:version>1336</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 12:52:41 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1336 · b272d1b</h3><ul><li>fix: 图表 hover tooltip 抖动 + status history 高度溢出</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1336 · b272d1b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图表 hover tooltip 抖动 + status history 高度溢出&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1336+b272d1b/ClaudeUsageMenuBar-0.3.310-beta.1336+b272d1b.dmg" sparkle:edSignature="y+OPPhvkd0CnEd+L/dGuNWNv+qVhXvdDZuJMy7Jx7+Yzi/oxvmG0qeR3aqJ2BDvQ19xRJ3lb9WJaYH/pFfSRDw==" length="10559341" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 03:12:31 +0000</pubDate>
       <description>&lt;h3&gt;Build 1318 · 7dce741&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: fork mode 会话 iOS 通知 title 加 ` · 仅 Mac` 后缀且禁止跳转&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1318+7dce741/ClaudeUsageMenuBar-0.3.300-beta.1318+7dce741.dmg" sparkle:edSignature="VLn2FXZZW6A9nQmtobf5wDZ8bmK5jqsheP3wEE6ujsBflmbI7yfbRWMWBxTI1in1gNFLR86VmyjHMG2ZSj7pAg==" length="10344379" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.300-beta.1317+696acd3</title>
-      <guid isPermaLink="false">696acd30f9fcbb7b5a867f0fce6505b9ddc58e11</guid>
-      <sparkle:version>1317</sparkle:version>
-      <sparkle:shortVersionString>0.3.300-beta.1317+696acd3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 03:03:43 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1317 · 696acd3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Live Activity APNs push priority 5 → 10，消除 iOS 端延迟&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.300-beta.1317+696acd3/ClaudeUsageMenuBar-0.3.300-beta.1317+696acd3.dmg" sparkle:edSignature="Qeo+Y9Bdwh35VGqYCkJiXJVmEP5lFvODfDIzc8JBiKyAEC42RLSoe5Z4MCXeyicKfMz+orCpH0UxfzGcuLn3Aw==" length="10344083" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
