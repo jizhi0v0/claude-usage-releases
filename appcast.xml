@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.308-beta.1330+89f7c2a</title>
+      <guid isPermaLink="false">89f7c2a1f80cb448f0cd5efbe93249fa81b754cd</guid>
+      <sparkle:version>1330</sparkle:version>
+      <sparkle:shortVersionString>0.3.308-beta.1330+89f7c2a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 28 Apr 2026 09:15:48 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1330 · 89f7c2a</h3><ul><li>feat: DB 存储 parent_session_id，subagent resume 指向父会话</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.308-beta.1330+89f7c2a/ClaudeUsageMenuBar-0.3.308-beta.1330+89f7c2a.dmg" sparkle:edSignature="f+EHLwjSR5DNGYWptA1HN0vh+RAkWQj6WZ7f9ZhUAdzL+H+e/owJZeVvUa1Zux1XDfIh3Gn7Eut2fu1UsjovCw==" length="10533144" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.307-beta.1329+5d09aa9</title>
       <guid isPermaLink="false">5d09aa9dfcce541f7584637439a34d4ef7858b1e</guid>
       <sparkle:version>1329</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 28 Apr 2026 09:06:02 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1329 · 5d09aa9</h3><ul><li>fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1329 · 5d09aa9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.307-beta.1329+5d09aa9/ClaudeUsageMenuBar-0.3.307-beta.1329+5d09aa9.dmg" sparkle:edSignature="MSHidVk8xcCrfnr8M2gE9pjYpbYNG2ffFSbmPEoikSSFaYRCHol2U6AAFROa1sVwWj+5ANyBr2Y8WUkdCRtzBg==" length="10525637" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Sat, 25 Apr 2026 12:56:06 +0000</pubDate>
       <description>&lt;h3&gt;Build 1310 · 0f26be8&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: agenticLoop advisor 检测 agentic 循环放大率，版本号 0.3.299&lt;/li&gt;&lt;li&gt;fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298&lt;/li&gt;&lt;li&gt;fix: AdvisoryNotifier 通知 id 加 severity + dedup key schema versioning，版本号 0.3.297&lt;/li&gt;&lt;li&gt;fix: PostCompact 推 iOS + 压缩后 lastContextTokens 重置，版本号 0.3.296&lt;/li&gt;&lt;li&gt;fix: bloated advisor critical 严格基于事实（X 方案），版本号 0.3.295&lt;/li&gt;&lt;li&gt;feat: bloated advisor 改 quota-aware（5h 配额视角），版本号 0.3.294&lt;/li&gt;&lt;li&gt;fix: usage.json sticky null 与 fetched_at 倒退死循环，版本号 0.3.293&lt;/li&gt;&lt;li&gt;feat: extra usage 满额时增加已用尽提示，版本号 0.3.292&lt;/li&gt;&lt;li&gt;fix: detectLocalVersion 始终先读 symlink，消除版本/补丁显示不一致&lt;/li&gt;&lt;li&gt;chore: findLatestBinary 增加诊断日志，排查 symlink 解析问题&lt;/li&gt;&lt;li&gt;fix: symlink 相对路径解析换用 NSString.appendingPathComponent + 过滤 .backup 版本文件&lt;/li&gt;&lt;li&gt;fix: findLatestBinary 手动解析 symlink 相对/绝对路径，兼容各种安装方式&lt;/li&gt;&lt;li&gt;fix: ClaudeCodePatcher 使用 resolvingSymlinksInPath 正确解析相对路径 symlink，消除版本显示不一致&lt;/li&gt;&lt;li&gt;fix: 切换 channel 不再自动改 symlink；pinned 模式支持显式应用/取消锁定&lt;/li&gt;&lt;li&gt;fix: 切回 stable/latest 时自动恢复 symlink 到最新版本&lt;/li&gt;&lt;li&gt;fix: 维护 tab 切换卡顿——refreshKnownVersions 异步化扫描 session JSONL&lt;/li&gt;&lt;li&gt;fix: 阈值通知去重——发送端 body 比对 + 接收端 threshold 类型清旧通知 (v0.3.281)&lt;/li&gt;&lt;li&gt;chore: NSLog/print 统一改 os.Logger + 清理死代码 (v0.3.280)&lt;/li&gt;&lt;li&gt;fix: 移除 macOS 端冗余的 CK zone subscription push handler&lt;/li&gt;&lt;li&gt;fix: mac-silent push 在 CK 上传之前发出导致从设备拉到旧数据&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.299/ClaudeUsageMenuBar-0.3.299.dmg" sparkle:edSignature="7eYSbdTBXaQQbLnCkG1sopgueJbuhT/r/A0Yg/qaj5bvygR7adgHjz/Gu1pjws0pjbgqNR0XkeXuqSA8DN0nBA==" length="10340176" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.298-beta.1309+beed75f</title>
-      <guid isPermaLink="false">beed75f74774ac9199743fa98d7d9ebe49f8a0e5</guid>
-      <sparkle:version>1309</sparkle:version>
-      <sparkle:shortVersionString>0.3.298-beta.1309+beed75f</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 25 Apr 2026 11:31:23 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1309 · beed75f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: extra usage 提示仅在窗口逼近 100% 时附加，版本号 0.3.298&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.298-beta.1309+beed75f/ClaudeUsageMenuBar-0.3.298-beta.1309+beed75f.dmg" sparkle:edSignature="45t1+MMjuJSMQNeub8rT3OhN8XVLevGJB0PvxcSeiYDdH1ynBInPZ/gX+d7KVnuTx2eEVJhvubuaXnZOOH8+Dg==" length="10338297" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
