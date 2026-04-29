@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1337+248441c</title>
+      <guid isPermaLink="false">248441ca3fb87337902aed5abcb01e6b0659bbc1</guid>
+      <sparkle:version>1337</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1337+248441c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 29 Apr 2026 08:32:12 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1337 · 248441c</h3><ul><li>fix: 图表 hover tooltip 预测区域抖动 — 缓存 prediction + overlay 渲染</li><li>fix: 图表 hover tooltip 抖动 + status history 高度溢出</li><li>fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart</li><li>feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐</li><li>fix: Sparkle 跳版本检测移到 install 时 — ETag HEAD 快速比对</li><li>fix: 通知点击跳转 — PPID 遍历改为无条件执行</li><li>feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为</li><li>feat: DB 存储 parent_session_id，subagent resume 指向父会话</li><li>fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）</li><li>feat: 搜索结果右键菜单 — 复制 claude --resume 命令、在 Ghostty/终端中打开，版本号 0.3.306</li><li>fix: detail view 搜索框聚焦 — onChange(showingSearch) + loadFull 完成后 focus，版本号 0.3.305</li><li>fix: 搜索框聚焦改用 .task + 200ms 延迟，等窗口 key 后再设 focus，版本号 0.3.304</li><li>fix: macOS 本地搜索三个 bug — 高亮复用失效、输入框未聚焦、大文档初始搜索/滚动异常，版本号 0.3.303</li><li>chore: CFBundleShortVersionString 0.3.302</li><li>feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking</li><li>fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch</li><li>fix: Sparkle Updater.app 缺失导致安装器无法启动</li><li>chore: CFBundleShortVersionString 0.3.301</li><li>fix: Sparkle runModal 阻断主线程 — sendNotification 移出 MainActor，检查更新非阻塞化</li><li>feat: fork mode 会话 iOS 通知 title 加 ` · 仅 Mac` 后缀且禁止跳转</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1337+248441c/ClaudeUsageMenuBar-0.3.310-beta.1337+248441c.dmg" sparkle:edSignature="DqGTv2bP0TfXdw76db3Zl3453BkswiJy6noMajPUkXInHwf/piUTqeE3ke+HB5P980q3ff9GifKZgJGxWjyGBw==" length="10562096" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1338+95596f0</title>
       <guid isPermaLink="false">95596f0cfa28675027d87c7a1d1d0af05e276aa7</guid>
       <sparkle:version>1338</sparkle:version>
@@ -13,19 +24,8 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 29 Apr 2026 05:06:43 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1338 · 95596f0</h3><ul><li>fix: usage CK record 按设备分桶，消除多台设备互踩</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1338 · 95596f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage CK record 按设备分桶，消除多台设备互踩&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1338+95596f0/ClaudeUsageMenuBar-0.3.310-beta.1338+95596f0.dmg" sparkle:edSignature="vyrLjC9+LXXmj4YwedErSVx3fHqPpIWqSDuE5sB5OHeJhuajVvPGRt9Rpo2EiEjWRo5mS5u6wNT+Mz79E9YiCQ==" length="10568154" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1337+248441c</title>
-      <guid isPermaLink="false">248441ca3fb87337902aed5abcb01e6b0659bbc1</guid>
-      <sparkle:version>1337</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1337+248441c</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 13:12:10 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1337 · 248441c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图表 hover tooltip 预测区域抖动 — 缓存 prediction + overlay 渲染&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1337+248441c/ClaudeUsageMenuBar-0.3.310-beta.1337+248441c.dmg" sparkle:edSignature="ptQs2OibUvQJpxu1pavv7hq7xnAAwIAM/lHXlkZsJqOB38k8Fx1EWiTrB1z4w6m+WLMjXlaoVVYJB9dCvKEWCg==" length="10561684" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.310-beta.1336+b272d1b</title>
