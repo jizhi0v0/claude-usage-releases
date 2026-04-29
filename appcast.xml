@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1340+7d378d2</title>
+      <guid isPermaLink="false">7d378d23704a03bf407cec30885c939da46956e1</guid>
+      <sparkle:version>1340</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1340+7d378d2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 29 Apr 2026 16:17:56 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1340 · 7d378d2</h3><ul><li>fix: usage CK 分离数据与状态——非 ok 只更新 deviceStatus 不覆盖 json</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1340+7d378d2/ClaudeUsageMenuBar-0.3.310-beta.1340+7d378d2.dmg" sparkle:edSignature="6qjSkpiA+OwYvavaLWZuKcw57dg7Y09ubRSsH/KsyxdLBTqUOVQ/cnsLiJAwDAg5oLKpFIJ33IkFo8Eyy0ugBA==" length="10572109" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1339+a46314c</title>
       <guid isPermaLink="false">a46314cc9e9f3613c3fafa8eac3620e2265319da</guid>
       <sparkle:version>1339</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 29 Apr 2026 15:42:50 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1339 · a46314c</h3><ul><li>fix: 从设备 token_expired 永久卡住 + iOS usage 快照使用过期记录名</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1339 · a46314c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 从设备 token_expired 永久卡住 + iOS usage 快照使用过期记录名&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1339+a46314c/ClaudeUsageMenuBar-0.3.310-beta.1339+a46314c.dmg" sparkle:edSignature="GgRdiPpJY9yVHerbAkbAUZo2H3Fda0wGJ8jqBvLOxBBj+UVv7tyqLE3SnT10MzcKnv/DjVfUPa2bspwcT2T3Dg==" length="10570543" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 05:22:16 +0000</pubDate>
       <description>&lt;h3&gt;Build 1321 · e8e392b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Sparkle Updater.app 缺失导致安装器无法启动&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1321+e8e392b/ClaudeUsageMenuBar-0.3.301-beta.1321+e8e392b.dmg" sparkle:edSignature="UmGBQP3eToLBVxsdcle6VqtC/OPWnRQU3MYH4RIw+2ZGWIch5IrU5u8TnbTxhGcSHiDCJXUY/OXFlI34PUMOBA==" length="10356120" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.301-beta.1320+8c357c5</title>
-      <guid isPermaLink="false">8c357c58facce32a68ec70e46a54bc556c341529</guid>
-      <sparkle:version>1320</sparkle:version>
-      <sparkle:shortVersionString>0.3.301-beta.1320+8c357c5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 03:48:03 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1320 · 8c357c5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.301&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1320+8c357c5/ClaudeUsageMenuBar-0.3.301-beta.1320+8c357c5.dmg" sparkle:edSignature="SwdhcDsuUZsy88XGjV5uJSuZ3eWEXJqByDKPyPMo08bBzxDl4yRpJwrN6eacZL9CQ/+XcTFSqLgvsH98fJGiDw==" length="10356152" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
