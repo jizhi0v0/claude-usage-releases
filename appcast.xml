@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1341+d2ff6dc</title>
+      <guid isPermaLink="false">d2ff6dc94622b19fc87649a2b636b669a728d580</guid>
+      <sparkle:version>1341</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1341+d2ff6dc</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 29 Apr 2026 17:20:34 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1341 · d2ff6dc</h3><ul><li>fix: CK query 用 queryable 字段替代 NSPredicate(value: true)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1341+d2ff6dc/ClaudeUsageMenuBar-0.3.310-beta.1341+d2ff6dc.dmg" sparkle:edSignature="HLAyaGmnD1hbjJA0Pyv7cQf0U5m0NS0ouNedVwwNbSVhC2sCVYQKOjHA/gekeplwXPPLKfMuo+91nn9y6w6SAQ==" length="10572162" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1340+7d378d2</title>
       <guid isPermaLink="false">7d378d23704a03bf407cec30885c939da46956e1</guid>
       <sparkle:version>1340</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 29 Apr 2026 16:17:56 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1340 · 7d378d2</h3><ul><li>fix: usage CK 分离数据与状态——非 ok 只更新 deviceStatus 不覆盖 json</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1340 · 7d378d2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage CK 分离数据与状态——非 ok 只更新 deviceStatus 不覆盖 json&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1340+7d378d2/ClaudeUsageMenuBar-0.3.310-beta.1340+7d378d2.dmg" sparkle:edSignature="6qjSkpiA+OwYvavaLWZuKcw57dg7Y09ubRSsH/KsyxdLBTqUOVQ/cnsLiJAwDAg5oLKpFIJ33IkFo8Eyy0ugBA==" length="10572109" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 05:38:19 +0000</pubDate>
       <description>&lt;h3&gt;Build 1322 · 2be82d4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1322+2be82d4/ClaudeUsageMenuBar-0.3.301-beta.1322+2be82d4.dmg" sparkle:edSignature="6VEqRwf1NQaGW01FZy+6JnSYIeBlj7DuVo3ZsSwidGwXV1I59PL0+FQ9Xxrn5ENbSxeGp91d5bVmmICSoOGsCQ==" length="10356178" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.301-beta.1321+e8e392b</title>
-      <guid isPermaLink="false">e8e392bc8b1b7b3a7c50b6c7e4b05b20884909dc</guid>
-      <sparkle:version>1321</sparkle:version>
-      <sparkle:shortVersionString>0.3.301-beta.1321+e8e392b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 05:22:16 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1321 · e8e392b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Sparkle Updater.app 缺失导致安装器无法启动&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1321+e8e392b/ClaudeUsageMenuBar-0.3.301-beta.1321+e8e392b.dmg" sparkle:edSignature="UmGBQP3eToLBVxsdcle6VqtC/OPWnRQU3MYH4RIw+2ZGWIch5IrU5u8TnbTxhGcSHiDCJXUY/OXFlI34PUMOBA==" length="10356120" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
