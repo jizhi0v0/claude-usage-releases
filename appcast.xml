@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1352+9c75fba</title>
+      <guid isPermaLink="false">9c75fbad72dcb87fbf0a97141cfd081ead7fc0ca</guid>
+      <sparkle:version>1352</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1352+9c75fba</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 09:54:48 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1352 · 9c75fba</h3><ul><li>fix: 本地文件图片提升分辨率（480→1600px, JPEG 0.7→0.85）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1352+9c75fba/ClaudeUsageMenuBar-0.3.312-beta.1352+9c75fba.dmg" sparkle:edSignature="33t3q9JLA25Pd75i2HLfh949Da4VuBe7MCHNTaPt03AMQj9C5h6MfD5UNMNZOsUeNm2+pKCgdjOk+09y2lpvAQ==" length="10594068" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1351+bf82fef</title>
       <guid isPermaLink="false">bf82fef9b5ad630f4a01cc37da8aba6eff5cde79</guid>
       <sparkle:version>1351</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 09:04:11 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1351 · bf82fef</h3><ul><li>fix: 图片重复 + macOS 用原图提升清晰度</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1351 · bf82fef&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图片重复 + macOS 用原图提升清晰度&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1351+bf82fef/ClaudeUsageMenuBar-0.3.312-beta.1351+bf82fef.dmg" sparkle:edSignature="gYPcqrrwyLyo/PSDJ4Y4ByohtFTCuwCt9GfDbnSAMH7UI2f/Lno9VxeovO+kzPXgjx5HNZ4iLIg7dY3gSNZ3BQ==" length="10594113" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 09:38:05 +0000</pubDate>
       <description>&lt;h3&gt;Build 1332 · 9aac731&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 通知点击跳转 — PPID 遍历改为无条件执行&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1332+9aac731/ClaudeUsageMenuBar-0.3.310-beta.1332+9aac731.dmg" sparkle:edSignature="dPFgzV6IQvEJ3S7ItB0Y2sqgOoMSW0aNbAG4GO4XJWMSWu5Vt+FOz5LN+jgB7EH79jLwnLvKkdNDur8h/IcGCg==" length="10543082" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.309-beta.1331+51609dc</title>
-      <guid isPermaLink="false">51609dca3471d789094d31d84795a971f1289850</guid>
-      <sparkle:version>1331</sparkle:version>
-      <sparkle:shortVersionString>0.3.309-beta.1331+51609dc</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 09:27:54 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1331 · 51609dc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.309-beta.1331+51609dc/ClaudeUsageMenuBar-0.3.309-beta.1331+51609dc.dmg" sparkle:edSignature="fDtMKVplnfO55vdbU4liL5RTJAtzcU+PcYqXKFa8+OxJ4XrjIDmsVMdFYj5ckzHvaDbGsRkGMHuRDLs25y/OBg==" length="10542815" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
