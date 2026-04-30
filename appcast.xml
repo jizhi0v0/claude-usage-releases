@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1342+6b4d167</title>
+      <guid isPermaLink="false">6b4d167406a5948e4f1a472c4e59eb9e42cc53b1</guid>
+      <sparkle:version>1342</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1342+6b4d167</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 03:08:31 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1342 · 6b4d167</h3><ul><li>fix: 搜索详情页选中溢出 + toolbar 图标加文字 + 冗余默认开启</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1342+6b4d167/ClaudeUsageMenuBar-0.3.310-beta.1342+6b4d167.dmg" sparkle:edSignature="mzKY65YBrJoo1PyXTGNtj0Zvp7gXcx0c+H+GjBHL/COW1Jf1T072TQQgrYmDr0b+mMaRwFqp9QBUilf0sfZmCg==" length="10572491" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1341+d2ff6dc</title>
       <guid isPermaLink="false">d2ff6dc94622b19fc87649a2b636b669a728d580</guid>
       <sparkle:version>1341</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 29 Apr 2026 17:20:34 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1341 · d2ff6dc</h3><ul><li>fix: CK query 用 queryable 字段替代 NSPredicate(value: true)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1341 · d2ff6dc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CK query 用 queryable 字段替代 NSPredicate(value: true)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1341+d2ff6dc/ClaudeUsageMenuBar-0.3.310-beta.1341+d2ff6dc.dmg" sparkle:edSignature="HLAyaGmnD1hbjJA0Pyv7cQf0U5m0NS0ouNedVwwNbSVhC2sCVYQKOjHA/gekeplwXPPLKfMuo+91nn9y6w6SAQ==" length="10572162" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 06:35:14 +0000</pubDate>
       <description>&lt;h3&gt;Build 1323 · ac873a5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1323+ac873a5/ClaudeUsageMenuBar-0.3.301-beta.1323+ac873a5.dmg" sparkle:edSignature="/A2N82sT3b43Bb/442wtYrqnrR9u6SbEPf2bc7E/RAWCDQ0rWaAX0MiIZuRoEUpmu/W6YrdreM5823kiZTVGAg==" length="10502834" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.301-beta.1322+2be82d4</title>
-      <guid isPermaLink="false">2be82d4cc93718b7b9b4ca9113090c5cf7650d33</guid>
-      <sparkle:version>1322</sparkle:version>
-      <sparkle:shortVersionString>0.3.301-beta.1322+2be82d4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 05:38:19 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1322 · 2be82d4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1322+2be82d4/ClaudeUsageMenuBar-0.3.301-beta.1322+2be82d4.dmg" sparkle:edSignature="6VEqRwf1NQaGW01FZy+6JnSYIeBlj7DuVo3ZsSwidGwXV1I59PL0+FQ9Xxrn5ENbSxeGp91d5bVmmICSoOGsCQ==" length="10356178" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
