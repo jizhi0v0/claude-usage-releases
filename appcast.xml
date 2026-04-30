@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1355+f8b1f99</title>
+      <guid isPermaLink="false">f8b1f990bcef939f22a4e4885cfa948d159613d6</guid>
+      <sparkle:version>1355</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1355+f8b1f99</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 10:09:25 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1355 · f8b1f99</h3><ul><li>feat: lightbox 点击加载原图（缩略图内联 + bridge 按需拉原图）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1355+f8b1f99/ClaudeUsageMenuBar-0.3.312-beta.1355+f8b1f99.dmg" sparkle:edSignature="cSOT4Owlii4NcP/ws2xcF5CNUfF4bRtFSpCLq3ggaXtj4JO20OZkMsdl3WkHl+vJinU1VaDbbx+pLA2y46c7Ag==" length="10589552" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1354+c8d905f</title>
       <guid isPermaLink="false">c8d905f7a4d905ee51cd70c5058ec82d969248fb</guid>
       <sparkle:version>1354</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 10:01:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1354 · c8d905f</h3><ul><li>fix: 剥掉 [Image: source: /path] 噪音文本</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1354 · c8d905f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 剥掉 [Image: source: /path] 噪音文本&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1354+c8d905f/ClaudeUsageMenuBar-0.3.312-beta.1354+c8d905f.dmg" sparkle:edSignature="vHSpkkH1ysK4zQOJ3O3i31lPCZe5Jxovlgr3IOmLpxy7oNs5EVHUe29gQNFVtt3CxIR4OAC/h4YIkOAToc3eAA==" length="10583824" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 12:04:40 +0000</pubDate>
       <description>&lt;h3&gt;Build 1335 · 628771b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1335+628771b/ClaudeUsageMenuBar-0.3.310-beta.1335+628771b.dmg" sparkle:edSignature="BlwDm5Vz4PkdKtZQIRMI6bWb6UlY5YZf9GgQBQezxJAupubRaanrAfb5XLO3I1UyG+wqZqRt5teOR1VRXZXnBQ==" length="10551492" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1334+d37e280</title>
-      <guid isPermaLink="false">d37e2802f272e03b8edd65aa6b00de40defcc482</guid>
-      <sparkle:version>1334</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1334+d37e280</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 10:26:49 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1334 · d37e280&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1334+d37e280/ClaudeUsageMenuBar-0.3.310-beta.1334+d37e280.dmg" sparkle:edSignature="8G99irnM7opT56pGl4lGcSHDIER9alrtwiTOSueyWG1tL7oBW2W+m9SeJ7qIxqtlvNYoOCY1hUczM15hERrEDA==" length="10549806" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
