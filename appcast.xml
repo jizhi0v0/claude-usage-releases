@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.311-beta.1346+b08981a</title>
+      <guid isPermaLink="false">b08981a3bfbedde05b39cafbea95da04658d9d29</guid>
+      <sparkle:version>1346</sparkle:version>
+      <sparkle:shortVersionString>0.3.311-beta.1346+b08981a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 03:50:20 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1346 · b08981a</h3><ul><li>fix: LA token 过期后后台自动 restart，不再依赖用户手动打开 app</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.311-beta.1346+b08981a/ClaudeUsageMenuBar-0.3.311-beta.1346+b08981a.dmg" sparkle:edSignature="SOry6IYymNEsGCCFpVPvhbMYGm+JLhPwSEfyhCcgFMdYc1k4ik2eudgBQPupp5eCV6E5+XNTYxwn7/xdQZ2sAQ==" length="10572799" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.311-beta.1344+75df13d</title>
       <guid isPermaLink="false">75df13d2d0511515c3fbd6d936653e63525669c4</guid>
       <sparkle:version>1344</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 03:39:50 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1344 · 75df13d</h3><ul><li>fix: honor redundant toggle during transcript search</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1344 · 75df13d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: honor redundant toggle during transcript search&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.311-beta.1344+75df13d/ClaudeUsageMenuBar-0.3.311-beta.1344+75df13d.dmg" sparkle:edSignature="/eZXTcK4b76mPIUREkjYCkxlx8LchTayZl9pwmK7qALqY35bK9FyKspfulyf7BB/8WV99ysHUpRxoDhgzTjOBg==" length="10573118" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 07:17:57 +0000</pubDate>
       <description>&lt;h3&gt;Build 1326 · 5bf637f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 搜索框聚焦改用 .task + 200ms 延迟，等窗口 key 后再设 focus，版本号 0.3.304&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.304-beta.1326+5bf637f/ClaudeUsageMenuBar-0.3.304-beta.1326+5bf637f.dmg" sparkle:edSignature="pJyj6Mal5CwUpZgL2jUo1eHUG2DGRsVHPhBFq6kdHaYyoaCBuYQlVrPXwdGZoLN5X6Pd/XWfcvAIyGNoDhwKCw==" length="10510216" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.303-beta.1325+cc8609b</title>
-      <guid isPermaLink="false">cc8609b3e169fab48276ee23b7e10b39cf5b689d</guid>
-      <sparkle:version>1325</sparkle:version>
-      <sparkle:shortVersionString>0.3.303-beta.1325+cc8609b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 06:57:05 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1325 · cc8609b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: macOS 本地搜索三个 bug — 高亮复用失效、输入框未聚焦、大文档初始搜索/滚动异常，版本号 0.3.303&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.303-beta.1325+cc8609b/ClaudeUsageMenuBar-0.3.303-beta.1325+cc8609b.dmg" sparkle:edSignature="9QHojMFqOlvapwdvKOsaJxQuN8V71VLZ29GuIP+AodybzA6kc4Wix0MW6msLlvffaKQUvq86yaaH6OLK17f9Ag==" length="10506057" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
