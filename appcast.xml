@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1351+bf82fef</title>
+      <guid isPermaLink="false">bf82fef9b5ad630f4a01cc37da8aba6eff5cde79</guid>
+      <sparkle:version>1351</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1351+bf82fef</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 09:04:11 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1351 · bf82fef</h3><ul><li>fix: 图片重复 + macOS 用原图提升清晰度</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1351+bf82fef/ClaudeUsageMenuBar-0.3.312-beta.1351+bf82fef.dmg" sparkle:edSignature="gYPcqrrwyLyo/PSDJ4Y4ByohtFTCuwCt9GfDbnSAMH7UI2f/Lno9VxeovO+kzPXgjx5HNZ4iLIg7dY3gSNZ3BQ==" length="10594113" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1350+c15dd24</title>
       <guid isPermaLink="false">c15dd2480759a36da6a9856a3f867248eace18f8</guid>
       <sparkle:version>1350</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 09:00:12 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1350 · c15dd24</h3><ul><li>fix: transcript 图片内联替换 + 本地文件图片 + lightbox 放大</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1350 · c15dd24&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: transcript 图片内联替换 + 本地文件图片 + lightbox 放大&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1350+c15dd24/ClaudeUsageMenuBar-0.3.312-beta.1350+c15dd24.dmg" sparkle:edSignature="1m2EOWWIKW31EhHCFe+YcgW8feS5UMKrJWE7TjSEnXx3GWOo7dThkc449QJJZOdEzUXpv/Xq3mxHM6T4BNY9Bw==" length="10601513" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 09:27:54 +0000</pubDate>
       <description>&lt;h3&gt;Build 1331 · 51609dc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.309-beta.1331+51609dc/ClaudeUsageMenuBar-0.3.309-beta.1331+51609dc.dmg" sparkle:edSignature="fDtMKVplnfO55vdbU4liL5RTJAtzcU+PcYqXKFa8+OxJ4XrjIDmsVMdFYj5ckzHvaDbGsRkGMHuRDLs25y/OBg==" length="10542815" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.308-beta.1330+89f7c2a</title>
-      <guid isPermaLink="false">89f7c2a1f80cb448f0cd5efbe93249fa81b754cd</guid>
-      <sparkle:version>1330</sparkle:version>
-      <sparkle:shortVersionString>0.3.308-beta.1330+89f7c2a</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 09:15:48 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1330 · 89f7c2a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: DB 存储 parent_session_id，subagent resume 指向父会话&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.308-beta.1330+89f7c2a/ClaudeUsageMenuBar-0.3.308-beta.1330+89f7c2a.dmg" sparkle:edSignature="f+EHLwjSR5DNGYWptA1HN0vh+RAkWQj6WZ7f9ZhUAdzL+H+e/owJZeVvUa1Zux1XDfIh3Gn7Eut2fu1UsjovCw==" length="10533144" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
