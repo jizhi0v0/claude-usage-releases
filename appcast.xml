@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1360+bed268e</title>
+      <guid isPermaLink="false">bed268e65fabe9b08c0ebfb837e91b7b6a5b1707</guid>
+      <sparkle:version>1360</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1360+bed268e</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 14:59:50 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1360 · bed268e</h3><ul><li>fix: LA push 不再跳过 + standby 不覆盖 CKSync 好数据</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1360+bed268e/ClaudeUsageMenuBar-0.3.312-beta.1360+bed268e.dmg" sparkle:edSignature="ZRIIQ3Gx2BkPE3tl2fS7AgJ0jePxAjao7tuAIk8Mln7EPwJj5eTLlULNfaVW1qEqg59/V/h9RXC/Rn2JM4OOBg==" length="10595638" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1359+0a40d29</title>
       <guid isPermaLink="false">0a40d293e882ebd382a15c0f54f55c04793745eb</guid>
       <sparkle:version>1359</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 11:25:17 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1359 · 0a40d29</h3><ul><li>fix: 右键终止会话改用 onTapGesture + SIGKILL</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1359 · 0a40d29&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 右键终止会话改用 onTapGesture + SIGKILL&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1359+0a40d29/ClaudeUsageMenuBar-0.3.312-beta.1359+0a40d29.dmg" sparkle:edSignature="xetbHYfcfz5CBmGL59NFVTF6wTAccwU+ccyehOAXxWlc85L3AS78yAnjhV1h4COQFQ1TwbxWEl0GkCUQBU8BCw==" length="10598106" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Wed, 29 Apr 2026 16:17:56 +0000</pubDate>
       <description>&lt;h3&gt;Build 1340 · 7d378d2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage CK 分离数据与状态——非 ok 只更新 deviceStatus 不覆盖 json&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1340+7d378d2/ClaudeUsageMenuBar-0.3.310-beta.1340+7d378d2.dmg" sparkle:edSignature="6qjSkpiA+OwYvavaLWZuKcw57dg7Y09ubRSsH/KsyxdLBTqUOVQ/cnsLiJAwDAg5oLKpFIJ33IkFo8Eyy0ugBA==" length="10572109" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1339+a46314c</title>
-      <guid isPermaLink="false">a46314cc9e9f3613c3fafa8eac3620e2265319da</guid>
-      <sparkle:version>1339</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1339+a46314c</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 29 Apr 2026 15:42:50 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1339 · a46314c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 从设备 token_expired 永久卡住 + iOS usage 快照使用过期记录名&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1339+a46314c/ClaudeUsageMenuBar-0.3.310-beta.1339+a46314c.dmg" sparkle:edSignature="GgRdiPpJY9yVHerbAkbAUZo2H3Fda0wGJ8jqBvLOxBBj+UVv7tyqLE3SnT10MzcKnv/DjVfUPa2bspwcT2T3Dg==" length="10570543" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
