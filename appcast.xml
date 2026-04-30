@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1347+2c63a6b</title>
+      <guid isPermaLink="false">2c63a6b9c84cec1362691e1b6b11f401bb634727</guid>
+      <sparkle:version>1347</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1347+2c63a6b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 03:54:08 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1347 · 2c63a6b</h3><ul><li>fix: align transcript highlights with search results</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1347+2c63a6b/ClaudeUsageMenuBar-0.3.312-beta.1347+2c63a6b.dmg" sparkle:edSignature="uyO4h/g+2TGdz4JZQa/5xuAOVeahaKfsS4Kk7tvHJYaCEAt+qGua+IJcFHXitVJcibzCN6/JiuumRVStLBaMBA==" length="10569561" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.311-beta.1346+b08981a</title>
       <guid isPermaLink="false">b08981a3bfbedde05b39cafbea95da04658d9d29</guid>
       <sparkle:version>1346</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 03:50:20 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1346 · b08981a</h3><ul><li>fix: LA token 过期后后台自动 restart，不再依赖用户手动打开 app</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1346 · b08981a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: LA token 过期后后台自动 restart，不再依赖用户手动打开 app&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.311-beta.1346+b08981a/ClaudeUsageMenuBar-0.3.311-beta.1346+b08981a.dmg" sparkle:edSignature="SOry6IYymNEsGCCFpVPvhbMYGm+JLhPwSEfyhCcgFMdYc1k4ik2eudgBQPupp5eCV6E5+XNTYxwn7/xdQZ2sAQ==" length="10572799" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 07:34:15 +0000</pubDate>
       <description>&lt;h3&gt;Build 1327 · 620e632&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: detail view 搜索框聚焦 — onChange(showingSearch) + loadFull 完成后 focus，版本号 0.3.305&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.305-beta.1327+620e632/ClaudeUsageMenuBar-0.3.305-beta.1327+620e632.dmg" sparkle:edSignature="OGLTuW3S4eRL30vC61VD/rD2G9T/LabbjbpSZVFojXYharh7xMba8/4Esk9NQOHi8fbnBfwbSYzjq5Pu+Qz3BQ==" length="10515781" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.304-beta.1326+5bf637f</title>
-      <guid isPermaLink="false">5bf637fd34b8f3b94e13f627f3a2793409ad3eb9</guid>
-      <sparkle:version>1326</sparkle:version>
-      <sparkle:shortVersionString>0.3.304-beta.1326+5bf637f</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 07:17:57 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1326 · 5bf637f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 搜索框聚焦改用 .task + 200ms 延迟，等窗口 key 后再设 focus，版本号 0.3.304&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.304-beta.1326+5bf637f/ClaudeUsageMenuBar-0.3.304-beta.1326+5bf637f.dmg" sparkle:edSignature="pJyj6Mal5CwUpZgL2jUo1eHUG2DGRsVHPhBFq6kdHaYyoaCBuYQlVrPXwdGZoLN5X6Pd/XWfcvAIyGNoDhwKCw==" length="10510216" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
