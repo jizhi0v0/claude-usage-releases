@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1359+0a40d29</title>
+      <guid isPermaLink="false">0a40d293e882ebd382a15c0f54f55c04793745eb</guid>
+      <sparkle:version>1359</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1359+0a40d29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 11:25:17 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1359 · 0a40d29</h3><ul><li>fix: 右键终止会话改用 onTapGesture + SIGKILL</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1359+0a40d29/ClaudeUsageMenuBar-0.3.312-beta.1359+0a40d29.dmg" sparkle:edSignature="xetbHYfcfz5CBmGL59NFVTF6wTAccwU+ccyehOAXxWlc85L3AS78yAnjhV1h4COQFQ1TwbxWEl0GkCUQBU8BCw==" length="10598106" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1358+4ef07d7</title>
       <guid isPermaLink="false">4ef07d70d037ccd3ea95f9fecf7513c3d5eb461f</guid>
       <sparkle:version>1358</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 11:16:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1358 · 4ef07d7</h3><ul><li>feat: 孤儿进程检测 — 终端关闭后存活的 claude 会话标记灰色 + tag</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1358 · 4ef07d7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 孤儿进程检测 — 终端关闭后存活的 claude 会话标记灰色 + tag&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1358+4ef07d7/ClaudeUsageMenuBar-0.3.312-beta.1358+4ef07d7.dmg" sparkle:edSignature="nga0H62r22jfKzBWn+kgWqgaY1mPAlcfORbWxCtuTQXlVOcJY7b72q6f7Phep3uDebDUpqPBr+Ar/XXiGd9zCg==" length="10599216" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Wed, 29 Apr 2026 15:42:50 +0000</pubDate>
       <description>&lt;h3&gt;Build 1339 · a46314c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 从设备 token_expired 永久卡住 + iOS usage 快照使用过期记录名&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1339+a46314c/ClaudeUsageMenuBar-0.3.310-beta.1339+a46314c.dmg" sparkle:edSignature="GgRdiPpJY9yVHerbAkbAUZo2H3Fda0wGJ8jqBvLOxBBj+UVv7tyqLE3SnT10MzcKnv/DjVfUPa2bspwcT2T3Dg==" length="10570543" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1338+95596f0</title>
-      <guid isPermaLink="false">95596f0cfa28675027d87c7a1d1d0af05e276aa7</guid>
-      <sparkle:version>1338</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1338+95596f0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 29 Apr 2026 15:08:28 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1338 · 95596f0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: usage CK record 按设备分桶，消除多台设备互踩&lt;/li&gt;&lt;li&gt;fix: 图表 hover tooltip 预测区域抖动 — 缓存 prediction + overlay 渲染&lt;/li&gt;&lt;li&gt;fix: 图表 hover tooltip 抖动 + status history 高度溢出&lt;/li&gt;&lt;li&gt;fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart&lt;/li&gt;&lt;li&gt;feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐&lt;/li&gt;&lt;li&gt;fix: Sparkle 跳版本检测移到 install 时 — ETag HEAD 快速比对&lt;/li&gt;&lt;li&gt;fix: 通知点击跳转 — PPID 遍历改为无条件执行&lt;/li&gt;&lt;li&gt;feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为&lt;/li&gt;&lt;li&gt;feat: DB 存储 parent_session_id，subagent resume 指向父会话&lt;/li&gt;&lt;li&gt;fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）&lt;/li&gt;&lt;li&gt;feat: 搜索结果右键菜单 — 复制 claude --resume 命令、在 Ghostty/终端中打开，版本号 0.3.306&lt;/li&gt;&lt;li&gt;fix: detail view 搜索框聚焦 — onChange(showingSearch) + loadFull 完成后 focus，版本号 0.3.305&lt;/li&gt;&lt;li&gt;fix: 搜索框聚焦改用 .task + 200ms 延迟，等窗口 key 后再设 focus，版本号 0.3.304&lt;/li&gt;&lt;li&gt;fix: macOS 本地搜索三个 bug — 高亮复用失效、输入框未聚焦、大文档初始搜索/滚动异常，版本号 0.3.303&lt;/li&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.302&lt;/li&gt;&lt;li&gt;feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking&lt;/li&gt;&lt;li&gt;fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch&lt;/li&gt;&lt;li&gt;fix: Sparkle Updater.app 缺失导致安装器无法启动&lt;/li&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.301&lt;/li&gt;&lt;li&gt;fix: Sparkle runModal 阻断主线程 — sendNotification 移出 MainActor，检查更新非阻塞化&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1338+95596f0/ClaudeUsageMenuBar-0.3.310-beta.1338+95596f0.dmg" sparkle:edSignature="1Cbw9k8K2LMmAolOv1D8mxenQhAb2n9NUMwlSyc9PjvGpFeF9oBa+xZZv9R9gmdeB2nPbfl8HKbRiv/lbOhjCQ==" length="10567822" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
