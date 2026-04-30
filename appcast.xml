@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1349+26bac83</title>
+      <guid isPermaLink="false">26bac834c7ae187c5ef14e2159b4367851784ff5</guid>
+      <sparkle:version>1349</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1349+26bac83</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 07:49:16 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1349 · 26bac83</h3><ul><li>fix: transcript 详情页渲染图片 + readDetailFull imageRefs 对齐</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1349+26bac83/ClaudeUsageMenuBar-0.3.312-beta.1349+26bac83.dmg" sparkle:edSignature="lk0KCtvl4e5wzd33vOX5avJg/dXJjzO2/XszWmU18aAUVNNB4gYlQqbmn2fjFxsmUeFYYd8pxr5d7hsDd3M5CQ==" length="10582864" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1348+c4ed3a4</title>
       <guid isPermaLink="false">c4ed3a476dbb29f2f663f5e47884f87df0caf614</guid>
       <sparkle:version>1348</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 07:07:08 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1348 · c4ed3a4</h3><ul><li>fix: 降低 CK 写入噪音 + LA push 变更检测，修复 iOS Live Activity 延迟</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1348 · c4ed3a4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 降低 CK 写入噪音 + LA push 变更检测，修复 iOS Live Activity 延迟&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1348+c4ed3a4/ClaudeUsageMenuBar-0.3.312-beta.1348+c4ed3a4.dmg" sparkle:edSignature="nKjJaQQHXQQQ0l0quxIwPFMJX4Cf4x84OFdMn9X6Rqjmxht9dhI+NOqEw+LBH7JDFbx7PC+joEnmP+Vh8weDAw==" length="10575018" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 09:06:02 +0000</pubDate>
       <description>&lt;h3&gt;Build 1329 · 5d09aa9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.307-beta.1329+5d09aa9/ClaudeUsageMenuBar-0.3.307-beta.1329+5d09aa9.dmg" sparkle:edSignature="MSHidVk8xcCrfnr8M2gE9pjYpbYNG2ffFSbmPEoikSSFaYRCHol2U6AAFROa1sVwWj+5ANyBr2Y8WUkdCRtzBg==" length="10525637" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.306-beta.1328+b5f6415</title>
-      <guid isPermaLink="false">b5f6415b34d9f3e8a9ca83e06c1329c6fa547edb</guid>
-      <sparkle:version>1328</sparkle:version>
-      <sparkle:shortVersionString>0.3.306-beta.1328+b5f6415</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 08:53:10 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1328 · b5f6415&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索结果右键菜单 — 复制 claude --resume 命令、在 Ghostty/终端中打开，版本号 0.3.306&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.306-beta.1328+b5f6415/ClaudeUsageMenuBar-0.3.306-beta.1328+b5f6415.dmg" sparkle:edSignature="rTbskCcVMQfL2q9LfAUzRVH/g9aZJr3zZIYoGKWJODPRvv2KLDUfiK86gZaipCAqjc6kvzFiXH8KDjfRAeIKCw==" length="10525941" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
