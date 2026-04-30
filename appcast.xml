@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.310-beta.1343+95ece34</title>
+      <guid isPermaLink="false">95ece34d8e1cc1634aad6542e28fa0664a2cac93</guid>
+      <sparkle:version>1343</sparkle:version>
+      <sparkle:shortVersionString>0.3.310-beta.1343+95ece34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 03:22:25 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1343 · 95ece34</h3><ul><li>fix: toolbar 按钮改用 HStack 替代 Label 修复冗余切换失效</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1343+95ece34/ClaudeUsageMenuBar-0.3.310-beta.1343+95ece34.dmg" sparkle:edSignature="LaesFuTECvNH9NpDZDX+rXwt9PpzzC1Tn+a6Uv/EG6FWuAShTD1DWExcNxJJgWtwg/Cu4saG7IEDAADGN1XIBA==" length="10572703" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.310-beta.1342+6b4d167</title>
       <guid isPermaLink="false">6b4d167406a5948e4f1a472c4e59eb9e42cc53b1</guid>
       <sparkle:version>1342</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 03:08:31 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1342 · 6b4d167</h3><ul><li>fix: 搜索详情页选中溢出 + toolbar 图标加文字 + 冗余默认开启</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1342 · 6b4d167&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 搜索详情页选中溢出 + toolbar 图标加文字 + 冗余默认开启&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1342+6b4d167/ClaudeUsageMenuBar-0.3.310-beta.1342+6b4d167.dmg" sparkle:edSignature="mzKY65YBrJoo1PyXTGNtj0Zvp7gXcx0c+H+GjBHL/COW1Jf1T072TQQgrYmDr0b+mMaRwFqp9QBUilf0sfZmCg==" length="10572491" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 06:43:25 +0000</pubDate>
       <description>&lt;h3&gt;Build 1324 · 48498d7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.302&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.302-beta.1324+48498d7/ClaudeUsageMenuBar-0.3.302-beta.1324+48498d7.dmg" sparkle:edSignature="D+d8P/CfJ0eq9on33C7LK5MoAQyta8MKtmWmUdTizrO+w8BJhNr1qLTJZnWOI6VnNnjPnSvfVFa3fFmJq3egCA==" length="10503145" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.301-beta.1323+ac873a5</title>
-      <guid isPermaLink="false">ac873a5e3409641afa3cff421584f792f1708417</guid>
-      <sparkle:version>1323</sparkle:version>
-      <sparkle:shortVersionString>0.3.301-beta.1323+ac873a5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 06:35:14 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1323 · ac873a5&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.301-beta.1323+ac873a5/ClaudeUsageMenuBar-0.3.301-beta.1323+ac873a5.dmg" sparkle:edSignature="/A2N82sT3b43Bb/442wtYrqnrR9u6SbEPf2bc7E/RAWCDQ0rWaAX0MiIZuRoEUpmu/W6YrdreM5823kiZTVGAg==" length="10502834" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
