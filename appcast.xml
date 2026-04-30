@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1348+c4ed3a4</title>
+      <guid isPermaLink="false">c4ed3a476dbb29f2f663f5e47884f87df0caf614</guid>
+      <sparkle:version>1348</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1348+c4ed3a4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 07:07:08 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1348 · c4ed3a4</h3><ul><li>fix: 降低 CK 写入噪音 + LA push 变更检测，修复 iOS Live Activity 延迟</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1348+c4ed3a4/ClaudeUsageMenuBar-0.3.312-beta.1348+c4ed3a4.dmg" sparkle:edSignature="nKjJaQQHXQQQ0l0quxIwPFMJX4Cf4x84OFdMn9X6Rqjmxht9dhI+NOqEw+LBH7JDFbx7PC+joEnmP+Vh8weDAw==" length="10575018" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1347+2c63a6b</title>
       <guid isPermaLink="false">2c63a6b9c84cec1362691e1b6b11f401bb634727</guid>
       <sparkle:version>1347</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 03:54:08 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1347 · 2c63a6b</h3><ul><li>fix: align transcript highlights with search results</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1347 · 2c63a6b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: align transcript highlights with search results&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1347+2c63a6b/ClaudeUsageMenuBar-0.3.312-beta.1347+2c63a6b.dmg" sparkle:edSignature="uyO4h/g+2TGdz4JZQa/5xuAOVeahaKfsS4Kk7tvHJYaCEAt+qGua+IJcFHXitVJcibzCN6/JiuumRVStLBaMBA==" length="10569561" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 08:53:10 +0000</pubDate>
       <description>&lt;h3&gt;Build 1328 · b5f6415&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: 搜索结果右键菜单 — 复制 claude --resume 命令、在 Ghostty/终端中打开，版本号 0.3.306&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.306-beta.1328+b5f6415/ClaudeUsageMenuBar-0.3.306-beta.1328+b5f6415.dmg" sparkle:edSignature="rTbskCcVMQfL2q9LfAUzRVH/g9aZJr3zZIYoGKWJODPRvv2KLDUfiK86gZaipCAqjc6kvzFiXH8KDjfRAeIKCw==" length="10525941" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.305-beta.1327+620e632</title>
-      <guid isPermaLink="false">620e632d5c8a4f11d9ca46c6ca3ee8208eac4e43</guid>
-      <sparkle:version>1327</sparkle:version>
-      <sparkle:shortVersionString>0.3.305-beta.1327+620e632</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 07:34:15 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1327 · 620e632&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: detail view 搜索框聚焦 — onChange(showingSearch) + loadFull 完成后 focus，版本号 0.3.305&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.305-beta.1327+620e632/ClaudeUsageMenuBar-0.3.305-beta.1327+620e632.dmg" sparkle:edSignature="OGLTuW3S4eRL30vC61VD/rD2G9T/LabbjbpSZVFojXYharh7xMba8/4Esk9NQOHi8fbnBfwbSYzjq5Pu+Qz3BQ==" length="10515781" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
