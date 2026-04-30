@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1357+b5a7210</title>
+      <guid isPermaLink="false">b5a7210eb7e178ea65da95960524b04c917465f5</guid>
+      <sparkle:version>1357</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1357+b5a7210</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 10:50:08 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1357 · b5a7210</h3><ul><li>fix: iOS lightbox 淡入淡出 + safe area 适配</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1357+b5a7210/ClaudeUsageMenuBar-0.3.312-beta.1357+b5a7210.dmg" sparkle:edSignature="PE1TJJJLzrjLXVhr6xdpklYMTaeSRjFdK9EEJQlkvxfxF5rJrJxNbeXEuWHvBoo0u+IYdaRURCP0S3WP20QoBw==" length="10592126" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1356+3017073</title>
       <guid isPermaLink="false">30170734e8bdeba39a4884593d7782a516bcb2f4</guid>
       <sparkle:version>1356</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 10:30:06 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1356 · 3017073</h3><ul><li>fix: 跳过空气泡 + lightbox loading spinner 和防抖</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1356 · 3017073&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 跳过空气泡 + lightbox loading spinner 和防抖&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1356+3017073/ClaudeUsageMenuBar-0.3.312-beta.1356+3017073.dmg" sparkle:edSignature="9AT7Yp8xZmOswvHRLpwXqp8WgDSQ0vdYmsJPw5gN9WP/OUSRV+aiOHCL6GcNlVNPte1ev/pzNr/WYABmaXQGDQ==" length="10592587" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Wed, 29 Apr 2026 08:32:12 +0000</pubDate>
       <description>&lt;h3&gt;Build 1337 · 248441c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图表 hover tooltip 预测区域抖动 — 缓存 prediction + overlay 渲染&lt;/li&gt;&lt;li&gt;fix: 图表 hover tooltip 抖动 + status history 高度溢出&lt;/li&gt;&lt;li&gt;fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart&lt;/li&gt;&lt;li&gt;feat: 搜索详情页默认折叠工具调用，toolbar toggle 切换显隐&lt;/li&gt;&lt;li&gt;fix: Sparkle 跳版本检测移到 install 时 — ETag HEAD 快速比对&lt;/li&gt;&lt;li&gt;fix: 通知点击跳转 — PPID 遍历改为无条件执行&lt;/li&gt;&lt;li&gt;feat: 搜索列表加项目目录图标 + 修 Ghostty/Terminal 打开行为&lt;/li&gt;&lt;li&gt;feat: DB 存储 parent_session_id，subagent resume 指向父会话&lt;/li&gt;&lt;li&gt;fix: getProjectCwd 兼容 subagent JSONL（无 type=system 行）&lt;/li&gt;&lt;li&gt;feat: 搜索结果右键菜单 — 复制 claude --resume 命令、在 Ghostty/终端中打开，版本号 0.3.306&lt;/li&gt;&lt;li&gt;fix: detail view 搜索框聚焦 — onChange(showingSearch) + loadFull 完成后 focus，版本号 0.3.305&lt;/li&gt;&lt;li&gt;fix: 搜索框聚焦改用 .task + 200ms 延迟，等窗口 key 后再设 focus，版本号 0.3.304&lt;/li&gt;&lt;li&gt;fix: macOS 本地搜索三个 bug — 高亮复用失效、输入框未聚焦、大文档初始搜索/滚动异常，版本号 0.3.303&lt;/li&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.302&lt;/li&gt;&lt;li&gt;feat: macOS 本地搜索 — 设置窗口新增「搜索」tab，会话详情保留 tool_use/tool_result/thinking&lt;/li&gt;&lt;li&gt;fix: 60s/300s timer 在 Sparkle runModal 期间不触发 fetch&lt;/li&gt;&lt;li&gt;fix: Sparkle Updater.app 缺失导致安装器无法启动&lt;/li&gt;&lt;li&gt;chore: CFBundleShortVersionString 0.3.301&lt;/li&gt;&lt;li&gt;fix: Sparkle runModal 阻断主线程 — sendNotification 移出 MainActor，检查更新非阻塞化&lt;/li&gt;&lt;li&gt;feat: fork mode 会话 iOS 通知 title 加 ` · 仅 Mac` 后缀且禁止跳转&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1337+248441c/ClaudeUsageMenuBar-0.3.310-beta.1337+248441c.dmg" sparkle:edSignature="DqGTv2bP0TfXdw76db3Zl3453BkswiJy6noMajPUkXInHwf/piUTqeE3ke+HB5P980q3ff9GifKZgJGxWjyGBw==" length="10562096" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1336+b272d1b</title>
-      <guid isPermaLink="false">b272d1b89a3a86e9bfd84c56388bf0c00ed86d29</guid>
-      <sparkle:version>1336</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1336+b272d1b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 12:52:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1336 · b272d1b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图表 hover tooltip 抖动 + status history 高度溢出&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1336+b272d1b/ClaudeUsageMenuBar-0.3.310-beta.1336+b272d1b.dmg" sparkle:edSignature="y+OPPhvkd0CnEd+L/dGuNWNv+qVhXvdDZuJMy7Jx7+Yzi/oxvmG0qeR3aqJ2BDvQ19xRJ3lb9WJaYH/pFfSRDw==" length="10559341" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
