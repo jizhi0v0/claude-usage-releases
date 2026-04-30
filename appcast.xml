@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1353+cd556a9</title>
+      <guid isPermaLink="false">cd556a936209a98dfd4e37403e3a380a8288dfb9</guid>
+      <sparkle:version>1353</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1353+cd556a9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 09:57:56 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1353 · cd556a9</h3><ul><li>fix: 移除本地文件图片渲染，消除与 base64 图片的视觉重复</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1353+cd556a9/ClaudeUsageMenuBar-0.3.312-beta.1353+cd556a9.dmg" sparkle:edSignature="VHgVXTWHIIR6JWOHOJFRcYMqYtMlIciTHN6GyPGBGfLkdfkvo/42NxQfZ7zdjDldLFEf3oh4670sFhWNDh2eAA==" length="10583416" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1352+9c75fba</title>
       <guid isPermaLink="false">9c75fbad72dcb87fbf0a97141cfd081ead7fc0ca</guid>
       <sparkle:version>1352</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 09:54:48 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1352 · 9c75fba</h3><ul><li>fix: 本地文件图片提升分辨率（480→1600px, JPEG 0.7→0.85）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1352 · 9c75fba&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 本地文件图片提升分辨率（480→1600px, JPEG 0.7→0.85）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1352+9c75fba/ClaudeUsageMenuBar-0.3.312-beta.1352+9c75fba.dmg" sparkle:edSignature="33t3q9JLA25Pd75i2HLfh949Da4VuBe7MCHNTaPt03AMQj9C5h6MfD5UNMNZOsUeNm2+pKCgdjOk+09y2lpvAQ==" length="10594068" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 10:10:20 +0000</pubDate>
       <description>&lt;h3&gt;Build 1333 · 17caad4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: Sparkle 跳版本检测移到 install 时 — ETag HEAD 快速比对&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1333+17caad4/ClaudeUsageMenuBar-0.3.310-beta.1333+17caad4.dmg" sparkle:edSignature="Vn9QUQ/GwC10+zr4ZhhyyZGxph2+8Hh+dazZl0RKM50APbPRUZzDPz2sLSN9H04Pc32epUqk5y4jp9W2qXYnDg==" length="10542983" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1332+9aac731</title>
-      <guid isPermaLink="false">9aac7319cf6edac3e2963fac628644cfe3a83e2c</guid>
-      <sparkle:version>1332</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1332+9aac731</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 09:38:05 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1332 · 9aac731&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 通知点击跳转 — PPID 遍历改为无条件执行&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1332+9aac731/ClaudeUsageMenuBar-0.3.310-beta.1332+9aac731.dmg" sparkle:edSignature="dPFgzV6IQvEJ3S7ItB0Y2sqgOoMSW0aNbAG4GO4XJWMSWu5Vt+FOz5LN+jgB7EH79jLwnLvKkdNDur8h/IcGCg==" length="10543082" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
