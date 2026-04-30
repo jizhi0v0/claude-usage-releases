@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.312-beta.1356+3017073</title>
+      <guid isPermaLink="false">30170734e8bdeba39a4884593d7782a516bcb2f4</guid>
+      <sparkle:version>1356</sparkle:version>
+      <sparkle:shortVersionString>0.3.312-beta.1356+3017073</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 30 Apr 2026 10:30:06 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1356 · 3017073</h3><ul><li>fix: 跳过空气泡 + lightbox loading spinner 和防抖</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1356+3017073/ClaudeUsageMenuBar-0.3.312-beta.1356+3017073.dmg" sparkle:edSignature="9AT7Yp8xZmOswvHRLpwXqp8WgDSQ0vdYmsJPw5gN9WP/OUSRV+aiOHCL6GcNlVNPte1ev/pzNr/WYABmaXQGDQ==" length="10592587" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.312-beta.1355+f8b1f99</title>
       <guid isPermaLink="false">f8b1f990bcef939f22a4e4885cfa948d159613d6</guid>
       <sparkle:version>1355</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 30 Apr 2026 10:09:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1355 · f8b1f99</h3><ul><li>feat: lightbox 点击加载原图（缩略图内联 + bridge 按需拉原图）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1355 · f8b1f99&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: lightbox 点击加载原图（缩略图内联 + bridge 按需拉原图）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1355+f8b1f99/ClaudeUsageMenuBar-0.3.312-beta.1355+f8b1f99.dmg" sparkle:edSignature="cSOT4Owlii4NcP/ws2xcF5CNUfF4bRtFSpCLq3ggaXtj4JO20OZkMsdl3WkHl+vJinU1VaDbbx+pLA2y46c7Ag==" length="10589552" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 28 Apr 2026 12:52:41 +0000</pubDate>
       <description>&lt;h3&gt;Build 1336 · b272d1b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图表 hover tooltip 抖动 + status history 高度溢出&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1336+b272d1b/ClaudeUsageMenuBar-0.3.310-beta.1336+b272d1b.dmg" sparkle:edSignature="y+OPPhvkd0CnEd+L/dGuNWNv+qVhXvdDZuJMy7Jx7+Yzi/oxvmG0qeR3aqJ2BDvQ19xRJ3lb9WJaYH/pFfSRDw==" length="10559341" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.310-beta.1335+628771b</title>
-      <guid isPermaLink="false">628771b5216107eb77c1824f72d4a38ab274ed9f</guid>
-      <sparkle:version>1335</sparkle:version>
-      <sparkle:shortVersionString>0.3.310-beta.1335+628771b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 28 Apr 2026 12:04:40 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1335 · 628771b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: LA push token 过期后 apns_error 同步到 CK，iOS 自动 restart&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.310-beta.1335+628771b/ClaudeUsageMenuBar-0.3.310-beta.1335+628771b.dmg" sparkle:edSignature="BlwDm5Vz4PkdKtZQIRMI6bWb6UlY5YZf9GgQBQezxJAupubRaanrAfb5XLO3I1UyG+wqZqRt5teOR1VRXZXnBQ==" length="10551492" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
