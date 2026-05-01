@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.325-beta.1368+9790ea3</title>
+      <guid isPermaLink="false">9790ea32d438563911dabe3173383f9dde84b4a9</guid>
+      <sparkle:version>1368</sparkle:version>
+      <sparkle:shortVersionString>0.3.325-beta.1368+9790ea3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 01 May 2026 14:45:11 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1368 · 9790ea3</h3><ul><li>fix: harden multi-device usage sync</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.325-beta.1368+9790ea3/ClaudeUsageMenuBar-0.3.325-beta.1368+9790ea3.dmg" sparkle:edSignature="aS5ZvNNGEU7M7Bf3NPHHWksDgzyfrTskRCiHruSG3klrOhAA1UFVtQY9TtAXL8p8lMHQq+cufyf86PU31AjsDw==" length="10583109" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.322-beta.1367+3f65ca2</title>
       <guid isPermaLink="false">3f65ca22102f4c36800d037356424af6484b9532</guid>
       <sparkle:version>1367</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 01 May 2026 14:25:41 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1367 · 3f65ca2</h3><ul><li>fix: apply cached kv usage on startup</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1367 · 3f65ca2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: apply cached kv usage on startup&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.322-beta.1367+3f65ca2/ClaudeUsageMenuBar-0.3.322-beta.1367+3f65ca2.dmg" sparkle:edSignature="+Apg94sc9bP/RN4hSQq5aEH8ry+NNqTyBjSxsXjVJF0KGD5OqBJ8T0GZDNjBVeWyNnSROcWohZl80vA8ST6NCg==" length="10577832" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Thu, 30 Apr 2026 07:07:08 +0000</pubDate>
       <description>&lt;h3&gt;Build 1348 · c4ed3a4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 降低 CK 写入噪音 + LA push 变更检测，修复 iOS Live Activity 延迟&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1348+c4ed3a4/ClaudeUsageMenuBar-0.3.312-beta.1348+c4ed3a4.dmg" sparkle:edSignature="nKjJaQQHXQQQ0l0quxIwPFMJX4Cf4x84OFdMn9X6Rqjmxht9dhI+NOqEw+LBH7JDFbx7PC+joEnmP+Vh8weDAw==" length="10575018" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1347+2c63a6b</title>
-      <guid isPermaLink="false">2c63a6b9c84cec1362691e1b6b11f401bb634727</guid>
-      <sparkle:version>1347</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1347+2c63a6b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 03:54:08 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1347 · 2c63a6b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: align transcript highlights with search results&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1347+2c63a6b/ClaudeUsageMenuBar-0.3.312-beta.1347+2c63a6b.dmg" sparkle:edSignature="uyO4h/g+2TGdz4JZQa/5xuAOVeahaKfsS4Kk7tvHJYaCEAt+qGua+IJcFHXitVJcibzCN6/JiuumRVStLBaMBA==" length="10569561" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
