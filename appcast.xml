@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.321-beta.1366+34b89fe</title>
+      <guid isPermaLink="false">34b89fe85453916ee4f5e7160cc55754582dd6c6</guid>
+      <sparkle:version>1366</sparkle:version>
+      <sparkle:shortVersionString>0.3.321-beta.1366+34b89fe</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 01 May 2026 14:22:49 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1366 · 34b89fe</h3><ul><li>fix: surface fetcher failures in stale badge</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.321-beta.1366+34b89fe/ClaudeUsageMenuBar-0.3.321-beta.1366+34b89fe.dmg" sparkle:edSignature="W6Iub86cveItRWfH7K8ewZsrovjnkx47x9QWwESrpNkJnllxf4dDFHzv6P3GNGhyFrt68wFEstXt1ewvslWAAg==" length="10578020" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.320-beta.1365+4362f05</title>
       <guid isPermaLink="false">4362f0599afbe2dd8a0a21814c223d1e497cff63</guid>
       <sparkle:version>1365</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 01 May 2026 14:07:10 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1365 · 4362f05</h3><ul><li>fix: align usage sync migration paths</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1365 · 4362f05&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: align usage sync migration paths&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.320-beta.1365+4362f05/ClaudeUsageMenuBar-0.3.320-beta.1365+4362f05.dmg" sparkle:edSignature="luBAL3Pg39Yxc6lgzJLMpWkaVZEeZtYnbUuL5KXDEpr6eiAoctZsnaayv84pGLT2MwSdwmup1rj6TaLvXTuWAQ==" length="10576718" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Thu, 30 Apr 2026 03:50:20 +0000</pubDate>
       <description>&lt;h3&gt;Build 1346 · b08981a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: LA token 过期后后台自动 restart，不再依赖用户手动打开 app&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.311-beta.1346+b08981a/ClaudeUsageMenuBar-0.3.311-beta.1346+b08981a.dmg" sparkle:edSignature="SOry6IYymNEsGCCFpVPvhbMYGm+JLhPwSEfyhCcgFMdYc1k4ik2eudgBQPupp5eCV6E5+XNTYxwn7/xdQZ2sAQ==" length="10572799" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.311-beta.1344+75df13d</title>
-      <guid isPermaLink="false">75df13d2d0511515c3fbd6d936653e63525669c4</guid>
-      <sparkle:version>1344</sparkle:version>
-      <sparkle:shortVersionString>0.3.311-beta.1344+75df13d</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 03:39:50 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1344 · 75df13d&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: honor redundant toggle during transcript search&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.311-beta.1344+75df13d/ClaudeUsageMenuBar-0.3.311-beta.1344+75df13d.dmg" sparkle:edSignature="/eZXTcK4b76mPIUREkjYCkxlx8LchTayZl9pwmK7qALqY35bK9FyKspfulyf7BB/8WV99ysHUpRxoDhgzTjOBg==" length="10573118" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
