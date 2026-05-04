@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.329-beta.1371+4521e26</title>
+      <guid isPermaLink="false">4521e26b3931a5eb5e76d9c79e93cf7429298512</guid>
+      <sparkle:version>1371</sparkle:version>
+      <sparkle:shortVersionString>0.3.329-beta.1371+4521e26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 04 May 2026 14:28:30 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1371 · 4521e26</h3><ul><li>fix: isolate status history expansion</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.329-beta.1371+4521e26/ClaudeUsageMenuBar-0.3.329-beta.1371+4521e26.dmg" sparkle:edSignature="7M78G7aj4FGbf263RW9Wtz95t8hrfDvxTTrdHD90/fUwcouZHWBpI12/PZMHAPpdpuSS3KIS7FkjKTJ9gbY3Cg==" length="10608230" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.328-beta.1370+f0b9462</title>
       <guid isPermaLink="false">f0b94620e385637774e351c33894ffec5fbd267d</guid>
       <sparkle:version>1370</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 03 May 2026 09:55:31 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1370 · f0b9462</h3><ul><li>perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1370 · f0b9462&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.328-beta.1370+f0b9462/ClaudeUsageMenuBar-0.3.328-beta.1370+f0b9462.dmg" sparkle:edSignature="0TQ/TOoE+9vNXsKjvT918ILeKf2NhO9b0zh+ePOSIwk2/g5A/VCtXtJRNs7vM5tSZ5fMN2TNq4oyP4lk773kCw==" length="10607947" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Thu, 30 Apr 2026 09:04:11 +0000</pubDate>
       <description>&lt;h3&gt;Build 1351 · bf82fef&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 图片重复 + macOS 用原图提升清晰度&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1351+bf82fef/ClaudeUsageMenuBar-0.3.312-beta.1351+bf82fef.dmg" sparkle:edSignature="gYPcqrrwyLyo/PSDJ4Y4ByohtFTCuwCt9GfDbnSAMH7UI2f/Lno9VxeovO+kzPXgjx5HNZ4iLIg7dY3gSNZ3BQ==" length="10594113" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1350+c15dd24</title>
-      <guid isPermaLink="false">c15dd2480759a36da6a9856a3f867248eace18f8</guid>
-      <sparkle:version>1350</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1350+c15dd24</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 09:00:12 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1350 · c15dd24&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: transcript 图片内联替换 + 本地文件图片 + lightbox 放大&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1350+c15dd24/ClaudeUsageMenuBar-0.3.312-beta.1350+c15dd24.dmg" sparkle:edSignature="1m2EOWWIKW31EhHCFe+YcgW8feS5UMKrJWE7TjSEnXx3GWOo7dThkc449QJJZOdEzUXpv/Xq3mxHM6T4BNY9Bw==" length="10601513" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
