@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.332-beta.1374+04678fc</title>
+      <guid isPermaLink="false">04678fc910382ace8ca9c4c94f0dd8fdcde4f1b1</guid>
+      <sparkle:version>1374</sparkle:version>
+      <sparkle:shortVersionString>0.3.332-beta.1374+04678fc</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 09 May 2026 04:48:43 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1374 · 04678fc</h3><ul><li>feat: add Claude Code changelog viewer in maintenance tab</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.332-beta.1374+04678fc/ClaudeUsageMenuBar-0.3.332-beta.1374+04678fc.dmg" sparkle:edSignature="Km+9sR/QgVdR1QvlhrWULzoC8SMXHsCLqSmun+jglCbYg7jK73iGuZFGf6+lBKqcqYVMtZCTV2KWqM3sEZvDDQ==" length="10729611" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.331-beta.1373+a88eb80</title>
       <guid isPermaLink="false">a88eb8070cbdad441364fba239209dd6ba4c79bc</guid>
       <sparkle:version>1373</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 04 May 2026 14:49:13 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1373 · a88eb80</h3><ul><li>feat: install Claude history search skill</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1373 · a88eb80&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: install Claude history search skill&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.331-beta.1373+a88eb80/ClaudeUsageMenuBar-0.3.331-beta.1373+a88eb80.dmg" sparkle:edSignature="sztsfCYfz6nn3CydkoDvcxLEa4GqHvlJVtPA46Yde83/KY4+zqVV9FaaWDGBGXC6DxkAW2vljFAsktTZKop3Bg==" length="10629115" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Thu, 30 Apr 2026 10:01:35 +0000</pubDate>
       <description>&lt;h3&gt;Build 1354 · c8d905f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 剥掉 [Image: source: /path] 噪音文本&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1354+c8d905f/ClaudeUsageMenuBar-0.3.312-beta.1354+c8d905f.dmg" sparkle:edSignature="vHSpkkH1ysK4zQOJ3O3i31lPCZe5Jxovlgr3IOmLpxy7oNs5EVHUe29gQNFVtt3CxIR4OAC/h4YIkOAToc3eAA==" length="10583824" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1353+cd556a9</title>
-      <guid isPermaLink="false">cd556a936209a98dfd4e37403e3a380a8288dfb9</guid>
-      <sparkle:version>1353</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1353+cd556a9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 09:57:56 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1353 · cd556a9&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 移除本地文件图片渲染，消除与 base64 图片的视觉重复&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1353+cd556a9/ClaudeUsageMenuBar-0.3.312-beta.1353+cd556a9.dmg" sparkle:edSignature="VHgVXTWHIIR6JWOHOJFRcYMqYtMlIciTHN6GyPGBGfLkdfkvo/42NxQfZ7zdjDldLFEf3oh4670sFhWNDh2eAA==" length="10583416" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
