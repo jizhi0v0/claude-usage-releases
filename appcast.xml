@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.334-beta.1376+effc46e</title>
+      <guid isPermaLink="false">effc46e9accc84ffa1a6c28f868835a51a12b75d</guid>
+      <sparkle:version>1376</sparkle:version>
+      <sparkle:shortVersionString>0.3.334-beta.1376+effc46e</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 09 May 2026 05:13:43 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1376 · effc46e</h3><ul><li>fix: bump stable build number to outrank same-commit beta</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.334-beta.1376+effc46e/ClaudeUsageMenuBar-0.3.334-beta.1376+effc46e.dmg" sparkle:edSignature="WWzGN0+8utq/udfHvNfnNWEEPTO8ImgXqdW1eE4Gw/wV5Ufog8SadZYeynkXi8uymHsHoQ1VLsi8Yxk7rSf9CA==" length="10733375" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.333</title>
       <guid isPermaLink="false">056c4a05264cb1c643abf4a6a9116060a3d24c7e</guid>
       <sparkle:version>1375</sparkle:version>
       <sparkle:shortVersionString>0.3.333</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 09 May 2026 05:03:26 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1375 · 056c4a0</h3><ul><li>fix: bust CDN cache on appcast checks</li><li>feat: add Claude Code changelog viewer in maintenance tab</li><li>feat: install Claude history search skill</li><li>fix: stabilize status history layout</li><li>fix: isolate status history expansion</li><li>perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)</li><li>perf: 修复 SessionIndexer 高 CPU + 内存占用 (#7)</li><li>fix: harden multi-device usage sync</li><li>fix: apply cached kv usage on startup</li><li>fix: surface fetcher failures in stale badge</li><li>fix: align usage sync migration paths</li><li>refactor: 彻底清理 PR3/PR4 兼容垫子(role schema/legacy CK records/RoleResolver 模块)</li><li>refactor: 删 RoleReconciler 与 standby 分支,所有 Mac 都允许 fetch</li><li>refactor: CK 改单 record `usage-current` + CAS 写入,iOS 三条读路径合并</li><li>feat: KVStore fallback 通道 + CK bootstrap 自愈 + UI fetcher 心跳</li><li>fix: LA push 不再跳过 + standby 不覆盖 CKSync 好数据</li><li>fix: 右键终止会话改用 onTapGesture + SIGKILL</li><li>feat: 孤儿进程检测 — 终端关闭后存活的 claude 会话标记灰色 + tag</li><li>fix: iOS lightbox 淡入淡出 + safe area 适配</li><li>fix: 跳过空气泡 + lightbox loading spinner 和防抖</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1375 · 056c4a0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bust CDN cache on appcast checks&lt;/li&gt;&lt;li&gt;feat: add Claude Code changelog viewer in maintenance tab&lt;/li&gt;&lt;li&gt;feat: install Claude history search skill&lt;/li&gt;&lt;li&gt;fix: stabilize status history layout&lt;/li&gt;&lt;li&gt;fix: isolate status history expansion&lt;/li&gt;&lt;li&gt;perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)&lt;/li&gt;&lt;li&gt;perf: 修复 SessionIndexer 高 CPU + 内存占用 (#7)&lt;/li&gt;&lt;li&gt;fix: harden multi-device usage sync&lt;/li&gt;&lt;li&gt;fix: apply cached kv usage on startup&lt;/li&gt;&lt;li&gt;fix: surface fetcher failures in stale badge&lt;/li&gt;&lt;li&gt;fix: align usage sync migration paths&lt;/li&gt;&lt;li&gt;refactor: 彻底清理 PR3/PR4 兼容垫子(role schema/legacy CK records/RoleResolver 模块)&lt;/li&gt;&lt;li&gt;refactor: 删 RoleReconciler 与 standby 分支,所有 Mac 都允许 fetch&lt;/li&gt;&lt;li&gt;refactor: CK 改单 record `usage-current` + CAS 写入,iOS 三条读路径合并&lt;/li&gt;&lt;li&gt;feat: KVStore fallback 通道 + CK bootstrap 自愈 + UI fetcher 心跳&lt;/li&gt;&lt;li&gt;fix: LA push 不再跳过 + standby 不覆盖 CKSync 好数据&lt;/li&gt;&lt;li&gt;fix: 右键终止会话改用 onTapGesture + SIGKILL&lt;/li&gt;&lt;li&gt;feat: 孤儿进程检测 — 终端关闭后存活的 claude 会话标记灰色 + tag&lt;/li&gt;&lt;li&gt;fix: iOS lightbox 淡入淡出 + safe area 适配&lt;/li&gt;&lt;li&gt;fix: 跳过空气泡 + lightbox loading spinner 和防抖&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.333/ClaudeUsageMenuBar-0.3.333.dmg" sparkle:edSignature="nl8Dg9q1HvHf2acHRDUNbl4YPxjGOwC249+YWHKp6Sq6FLmTpxuhxkwSZIIk2NVoL1EZB5QDwiRxy2PwrUvuAA==" length="10733215" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Thu, 30 Apr 2026 10:30:06 +0000</pubDate>
       <description>&lt;h3&gt;Build 1356 · 3017073&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 跳过空气泡 + lightbox loading spinner 和防抖&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1356+3017073/ClaudeUsageMenuBar-0.3.312-beta.1356+3017073.dmg" sparkle:edSignature="9AT7Yp8xZmOswvHRLpwXqp8WgDSQ0vdYmsJPw5gN9WP/OUSRV+aiOHCL6GcNlVNPte1ev/pzNr/WYABmaXQGDQ==" length="10592587" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1355+f8b1f99</title>
-      <guid isPermaLink="false">f8b1f990bcef939f22a4e4885cfa948d159613d6</guid>
-      <sparkle:version>1355</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1355+f8b1f99</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 10:09:25 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1355 · f8b1f99&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: lightbox 点击加载原图（缩略图内联 + bridge 按需拉原图）&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1355+f8b1f99/ClaudeUsageMenuBar-0.3.312-beta.1355+f8b1f99.dmg" sparkle:edSignature="cSOT4Owlii4NcP/ws2xcF5CNUfF4bRtFSpCLq3ggaXtj4JO20OZkMsdl3WkHl+vJinU1VaDbbx+pLA2y46c7Ag==" length="10589552" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
