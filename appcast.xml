@@ -6,15 +6,14 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.333-beta.1375+056c4a0</title>
+      <title>Version 0.3.333</title>
       <guid isPermaLink="false">056c4a05264cb1c643abf4a6a9116060a3d24c7e</guid>
       <sparkle:version>1375</sparkle:version>
-      <sparkle:shortVersionString>0.3.333-beta.1375+056c4a0</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.3.333</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 09 May 2026 04:57:33 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1375 · 056c4a0</h3><ul><li>fix: bust CDN cache on appcast checks</li></ul>]]></description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.333-beta.1375+056c4a0/ClaudeUsageMenuBar-0.3.333-beta.1375+056c4a0.dmg" sparkle:edSignature="8E1GH7nCqsfXQ20L6B/jQPck+XGXrGgDM65ZFCldLvl9LvPaMCrdE2hy6mznHylS9qbMmFw6bIxDB34hWnIyBQ==" length="10733359" type="application/octet-stream" />
+      <pubDate>Sat, 09 May 2026 05:03:26 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1375 · 056c4a0</h3><ul><li>fix: bust CDN cache on appcast checks</li><li>feat: add Claude Code changelog viewer in maintenance tab</li><li>feat: install Claude history search skill</li><li>fix: stabilize status history layout</li><li>fix: isolate status history expansion</li><li>perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)</li><li>perf: 修复 SessionIndexer 高 CPU + 内存占用 (#7)</li><li>fix: harden multi-device usage sync</li><li>fix: apply cached kv usage on startup</li><li>fix: surface fetcher failures in stale badge</li><li>fix: align usage sync migration paths</li><li>refactor: 彻底清理 PR3/PR4 兼容垫子(role schema/legacy CK records/RoleResolver 模块)</li><li>refactor: 删 RoleReconciler 与 standby 分支,所有 Mac 都允许 fetch</li><li>refactor: CK 改单 record `usage-current` + CAS 写入,iOS 三条读路径合并</li><li>feat: KVStore fallback 通道 + CK bootstrap 自愈 + UI fetcher 心跳</li><li>fix: LA push 不再跳过 + standby 不覆盖 CKSync 好数据</li><li>fix: 右键终止会话改用 onTapGesture + SIGKILL</li><li>feat: 孤儿进程检测 — 终端关闭后存活的 claude 会话标记灰色 + tag</li><li>fix: iOS lightbox 淡入淡出 + safe area 适配</li><li>fix: 跳过空气泡 + lightbox loading spinner 和防抖</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.333/ClaudeUsageMenuBar-0.3.333.dmg" sparkle:edSignature="nl8Dg9q1HvHf2acHRDUNbl4YPxjGOwC249+YWHKp6Sq6FLmTpxuhxkwSZIIk2NVoL1EZB5QDwiRxy2PwrUvuAA==" length="10733215" type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.3.332-beta.1374+04678fc</title>
