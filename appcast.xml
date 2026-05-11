@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.335-beta.1377+4eaeab6</title>
+      <guid isPermaLink="false">4eaeab6e61536fa472f5f75149a1d0a5a804c653</guid>
+      <sparkle:version>1377</sparkle:version>
+      <sparkle:shortVersionString>0.3.335-beta.1377+4eaeab6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 11 May 2026 03:07:48 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1377 · 4eaeab6</h3><ul><li>perf: fix MenuBar memory leak from observation tracking storm + stat thrash</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.335-beta.1377+4eaeab6/ClaudeUsageMenuBar-0.3.335-beta.1377+4eaeab6.dmg" sparkle:edSignature="NA//c9+r2Qmc69AnMQsks82X28CA21v+G8W4R0T0yy99M8Z1VUb4XHYDOmsFv4pmX9KlUhkhHYiSrP41qiggBQ==" length="10743139" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.334-beta.1376+effc46e</title>
       <guid isPermaLink="false">effc46e9accc84ffa1a6c28f868835a51a12b75d</guid>
       <sparkle:version>1376</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 09 May 2026 05:13:43 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1376 · effc46e</h3><ul><li>fix: bump stable build number to outrank same-commit beta</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1376 · effc46e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bump stable build number to outrank same-commit beta&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.334-beta.1376+effc46e/ClaudeUsageMenuBar-0.3.334-beta.1376+effc46e.dmg" sparkle:edSignature="WWzGN0+8utq/udfHvNfnNWEEPTO8ImgXqdW1eE4Gw/wV5Ufog8SadZYeynkXi8uymHsHoQ1VLsi8Yxk7rSf9CA==" length="10733375" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Thu, 30 Apr 2026 10:50:08 +0000</pubDate>
       <description>&lt;h3&gt;Build 1357 · b5a7210&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: iOS lightbox 淡入淡出 + safe area 适配&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1357+b5a7210/ClaudeUsageMenuBar-0.3.312-beta.1357+b5a7210.dmg" sparkle:edSignature="PE1TJJJLzrjLXVhr6xdpklYMTaeSRjFdK9EEJQlkvxfxF5rJrJxNbeXEuWHvBoo0u+IYdaRURCP0S3WP20QoBw==" length="10592126" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1356+3017073</title>
-      <guid isPermaLink="false">30170734e8bdeba39a4884593d7782a516bcb2f4</guid>
-      <sparkle:version>1356</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1356+3017073</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 10:30:06 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1356 · 3017073&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 跳过空气泡 + lightbox loading spinner 和防抖&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1356+3017073/ClaudeUsageMenuBar-0.3.312-beta.1356+3017073.dmg" sparkle:edSignature="9AT7Yp8xZmOswvHRLpwXqp8WgDSQ0vdYmsJPw5gN9WP/OUSRV+aiOHCL6GcNlVNPte1ev/pzNr/WYABmaXQGDQ==" length="10592587" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
