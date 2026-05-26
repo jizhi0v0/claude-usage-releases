@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.357-beta.1409+1f16d39</title>
+      <guid isPermaLink="false">1f16d397da6bb82a510888c3f84ec1a8da653def</guid>
+      <sparkle:version>1409</sparkle:version>
+      <sparkle:shortVersionString>0.3.357-beta.1409+1f16d39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 26 May 2026 10:04:33 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1409 · 1f16d39</h3><ul><li>feat: iOS promo 详情改抽屉 sheet,内容滚动不再被截</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.357-beta.1409+1f16d39/ClaudeUsageMenuBar-0.3.357-beta.1409+1f16d39.dmg" sparkle:edSignature="LMJ6me5YGmzWG1pNTyG6PaDc0QRVvCkQPWFVEEp2eIxj197nIfiR1MEdQyD+FUMpwkm3/68FTo24oc5I6CkNCw==" length="11018214" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.356-beta.1408+71596e0</title>
       <guid isPermaLink="false">71596e06c2f19b3120ccba556e2cf6d3b9622dfb</guid>
       <sparkle:version>1408</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 26 May 2026 09:55:28 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1408 · 71596e0</h3><ul><li>fix: 删 menubar 旧 promo 文件 + iOS 强制 popover 适配</li><li>feat: iOS dashboard 同步 promo chip + 未使用 bucket 也显示</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1408 · 71596e0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 删 menubar 旧 promo 文件 + iOS 强制 popover 适配&lt;/li&gt;&lt;li&gt;feat: iOS dashboard 同步 promo chip + 未使用 bucket 也显示&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.356-beta.1408+71596e0/ClaudeUsageMenuBar-0.3.356-beta.1408+71596e0.dmg" sparkle:edSignature="52tJuW2V8VqtMMPc/F2gBKn5cMx0IqyWYkAF/goTa6ss3BPJBF07xGtMPNf8gpXsDfVF7fKbMAMVGdsepkANAg==" length="11018300" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Fri, 01 May 2026 14:22:49 +0000</pubDate>
       <description>&lt;h3&gt;Build 1366 · 34b89fe&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: surface fetcher failures in stale badge&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.321-beta.1366+34b89fe/ClaudeUsageMenuBar-0.3.321-beta.1366+34b89fe.dmg" sparkle:edSignature="W6Iub86cveItRWfH7K8ewZsrovjnkx47x9QWwESrpNkJnllxf4dDFHzv6P3GNGhyFrt68wFEstXt1ewvslWAAg==" length="10578020" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.320-beta.1365+4362f05</title>
-      <guid isPermaLink="false">4362f0599afbe2dd8a0a21814c223d1e497cff63</guid>
-      <sparkle:version>1365</sparkle:version>
-      <sparkle:shortVersionString>0.3.320-beta.1365+4362f05</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 01 May 2026 14:07:10 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1365 · 4362f05&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: align usage sync migration paths&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.320-beta.1365+4362f05/ClaudeUsageMenuBar-0.3.320-beta.1365+4362f05.dmg" sparkle:edSignature="luBAL3Pg39Yxc6lgzJLMpWkaVZEeZtYnbUuL5KXDEpr6eiAoctZsnaayv84pGLT2MwSdwmup1rj6TaLvXTuWAQ==" length="10576718" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
