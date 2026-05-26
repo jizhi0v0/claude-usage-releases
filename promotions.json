@@ -1,0 +1,39 @@
+{
+  "$schema_version": 1,
+  "_doc": "Claude Code 官方活动清单。MenuBar app 启动 + 6h 周期从 raw.githubusercontent.com 拉这个文件。applies_to 匹配 usage API 的 bucket key（five_hour / seven_day / seven_day_sonnet / seven_day_opus / seven_day_cowork / seven_day_oauth_apps / seven_day_omelette）。endsAt 为 null 表示无公开结束日期。",
+  "promotions": [
+    {
+      "id": "may-2026-five-hour-2x",
+      "applies_to": "five_hour",
+      "label": "2x",
+      "title": "5-Hour 上限翻倍",
+      "description": "Claude Code 5-hour 滚动窗口额度翻倍（同时移除 Pro/Max 高峰时段限制）。Anthropic ↔ SpaceX/xAI 算力合作（Colossus 1）推动的永久调整。",
+      "starts_at": "2026-05-06T00:00:00Z",
+      "ends_at": null,
+      "plans": ["pro", "max", "team", "enterprise_seats"],
+      "source_url": "https://www.anthropic.com/news/higher-limits-spacex"
+    },
+    {
+      "id": "may-2026-weekly-plus-50",
+      "applies_to": "seven_day",
+      "label": "+50%",
+      "title": "Weekly 上限 +50%",
+      "description": "Claude Code 周窗口额度 +50%，覆盖 CLI / IDE 插件 / desktop / web 全端，自动生效不需要 opt-in。",
+      "starts_at": "2026-05-13T19:07:51Z",
+      "ends_at": "2026-07-14T01:00:00Z",
+      "plans": ["pro", "max", "team", "enterprise_seats"],
+      "source_url": "https://x.com/ClaudeDevs/status/2054639777685934564"
+    },
+    {
+      "id": "may-2026-claude-design-2x",
+      "applies_to": "seven_day_omelette",
+      "label": "2x",
+      "title": "Claude Design 上限翻倍",
+      "description": "Claude Design 的周窗口额度翻倍。",
+      "starts_at": "2026-05-18T19:40:56Z",
+      "ends_at": null,
+      "plans": ["pro", "max", "team"],
+      "source_url": "https://x.com/claudeai/status/2056460045756309820"
+    }
+  ]
+}
