@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.352-beta.1404+109e23e</title>
+      <guid isPermaLink="false">109e23eef6d500c14ca5de54a00d0d5db53d5857</guid>
+      <sparkle:version>1404</sparkle:version>
+      <sparkle:shortVersionString>0.3.352-beta.1404+109e23e</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 26 May 2026 08:37:52 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1404 · 109e23e</h3><ul><li>feat: promo chip 加倒计时 + 结束通知,补 Claude Design 2x</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.352-beta.1404+109e23e/ClaudeUsageMenuBar-0.3.352-beta.1404+109e23e.dmg" sparkle:edSignature="cILdQR1Z+7P3V4b0vQ6GHOiJ/A9V4J8ZkLgECjSJukd6feMBPUNYNRgRTZ6Xc0Wpvl2+xJ6B0HksYDAvUc34DQ==" length="11017996" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.351-beta.1403+ef0eede</title>
       <guid isPermaLink="false">ef0eede13acfbb02f7debe22935adbe5623731da</guid>
       <sparkle:version>1403</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 26 May 2026 08:12:30 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1403 · ef0eede</h3><ul><li>feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1403 · ef0eede&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.351-beta.1403+ef0eede/ClaudeUsageMenuBar-0.3.351-beta.1403+ef0eede.dmg" sparkle:edSignature="XyCjn1DeQSHClQywKWb+4CN6VXqfkoZSfNyC0bJNtt2vXBXgfKShCaR9WY1Vtz+6xjBEMyKSU1BPEZZ32ldCCg==" length="11008447" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Thu, 30 Apr 2026 14:59:50 +0000</pubDate>
       <description>&lt;h3&gt;Build 1360 · bed268e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: LA push 不再跳过 + standby 不覆盖 CKSync 好数据&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1360+bed268e/ClaudeUsageMenuBar-0.3.312-beta.1360+bed268e.dmg" sparkle:edSignature="ZRIIQ3Gx2BkPE3tl2fS7AgJ0jePxAjao7tuAIk8Mln7EPwJj5eTLlULNfaVW1qEqg59/V/h9RXC/Rn2JM4OOBg==" length="10595638" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.312-beta.1359+0a40d29</title>
-      <guid isPermaLink="false">0a40d293e882ebd382a15c0f54f55c04793745eb</guid>
-      <sparkle:version>1359</sparkle:version>
-      <sparkle:shortVersionString>0.3.312-beta.1359+0a40d29</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 30 Apr 2026 11:25:17 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1359 · 0a40d29&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 右键终止会话改用 onTapGesture + SIGKILL&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.312-beta.1359+0a40d29/ClaudeUsageMenuBar-0.3.312-beta.1359+0a40d29.dmg" sparkle:edSignature="xetbHYfcfz5CBmGL59NFVTF6wTAccwU+ccyehOAXxWlc85L3AS78yAnjhV1h4COQFQ1TwbxWEl0GkCUQBU8BCw==" length="10598106" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
