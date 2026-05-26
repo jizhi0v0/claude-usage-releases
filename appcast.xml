@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.354-beta.1406+32fa51e</title>
+      <guid isPermaLink="false">32fa51e8bfc8421ebf8029807c236196eb02fd5c</guid>
+      <sparkle:version>1406</sparkle:version>
+      <sparkle:shortVersionString>0.3.354-beta.1406+32fa51e</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 26 May 2026 08:48:18 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1406 · 32fa51e</h3><ul><li>fix: promo 远端源换到公开 releases 仓,主仓 private 拉不到</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.354-beta.1406+32fa51e/ClaudeUsageMenuBar-0.3.354-beta.1406+32fa51e.dmg" sparkle:edSignature="dcpuSGvginh963IpGiaOLSgRDBaoyHcjhJrD6FrgNaLNJZrU1XlupoT7Y71o87a3mjPb6E2U/KFwDQ6lJ0WwCw==" length="11018303" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.353-beta.1405+ca9fd67</title>
       <guid isPermaLink="false">ca9fd6788537ecceb663b694413afe26ff4dca69</guid>
       <sparkle:version>1405</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 26 May 2026 08:42:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1405 · ca9fd67</h3><ul><li>feat: promo milestone 同时发 iOS APNs 推送</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1405 · ca9fd67&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: promo milestone 同时发 iOS APNs 推送&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.353-beta.1405+ca9fd67/ClaudeUsageMenuBar-0.3.353-beta.1405+ca9fd67.dmg" sparkle:edSignature="CckNP/Ke+9GVATiPsLZK6YK+F80wgB/jlO1dDSCm3ffHynIqkXSmDFbUaXlL/fTj9da3CFArfX4QGKz4cskaDQ==" length="11018293" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Fri, 01 May 2026 13:35:36 +0000</pubDate>
       <description>&lt;h3&gt;Build 1363 · 7ccaf14&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;refactor: 删 RoleReconciler 与 standby 分支,所有 Mac 都允许 fetch&lt;/li&gt;&lt;li&gt;refactor: CK 改单 record `usage-current` + CAS 写入,iOS 三条读路径合并&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.317-beta.1363+7ccaf14/ClaudeUsageMenuBar-0.3.317-beta.1363+7ccaf14.dmg" sparkle:edSignature="RW9DYy0wRwlH9YDKhxdOJSHfliMj6/ykrgZ4gBJvt6oumJnGjmxE5bSB7sIyy1BrOgK6q/aUxKNm95P7j4hAAg==" length="10610271" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.315-beta.1361+692ef62</title>
-      <guid isPermaLink="false">692ef62f6ad90b4c4949d0e896f2169bf801a07b</guid>
-      <sparkle:version>1361</sparkle:version>
-      <sparkle:shortVersionString>0.3.315-beta.1361+692ef62</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 01 May 2026 13:14:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1361 · 692ef62&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: KVStore fallback 通道 + CK bootstrap 自愈 + UI fetcher 心跳&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.315-beta.1361+692ef62/ClaudeUsageMenuBar-0.3.315-beta.1361+692ef62.dmg" sparkle:edSignature="eHZraj65plKV7F+zpVE15g84R4CG4m15oFJW8GCizMhqLCEexMQ1OcpQqS/G23vxts27Qg7kkty35DoKMJ/1Ag==" length="10631793" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
