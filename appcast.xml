@@ -6,13 +6,24 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.356-beta.1408+71596e0</title>
+      <guid isPermaLink="false">71596e06c2f19b3120ccba556e2cf6d3b9622dfb</guid>
+      <sparkle:version>1408</sparkle:version>
+      <sparkle:shortVersionString>0.3.356-beta.1408+71596e0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 26 May 2026 09:55:28 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1408 · 71596e0</h3><ul><li>fix: 删 menubar 旧 promo 文件 + iOS 强制 popover 适配</li><li>feat: iOS dashboard 同步 promo chip + 未使用 bucket 也显示</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.356-beta.1408+71596e0/ClaudeUsageMenuBar-0.3.356-beta.1408+71596e0.dmg" sparkle:edSignature="52tJuW2V8VqtMMPc/F2gBKn5cMx0IqyWYkAF/goTa6ss3BPJBF07xGtMPNf8gpXsDfVF7fKbMAMVGdsepkANAg==" length="11018300" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.354</title>
       <guid isPermaLink="false">32fa51e8bfc8421ebf8029807c236196eb02fd5c</guid>
       <sparkle:version>1407</sparkle:version>
       <sparkle:shortVersionString>0.3.354</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 26 May 2026 09:21:12 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1407 · 32fa51e</h3><ul><li>fix: promo 远端源换到公开 releases 仓,主仓 private 拉不到</li><li>feat: promo milestone 同时发 iOS APNs 推送</li><li>feat: promo chip 加倒计时 + 结束通知,补 Claude Design 2x</li><li>feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)</li><li>ci: proxy 兜底用 Surge 默认 6152 端口,scutil 读不到时直接探本机端口</li><li>ci: publish job 起手注入 macOS 系统 proxy 到 HTTPS_PROXY env</li><li>ci: publish job 跑到同一台 mac runner 上,从本地 stash 拷 DMG,绕开 artifact 配额</li><li>feat: menubar 启动期自动装 desktop-token-sync launchd，按 HookInstaller 模式</li><li>fix: 修 daily-recap CI 自 5/23 起一直红的两类编译错</li><li>fix: Swift fetcher 补回 last-attempt.json 心跳写入，消除 menubar 误报 Fetcher silent</li><li>chore: 加 desktop-token-sync 本机 hack，把 Claude.app env 里的 OAuth token 写回 keychain</li><li>feat(daily-recap): MenuBar 加日期选择器，支持回顾任意一天 (#11)</li><li>feat: 加"今日 Claude Code 对话回顾"——扫今天会话，喂给 claude 自查 (#10)</li><li>perf: 抽出 SessionsTabContent 隔离 trackingContext，根治 menubar 长跑内存累积</li><li>perf: 修复 SettingsView 顶层 viewVersion 订阅导致的 NSWindow retain 内存累积</li><li>ci: publish 解耦 vscode/jb，artifact 配额满时也能发 macOS 包</li><li>ci: Sparkle 重签改成 find 遍历，覆盖 XPCServices 等内部嵌入物</li><li>ci: cp 出 archive 后手动重签 Sparkle + timestamp，绕过 -exportArchive 后补回兜底</li><li>ci: notarize 失败时主动拉 notarytool log，看具体 issues</li><li>ci: 绕过 -exportArchive，直接从 .xcarchive cp 出已签 .app</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1407 · 32fa51e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: promo 远端源换到公开 releases 仓,主仓 private 拉不到&lt;/li&gt;&lt;li&gt;feat: promo milestone 同时发 iOS APNs 推送&lt;/li&gt;&lt;li&gt;feat: promo chip 加倒计时 + 结束通知,补 Claude Design 2x&lt;/li&gt;&lt;li&gt;feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)&lt;/li&gt;&lt;li&gt;ci: proxy 兜底用 Surge 默认 6152 端口,scutil 读不到时直接探本机端口&lt;/li&gt;&lt;li&gt;ci: publish job 起手注入 macOS 系统 proxy 到 HTTPS_PROXY env&lt;/li&gt;&lt;li&gt;ci: publish job 跑到同一台 mac runner 上,从本地 stash 拷 DMG,绕开 artifact 配额&lt;/li&gt;&lt;li&gt;feat: menubar 启动期自动装 desktop-token-sync launchd，按 HookInstaller 模式&lt;/li&gt;&lt;li&gt;fix: 修 daily-recap CI 自 5/23 起一直红的两类编译错&lt;/li&gt;&lt;li&gt;fix: Swift fetcher 补回 last-attempt.json 心跳写入，消除 menubar 误报 Fetcher silent&lt;/li&gt;&lt;li&gt;chore: 加 desktop-token-sync 本机 hack，把 Claude.app env 里的 OAuth token 写回 keychain&lt;/li&gt;&lt;li&gt;feat(daily-recap): MenuBar 加日期选择器，支持回顾任意一天 (#11)&lt;/li&gt;&lt;li&gt;feat: 加"今日 Claude Code 对话回顾"——扫今天会话，喂给 claude 自查 (#10)&lt;/li&gt;&lt;li&gt;perf: 抽出 SessionsTabContent 隔离 trackingContext，根治 menubar 长跑内存累积&lt;/li&gt;&lt;li&gt;perf: 修复 SettingsView 顶层 viewVersion 订阅导致的 NSWindow retain 内存累积&lt;/li&gt;&lt;li&gt;ci: publish 解耦 vscode/jb，artifact 配额满时也能发 macOS 包&lt;/li&gt;&lt;li&gt;ci: Sparkle 重签改成 find 遍历，覆盖 XPCServices 等内部嵌入物&lt;/li&gt;&lt;li&gt;ci: cp 出 archive 后手动重签 Sparkle + timestamp，绕过 -exportArchive 后补回兜底&lt;/li&gt;&lt;li&gt;ci: notarize 失败时主动拉 notarytool log，看具体 issues&lt;/li&gt;&lt;li&gt;ci: 绕过 -exportArchive，直接从 .xcarchive cp 出已签 .app&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.354/ClaudeUsageMenuBar-0.3.354.dmg" sparkle:edSignature="CYu+veNqJuhP1IcfOEdvSVSkzNiKBYLBGkJLZ2z3S1J3xldex/FSqULhbbd12u0LukmHQyc/Ig2tpADkuID0BA==" length="11018241" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Fri, 01 May 2026 14:07:10 +0000</pubDate>
       <description>&lt;h3&gt;Build 1365 · 4362f05&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: align usage sync migration paths&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.320-beta.1365+4362f05/ClaudeUsageMenuBar-0.3.320-beta.1365+4362f05.dmg" sparkle:edSignature="luBAL3Pg39Yxc6lgzJLMpWkaVZEeZtYnbUuL5KXDEpr6eiAoctZsnaayv84pGLT2MwSdwmup1rj6TaLvXTuWAQ==" length="10576718" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.318-beta.1364+ef8d016</title>
-      <guid isPermaLink="false">ef8d016cfa839e4be5aa0af3beea3f7707668980</guid>
-      <sparkle:version>1364</sparkle:version>
-      <sparkle:shortVersionString>0.3.318-beta.1364+ef8d016</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 01 May 2026 13:48:52 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1364 · ef8d016&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;refactor: 彻底清理 PR3/PR4 兼容垫子(role schema/legacy CK records/RoleResolver 模块)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.318-beta.1364+ef8d016/ClaudeUsageMenuBar-0.3.318-beta.1364+ef8d016.dmg" sparkle:edSignature="fAP811xFJMUm9ZLck4CCoGrMO3belDLOcnXlWtq1VMoEozDrN6SOqPUEUjcuja0Fpt7Kl6S5mocXW4rNNLyxAQ==" length="10575850" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
