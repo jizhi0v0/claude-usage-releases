@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.361-beta.1413+b334510</title>
+      <guid isPermaLink="false">b334510b47a2154069a9f7f54d344c6db15e9ee9</guid>
+      <sparkle:version>1413</sparkle:version>
+      <sparkle:shortVersionString>0.3.361-beta.1413+b334510</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 27 May 2026 04:06:23 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1413 · b334510</h3><ul><li>fix: ScrubRecognizer.Coordinator 加 @MainActor 消除 isolation warning</li><li>fix: 识别 Claude Desktop spawn 的 claude code 进程</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.361-beta.1413+b334510/ClaudeUsageMenuBar-0.3.361-beta.1413+b334510.dmg" sparkle:edSignature="Og5MRhdPraXdAjTyFpRCz1qd2ujbgjTj2zHqzqzFCQthrJZ9+hhnGvKTF1S62HQ4/k7Vd/Bxju/DsH1og+jdAA==" length="11019602" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.359-beta.1411+3ea3562</title>
       <guid isPermaLink="false">3ea3562355bd47372fe7e4e203fe5ce899fb0dde</guid>
       <sparkle:version>1411</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 26 May 2026 14:28:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1411 · 3ea3562</h3><ul><li>tweak: iOS promo 抽屉再降高度 fraction(0.5) -&gt; 0.42</li><li>feat: iOS promo 抽屉收紧 — 单一 fraction(0.5) + title 居中 + 标题分隔</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1411 · 3ea3562&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;tweak: iOS promo 抽屉再降高度 fraction(0.5) -&amp;gt; 0.42&lt;/li&gt;&lt;li&gt;feat: iOS promo 抽屉收紧 — 单一 fraction(0.5) + title 居中 + 标题分隔&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.359-beta.1411+3ea3562/ClaudeUsageMenuBar-0.3.359-beta.1411+3ea3562.dmg" sparkle:edSignature="pK3wQWEnaTOD57+Qrw6eWuVWlX3aidAUrgcLGDZ24xp1WK2jJ76LOiD8mcNZpcEUaUfwmZidwBJPepW4htYSBA==" length="11019020" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Fri, 01 May 2026 14:45:11 +0000</pubDate>
       <description>&lt;h3&gt;Build 1368 · 9790ea3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: harden multi-device usage sync&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.325-beta.1368+9790ea3/ClaudeUsageMenuBar-0.3.325-beta.1368+9790ea3.dmg" sparkle:edSignature="aS5ZvNNGEU7M7Bf3NPHHWksDgzyfrTskRCiHruSG3klrOhAA1UFVtQY9TtAXL8p8lMHQq+cufyf86PU31AjsDw==" length="10583109" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.322-beta.1367+3f65ca2</title>
-      <guid isPermaLink="false">3f65ca22102f4c36800d037356424af6484b9532</guid>
-      <sparkle:version>1367</sparkle:version>
-      <sparkle:shortVersionString>0.3.322-beta.1367+3f65ca2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 01 May 2026 14:25:41 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1367 · 3f65ca2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: apply cached kv usage on startup&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.322-beta.1367+3f65ca2/ClaudeUsageMenuBar-0.3.322-beta.1367+3f65ca2.dmg" sparkle:edSignature="+Apg94sc9bP/RN4hSQq5aEH8ry+NNqTyBjSxsXjVJF0KGD5OqBJ8T0GZDNjBVeWyNnSROcWohZl80vA8ST6NCg==" length="10577832" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
