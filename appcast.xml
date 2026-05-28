@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.362-beta.1414+8a6b4c5</title>
+      <guid isPermaLink="false">8a6b4c50d7af5e665a4717d3cfeb1a708ce0212c</guid>
+      <sparkle:version>1414</sparkle:version>
+      <sparkle:shortVersionString>0.3.362-beta.1414+8a6b4c5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 28 May 2026 02:58:37 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1414 · 8a6b4c5</h3><ul><li>fix: desktop-token-sync.sh 走系统代理</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.362-beta.1414+8a6b4c5/ClaudeUsageMenuBar-0.3.362-beta.1414+8a6b4c5.dmg" sparkle:edSignature="IQ15Jy4iXavf8yl+QiSFhaunjHbjcBxyBjr+SehXkv5izvYYAY+f3UD9DBdE6X1D9tcnd3MRTfg5M5mafImcAg==" length="11022408" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.361-beta.1413+b334510</title>
       <guid isPermaLink="false">b334510b47a2154069a9f7f54d344c6db15e9ee9</guid>
       <sparkle:version>1413</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 27 May 2026 04:06:23 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1413 · b334510</h3><ul><li>fix: ScrubRecognizer.Coordinator 加 @MainActor 消除 isolation warning</li><li>fix: 识别 Claude Desktop spawn 的 claude code 进程</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1413 · b334510&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: ScrubRecognizer.Coordinator 加 @MainActor 消除 isolation warning&lt;/li&gt;&lt;li&gt;fix: 识别 Claude Desktop spawn 的 claude code 进程&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.361-beta.1413+b334510/ClaudeUsageMenuBar-0.3.361-beta.1413+b334510.dmg" sparkle:edSignature="Og5MRhdPraXdAjTyFpRCz1qd2ujbgjTj2zHqzqzFCQthrJZ9+hhnGvKTF1S62HQ4/k7Vd/Bxju/DsH1og+jdAA==" length="11019602" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Sun, 03 May 2026 09:52:45 +0000</pubDate>
       <description>&lt;h3&gt;Build 1369 · 0c2ee9e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: 修复 SessionIndexer 高 CPU + 内存占用 (#7)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.326-beta.1369+0c2ee9e/ClaudeUsageMenuBar-0.3.326-beta.1369+0c2ee9e.dmg" sparkle:edSignature="3OmS8MANlUvSLhzy2jG5AJpXWvrTIu6ixSVD1wkjDm+pR0tZUH8HeACtCqeU0+raQU0Xr052CJURMYIHzwK7Dw==" length="10598669" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.325-beta.1368+9790ea3</title>
-      <guid isPermaLink="false">9790ea32d438563911dabe3173383f9dde84b4a9</guid>
-      <sparkle:version>1368</sparkle:version>
-      <sparkle:shortVersionString>0.3.325-beta.1368+9790ea3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 01 May 2026 14:45:11 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1368 · 9790ea3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: harden multi-device usage sync&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.325-beta.1368+9790ea3/ClaudeUsageMenuBar-0.3.325-beta.1368+9790ea3.dmg" sparkle:edSignature="aS5ZvNNGEU7M7Bf3NPHHWksDgzyfrTskRCiHruSG3klrOhAA1UFVtQY9TtAXL8p8lMHQq+cufyf86PU31AjsDw==" length="10583109" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
