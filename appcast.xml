@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.364-beta.1416+9fb52b7</title>
+      <guid isPermaLink="false">9fb52b72d0d7964d8515f9c7105183de617dc350</guid>
+      <sparkle:version>1416</sparkle:version>
+      <sparkle:shortVersionString>0.3.364-beta.1416+9fb52b7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 28 May 2026 10:46:51 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1416 · 9fb52b7</h3><ul><li>fix: DesktopTokenSyncInstaller 加 stale plist 自愈</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.364-beta.1416+9fb52b7/ClaudeUsageMenuBar-0.3.364-beta.1416+9fb52b7.dmg" sparkle:edSignature="978T4H8M4oE00xS+rUKf2bwq1q7gBNLkw82KigBZ2dIGQaN+MwZf/KXpvrfBB/SCNy3RrJetAmtFKIf8YmzcCA==" length="11020713" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.363-beta.1415+58dde2b</title>
       <guid isPermaLink="false">58dde2bee2f547d5b6087be1ec8ebd40485634f5</guid>
       <sparkle:version>1415</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 28 May 2026 06:43:09 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1415 · 58dde2b</h3><ul><li>fix: desktop-token-sync 短路条件加 expiresAt 余量检查</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1415 · 58dde2b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: desktop-token-sync 短路条件加 expiresAt 余量检查&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.363-beta.1415+58dde2b/ClaudeUsageMenuBar-0.3.363-beta.1415+58dde2b.dmg" sparkle:edSignature="umZKuaJ9clQdpICFCnJIn5W/O0GzrIPqrEX6Vv83MODAeyKd8kSTaSN6LSfUeSFwdpJqMSZT1eW0vDGnSLfHCw==" length="11020055" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Mon, 04 May 2026 14:28:30 +0000</pubDate>
       <description>&lt;h3&gt;Build 1371 · 4521e26&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: isolate status history expansion&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.329-beta.1371+4521e26/ClaudeUsageMenuBar-0.3.329-beta.1371+4521e26.dmg" sparkle:edSignature="7M78G7aj4FGbf263RW9Wtz95t8hrfDvxTTrdHD90/fUwcouZHWBpI12/PZMHAPpdpuSS3KIS7FkjKTJ9gbY3Cg==" length="10608230" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.328-beta.1370+f0b9462</title>
-      <guid isPermaLink="false">f0b94620e385637774e351c33894ffec5fbd267d</guid>
-      <sparkle:version>1370</sparkle:version>
-      <sparkle:shortVersionString>0.3.328-beta.1370+f0b9462</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 03 May 2026 09:55:31 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1370 · f0b9462&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: SessionIndexer 流式 helper + 行级 prefilter + SQLite cache 收紧 (rebased) (#9)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.328-beta.1370+f0b9462/ClaudeUsageMenuBar-0.3.328-beta.1370+f0b9462.dmg" sparkle:edSignature="0TQ/TOoE+9vNXsKjvT918ILeKf2NhO9b0zh+ePOSIwk2/g5A/VCtXtJRNs7vM5tSZ5fMN2TNq4oyP4lk773kCw==" length="10607947" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
