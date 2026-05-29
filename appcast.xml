@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.368-beta.1420+e747984</title>
+      <guid isPermaLink="false">e747984edc5976affd3de1c028b33d22bd70a8da</guid>
+      <sparkle:version>1420</sparkle:version>
+      <sparkle:shortVersionString>0.3.368-beta.1420+e747984</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 29 May 2026 08:13:37 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1420 · e747984</h3><ul><li>fix: CloudKit 去重迁移——清掉 iPhone 端旧的逐行高估历史 (v0.3.368)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.368-beta.1420+e747984/ClaudeUsageMenuBar-0.3.368-beta.1420+e747984.dmg" sparkle:edSignature="Zea66xccIVQCUzGNUrJ+La0G9GHo0tC0zIMG3X+OqT2n6oCqPKjFf9V1IpWmFIugln/CNZXtfBQ8suHrAqH4Dg==" length="11788826" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.367-beta.1419+601b986</title>
       <guid isPermaLink="false">601b98630fd4495efc5ae6e22daacf496a9e563b</guid>
       <sparkle:version>1419</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 29 May 2026 08:03:10 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1419 · 601b986</h3><ul><li>fix: cost/token 按 message.id:requestId 去重，修逐行重复累加致高估 2-5x (v0.3.367)</li><li>fix: 定价表漏 claude-opus-4-8 致 cost 静默归零，改远程 pricing.json 单源 + 家族兜底 (v0.3.366)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1419 · 601b986&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: cost/token 按 message.id:requestId 去重，修逐行重复累加致高估 2-5x (v0.3.367)&lt;/li&gt;&lt;li&gt;fix: 定价表漏 claude-opus-4-8 致 cost 静默归零，改远程 pricing.json 单源 + 家族兜底 (v0.3.366)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.367-beta.1419+601b986/ClaudeUsageMenuBar-0.3.367-beta.1419+601b986.dmg" sparkle:edSignature="JWjsmk8+9eaB+/roH7SrfsChtvt4dpRYpFqNR0NiSRbPireioyBqCOh/yTv6MJQDsmWRtWIYM7bISeAXeFLWCg==" length="11042548" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Sat, 09 May 2026 04:48:43 +0000</pubDate>
       <description>&lt;h3&gt;Build 1374 · 04678fc&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: add Claude Code changelog viewer in maintenance tab&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.332-beta.1374+04678fc/ClaudeUsageMenuBar-0.3.332-beta.1374+04678fc.dmg" sparkle:edSignature="Km+9sR/QgVdR1QvlhrWULzoC8SMXHsCLqSmun+jglCbYg7jK73iGuZFGf6+lBKqcqYVMtZCTV2KWqM3sEZvDDQ==" length="10729611" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.331-beta.1373+a88eb80</title>
-      <guid isPermaLink="false">a88eb8070cbdad441364fba239209dd6ba4c79bc</guid>
-      <sparkle:version>1373</sparkle:version>
-      <sparkle:shortVersionString>0.3.331-beta.1373+a88eb80</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 04 May 2026 14:49:13 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1373 · a88eb80&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: install Claude history search skill&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.331-beta.1373+a88eb80/ClaudeUsageMenuBar-0.3.331-beta.1373+a88eb80.dmg" sparkle:edSignature="sztsfCYfz6nn3CydkoDvcxLEa4GqHvlJVtPA46Yde83/KY4+zqVV9FaaWDGBGXC6DxkAW2vljFAsktTZKop3Bg==" length="10629115" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
