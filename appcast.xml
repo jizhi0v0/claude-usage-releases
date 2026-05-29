@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.367-beta.1419+601b986</title>
+      <guid isPermaLink="false">601b98630fd4495efc5ae6e22daacf496a9e563b</guid>
+      <sparkle:version>1419</sparkle:version>
+      <sparkle:shortVersionString>0.3.367-beta.1419+601b986</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 29 May 2026 08:03:10 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1419 · 601b986</h3><ul><li>fix: cost/token 按 message.id:requestId 去重，修逐行重复累加致高估 2-5x (v0.3.367)</li><li>fix: 定价表漏 claude-opus-4-8 致 cost 静默归零，改远程 pricing.json 单源 + 家族兜底 (v0.3.366)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.367-beta.1419+601b986/ClaudeUsageMenuBar-0.3.367-beta.1419+601b986.dmg" sparkle:edSignature="JWjsmk8+9eaB+/roH7SrfsChtvt4dpRYpFqNR0NiSRbPireioyBqCOh/yTv6MJQDsmWRtWIYM7bISeAXeFLWCg==" length="11042548" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.365-beta.1417+0326a71</title>
       <guid isPermaLink="false">0326a719263f46714010c2c400d783c73607224c</guid>
       <sparkle:version>1417</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 29 May 2026 02:18:23 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1417 · 0326a71</h3><ul><li>perf: 隔离 SettingsView 分析/维护 Tab 顶层高频读取，根治 menubar 内存累积 (v0.3.365)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1417 · 0326a71&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: 隔离 SettingsView 分析/维护 Tab 顶层高频读取，根治 menubar 内存累积 (v0.3.365)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.365-beta.1417+0326a71/ClaudeUsageMenuBar-0.3.365-beta.1417+0326a71.dmg" sparkle:edSignature="gVId2gg3qSx9qygTxEwErAti1aTIb9o+TIlQt/RCurqdy1pSHcx1K1ZIJgPUvLoikedrjtDPlxnrO4543SeEAw==" length="11019707" type="application/octet-stream" />
     </item>
     <item>
@@ -211,17 +222,6 @@
       <pubDate>Mon, 04 May 2026 14:49:13 +0000</pubDate>
       <description>&lt;h3&gt;Build 1373 · a88eb80&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: install Claude history search skill&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.331-beta.1373+a88eb80/ClaudeUsageMenuBar-0.3.331-beta.1373+a88eb80.dmg" sparkle:edSignature="sztsfCYfz6nn3CydkoDvcxLEa4GqHvlJVtPA46Yde83/KY4+zqVV9FaaWDGBGXC6DxkAW2vljFAsktTZKop3Bg==" length="10629115" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.330-beta.1372+54ea9c3</title>
-      <guid isPermaLink="false">54ea9c3f120ab8ec51b4f9a3b54b77f869ac3a75</guid>
-      <sparkle:version>1372</sparkle:version>
-      <sparkle:shortVersionString>0.3.330-beta.1372+54ea9c3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 04 May 2026 14:36:04 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1372 · 54ea9c3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: stabilize status history layout&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.330-beta.1372+54ea9c3/ClaudeUsageMenuBar-0.3.330-beta.1372+54ea9c3.dmg" sparkle:edSignature="9YuYfCV1VqxB2ygQwEiejRl9aKw2IzEAlTECEYiO9hz+J4ob5Eoz8qvMgPiC4j/gUrgctX2mjeHMy5e87r/0CQ==" length="10609481" type="application/octet-stream" />
     </item>
   </channel>
 </rss>

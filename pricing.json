@@ -1,0 +1,18 @@
+{
+  "$schema_version": 1,
+  "_doc": "Claude API 单价表（$/MTok）。MenuBar/iOS app 启动 + 6h 周期从 raw.githubusercontent.com 拉这个文件，写到 ~/.claude-usage/pricing.json 缓存；python 离线脚本也读同一份缓存。出新模型只改这个文件即可（push main 由 release.yml 同步到公开 releases 仓，或直接编辑 releases 仓立即生效），不用发版。models 精确匹配（含日期后缀走前缀匹配）；都没命中时按 families 家族兜底，新模型不会被静默算成 $0。改价请同步 docs/pricing-snapshots.md 追加一条快照，并核对 PricingManifest.bundledDefault 的编译期兜底。",
+  "models": {
+    "claude-opus-4-8":   { "input": 5.0, "output": 25.0, "cache_write": 10.0, "cache_read": 0.50 },
+    "claude-opus-4-7":   { "input": 5.0, "output": 25.0, "cache_write": 10.0, "cache_read": 0.50 },
+    "claude-opus-4-6":   { "input": 5.0, "output": 25.0, "cache_write": 10.0, "cache_read": 0.50 },
+    "claude-opus-4-5":   { "input": 5.0, "output": 25.0, "cache_write": 10.0, "cache_read": 0.50 },
+    "claude-sonnet-4-6": { "input": 3.0, "output": 15.0, "cache_write": 6.0,  "cache_read": 0.30 },
+    "claude-sonnet-4-5": { "input": 3.0, "output": 15.0, "cache_write": 6.0,  "cache_read": 0.30 },
+    "claude-haiku-4-5":  { "input": 1.0, "output": 5.0,  "cache_write": 2.0,  "cache_read": 0.10 }
+  },
+  "families": {
+    "opus":   { "input": 5.0, "output": 25.0, "cache_write": 10.0, "cache_read": 0.50 },
+    "sonnet": { "input": 3.0, "output": 15.0, "cache_write": 6.0,  "cache_read": 0.30 },
+    "haiku":  { "input": 1.0, "output": 5.0,  "cache_write": 2.0,  "cache_read": 0.10 }
+  }
+}
