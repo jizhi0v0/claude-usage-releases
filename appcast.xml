@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.371-beta.1424+9ba07f4</title>
+      <guid isPermaLink="false">9ba07f44116c8c3c25a38e40a5d7775ce3b9763a</guid>
+      <sparkle:version>1424</sparkle:version>
+      <sparkle:shortVersionString>0.3.371-beta.1424+9ba07f4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 29 May 2026 11:13:25 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1424 · 9ba07f4</h3><ul><li>chore: 删除 repo 根 scripts/desktop-token-sync.sh 遗留副本（已不打包，源在 Resources/scripts）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1424+9ba07f4/ClaudeUsageMenuBar-0.3.371-beta.1424+9ba07f4.dmg" sparkle:edSignature="ylw5q4g8vGCs9B3t7x6eh+YD+t3vpWSL1qpG2hOKQK5ZHcqshu8wfL2cQm2/5O902SsKnuDpBualw+Wqh8VLCQ==" length="11062918" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.371-beta.1423+75b5811</title>
       <guid isPermaLink="false">75b58117c84a154ba217741c7fc2daee0e7092bf</guid>
       <sparkle:version>1423</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 29 May 2026 11:09:32 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1423 · 75b5811</h3><ul><li>fix: desktop-token-sync no-op 阈值 300s→1200s 关掉每周期 ~10min token 过期空窗 (v0.3.371)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1423 · 75b5811&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: desktop-token-sync no-op 阈值 300s→1200s 关掉每周期 ~10min token 过期空窗 (v0.3.371)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1423+75b5811/ClaudeUsageMenuBar-0.3.371-beta.1423+75b5811.dmg" sparkle:edSignature="9/pA6psR5B2xOcyHmbw1IV+M46ChZMckROX2+QG3HNAOBLTPDO+y7XBfw4NMUdTD19OZ0XWfaI27ia+X/emXAA==" length="11062937" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Mon, 11 May 2026 03:07:48 +0000</pubDate>
       <description>&lt;h3&gt;Build 1377 · 4eaeab6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: fix MenuBar memory leak from observation tracking storm + stat thrash&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.335-beta.1377+4eaeab6/ClaudeUsageMenuBar-0.3.335-beta.1377+4eaeab6.dmg" sparkle:edSignature="NA//c9+r2Qmc69AnMQsks82X28CA21v+G8W4R0T0yy99M8Z1VUb4XHYDOmsFv4pmX9KlUhkhHYiSrP41qiggBQ==" length="10743139" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.334-beta.1376+effc46e</title>
-      <guid isPermaLink="false">effc46e9accc84ffa1a6c28f868835a51a12b75d</guid>
-      <sparkle:version>1376</sparkle:version>
-      <sparkle:shortVersionString>0.3.334-beta.1376+effc46e</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 09 May 2026 05:13:43 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1376 · effc46e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: bump stable build number to outrank same-commit beta&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.334-beta.1376+effc46e/ClaudeUsageMenuBar-0.3.334-beta.1376+effc46e.dmg" sparkle:edSignature="WWzGN0+8utq/udfHvNfnNWEEPTO8ImgXqdW1eE4Gw/wV5Ufog8SadZYeynkXi8uymHsHoQ1VLsi8Yxk7rSf9CA==" length="10733375" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
