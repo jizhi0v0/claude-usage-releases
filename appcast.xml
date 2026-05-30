@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.376-beta.1428+344f895</title>
+      <guid isPermaLink="false">344f89581f42893ba1c9d9f5eb7e83af9ee5851e</guid>
+      <sparkle:version>1428</sparkle:version>
+      <sparkle:shortVersionString>0.3.376-beta.1428+344f895</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 30 May 2026 04:36:14 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1428 · 344f895</h3><ul><li>ci: review 改用 Opus 4.8（--model claude-opus-4-8） (#15)</li><li>feat: 设置窗 TabView→NavigationSplitView 迁移 + 原生侧栏 toggle/灰色顶栏修复 (v0.3.376) (#12)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.376-beta.1428+344f895/ClaudeUsageMenuBar-0.3.376-beta.1428+344f895.dmg" sparkle:edSignature="ft9iJNyTgWngbg7B3lp9yeUozpsIGb7Ji9k7q3Ds4paYETFKDS8vvt0JvBVZxwHo02mJNYwhmG07O7hZYkNiBA==" length="11099213" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.371-beta.1426+be96bca</title>
       <guid isPermaLink="false">be96bca151c716ec079c97993ab0efb2c8a0366f</guid>
       <sparkle:version>1426</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 30 May 2026 04:10:55 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1426 · be96bca</h3><ul><li>ci: 给 Claude review workflow 加 id-token:write（修 OIDC token 获取失败） (#14)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1426 · be96bca&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 给 Claude review workflow 加 id-token:write（修 OIDC token 获取失败） (#14)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1426+be96bca/ClaudeUsageMenuBar-0.3.371-beta.1426+be96bca.dmg" sparkle:edSignature="EUrUSLGUzzfnYMnB+1afYjmkA0RSLyVHD4TuYV2ziwSW8Bv/zWQjOgsV8wok9iLKZ39fvfvqdFxSLL4ekhhwAg==" length="11062940" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Tue, 26 May 2026 08:37:52 +0000</pubDate>
       <description>&lt;h3&gt;Build 1404 · 109e23e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: promo chip 加倒计时 + 结束通知,补 Claude Design 2x&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.352-beta.1404+109e23e/ClaudeUsageMenuBar-0.3.352-beta.1404+109e23e.dmg" sparkle:edSignature="cILdQR1Z+7P3V4b0vQ6GHOiJ/A9V4J8ZkLgECjSJukd6feMBPUNYNRgRTZ6Xc0Wpvl2+xJ6B0HksYDAvUc34DQ==" length="11017996" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.351-beta.1403+ef0eede</title>
-      <guid isPermaLink="false">ef0eede13acfbb02f7debe22935adbe5623731da</guid>
-      <sparkle:version>1403</sparkle:version>
-      <sparkle:shortVersionString>0.3.351-beta.1403+ef0eede</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 26 May 2026 08:12:30 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1403 · ef0eede&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.351-beta.1403+ef0eede/ClaudeUsageMenuBar-0.3.351-beta.1403+ef0eede.dmg" sparkle:edSignature="XyCjn1DeQSHClQywKWb+4CN6VXqfkoZSfNyC0bJNtt2vXBXgfKShCaR9WY1Vtz+6xjBEMyKSU1BPEZZ32ldCCg==" length="11008447" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
