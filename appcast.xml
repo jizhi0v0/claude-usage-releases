@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.371-beta.1425+fdb8832</title>
+      <guid isPermaLink="false">fdb88323359d9bb285f56c00c46834edce5a9178</guid>
+      <sparkle:version>1425</sparkle:version>
+      <sparkle:shortVersionString>0.3.371-beta.1425+fdb8832</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 30 May 2026 04:08:06 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1425 · fdb8832</h3><ul><li>ci: 加 Claude 自动 PR review workflow（订阅 OAuth token） (#13)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1425+fdb8832/ClaudeUsageMenuBar-0.3.371-beta.1425+fdb8832.dmg" sparkle:edSignature="qtkaq2MTjU8ffYrz2yzBI244nZ2cL5mpPk+zF2gAd+BEjL2A/A6OYZLjKEmNV4k74+YIfuuGSGTr+Mfd2DiPDQ==" length="11062972" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.371-beta.1424+9ba07f4</title>
       <guid isPermaLink="false">9ba07f44116c8c3c25a38e40a5d7775ce3b9763a</guid>
       <sparkle:version>1424</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 29 May 2026 11:13:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1424 · 9ba07f4</h3><ul><li>chore: 删除 repo 根 scripts/desktop-token-sync.sh 遗留副本（已不打包，源在 Resources/scripts）</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1424 · 9ba07f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 删除 repo 根 scripts/desktop-token-sync.sh 遗留副本（已不打包，源在 Resources/scripts）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1424+9ba07f4/ClaudeUsageMenuBar-0.3.371-beta.1424+9ba07f4.dmg" sparkle:edSignature="ylw5q4g8vGCs9B3t7x6eh+YD+t3vpWSL1qpG2hOKQK5ZHcqshu8wfL2cQm2/5O902SsKnuDpBualw+Wqh8VLCQ==" length="11062918" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Mon, 25 May 2026 14:03:56 +0000</pubDate>
       <description>&lt;h3&gt;Build 1402 · 86a12f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: proxy 兜底用 Surge 默认 6152 端口,scutil 读不到时直接探本机端口&lt;/li&gt;&lt;li&gt;ci: publish job 起手注入 macOS 系统 proxy 到 HTTPS_PROXY env&lt;/li&gt;&lt;li&gt;ci: publish job 跑到同一台 mac runner 上,从本地 stash 拷 DMG,绕开 artifact 配额&lt;/li&gt;&lt;li&gt;feat: menubar 启动期自动装 desktop-token-sync launchd，按 HookInstaller 模式&lt;/li&gt;&lt;li&gt;fix: 修 daily-recap CI 自 5/23 起一直红的两类编译错&lt;/li&gt;&lt;li&gt;fix: Swift fetcher 补回 last-attempt.json 心跳写入，消除 menubar 误报 Fetcher silent&lt;/li&gt;&lt;li&gt;chore: 加 desktop-token-sync 本机 hack，把 Claude.app env 里的 OAuth token 写回 keychain&lt;/li&gt;&lt;li&gt;feat(daily-recap): MenuBar 加日期选择器，支持回顾任意一天 (#11)&lt;/li&gt;&lt;li&gt;feat: 加"今日 Claude Code 对话回顾"——扫今天会话，喂给 claude 自查 (#10)&lt;/li&gt;&lt;li&gt;perf: 抽出 SessionsTabContent 隔离 trackingContext，根治 menubar 长跑内存累积&lt;/li&gt;&lt;li&gt;perf: 修复 SettingsView 顶层 viewVersion 订阅导致的 NSWindow retain 内存累积&lt;/li&gt;&lt;li&gt;ci: publish 解耦 vscode/jb，artifact 配额满时也能发 macOS 包&lt;/li&gt;&lt;li&gt;ci: Sparkle 重签改成 find 遍历，覆盖 XPCServices 等内部嵌入物&lt;/li&gt;&lt;li&gt;ci: cp 出 archive 后手动重签 Sparkle + timestamp，绕过 -exportArchive 后补回兜底&lt;/li&gt;&lt;li&gt;ci: notarize 失败时主动拉 notarytool log，看具体 issues&lt;/li&gt;&lt;li&gt;ci: 绕过 -exportArchive，直接从 .xcarchive cp 出已签 .app&lt;/li&gt;&lt;li&gt;fix: fetcher 嵌入位置改到 Contents/Helpers/，绕开 export archive 评估错误&lt;/li&gt;&lt;li&gt;fix: ClaudeUsageFetcher disable signing 阶段，避免 CI archive 撞 provisioning profile&lt;/li&gt;&lt;li&gt;refactor: LaunchAgent 切回 Swift fetcher，去掉 bash + python + curl 链路&lt;/li&gt;&lt;li&gt;fix: fetch-usage.sh 走系统代理，绕开 launchd 拿不到 HTTPS_PROXY env 的坑&lt;/li&gt;&lt;li&gt;fix: fetcher 显式注入 system proxy，让 Surge 没开 Enhanced 也能截到&lt;/li&gt;&lt;li&gt;perf: cache SMAppService.status to avoid XPC in SwiftUI layout&lt;/li&gt;&lt;li&gt;perf: stop MenuBarLabel 60Hz self-loop with .equatable()&lt;/li&gt;&lt;li&gt;ci: stash DMG to permanent dir + tolerate artifact upload failure&lt;/li&gt;&lt;li&gt;perf: replace SwiftUI Text(_, style: .relative) with static formatter&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.350-beta.1402+86a12f4/ClaudeUsageMenuBar-0.3.350-beta.1402+86a12f4.dmg" sparkle:edSignature="IPudrF/pSYFi4PueJN4gi4aePD1jZgqNTz5w9v11eGUTmTIY7o52HhMR4v+R11JeWr7BHCKhU03uU0mAle0nDA==" length="10944667" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.335-beta.1377+4eaeab6</title>
-      <guid isPermaLink="false">4eaeab6e61536fa472f5f75149a1d0a5a804c653</guid>
-      <sparkle:version>1377</sparkle:version>
-      <sparkle:shortVersionString>0.3.335-beta.1377+4eaeab6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 11 May 2026 03:07:48 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1377 · 4eaeab6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: fix MenuBar memory leak from observation tracking storm + stat thrash&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.335-beta.1377+4eaeab6/ClaudeUsageMenuBar-0.3.335-beta.1377+4eaeab6.dmg" sparkle:edSignature="NA//c9+r2Qmc69AnMQsks82X28CA21v+G8W4R0T0yy99M8Z1VUb4XHYDOmsFv4pmX9KlUhkhHYiSrP41qiggBQ==" length="10743139" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
