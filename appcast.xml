@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.371-beta.1426+be96bca</title>
+      <guid isPermaLink="false">be96bca151c716ec079c97993ab0efb2c8a0366f</guid>
+      <sparkle:version>1426</sparkle:version>
+      <sparkle:shortVersionString>0.3.371-beta.1426+be96bca</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 30 May 2026 04:10:55 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1426 · be96bca</h3><ul><li>ci: 给 Claude review workflow 加 id-token:write（修 OIDC token 获取失败） (#14)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1426+be96bca/ClaudeUsageMenuBar-0.3.371-beta.1426+be96bca.dmg" sparkle:edSignature="EUrUSLGUzzfnYMnB+1afYjmkA0RSLyVHD4TuYV2ziwSW8Bv/zWQjOgsV8wok9iLKZ39fvfvqdFxSLL4ekhhwAg==" length="11062940" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.371-beta.1425+fdb8832</title>
       <guid isPermaLink="false">fdb88323359d9bb285f56c00c46834edce5a9178</guid>
       <sparkle:version>1425</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 30 May 2026 04:08:06 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1425 · fdb8832</h3><ul><li>ci: 加 Claude 自动 PR review workflow（订阅 OAuth token） (#13)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1425 · fdb8832&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 加 Claude 自动 PR review workflow（订阅 OAuth token） (#13)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1425+fdb8832/ClaudeUsageMenuBar-0.3.371-beta.1425+fdb8832.dmg" sparkle:edSignature="qtkaq2MTjU8ffYrz2yzBI244nZ2cL5mpPk+zF2gAd+BEjL2A/A6OYZLjKEmNV4k74+YIfuuGSGTr+Mfd2DiPDQ==" length="11062972" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Tue, 26 May 2026 08:12:30 +0000</pubDate>
       <description>&lt;h3&gt;Build 1403 · ef0eede&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: menubar quotas 旁加官方活动 chip,显示活动结束时间(本地时区)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.351-beta.1403+ef0eede/ClaudeUsageMenuBar-0.3.351-beta.1403+ef0eede.dmg" sparkle:edSignature="XyCjn1DeQSHClQywKWb+4CN6VXqfkoZSfNyC0bJNtt2vXBXgfKShCaR9WY1Vtz+6xjBEMyKSU1BPEZZ32ldCCg==" length="11008447" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.350-beta.1402+86a12f4</title>
-      <guid isPermaLink="false">86a12f435519ce29631c268811a67e80a1f6d82a</guid>
-      <sparkle:version>1402</sparkle:version>
-      <sparkle:shortVersionString>0.3.350-beta.1402+86a12f4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 25 May 2026 14:03:56 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1402 · 86a12f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: proxy 兜底用 Surge 默认 6152 端口,scutil 读不到时直接探本机端口&lt;/li&gt;&lt;li&gt;ci: publish job 起手注入 macOS 系统 proxy 到 HTTPS_PROXY env&lt;/li&gt;&lt;li&gt;ci: publish job 跑到同一台 mac runner 上,从本地 stash 拷 DMG,绕开 artifact 配额&lt;/li&gt;&lt;li&gt;feat: menubar 启动期自动装 desktop-token-sync launchd，按 HookInstaller 模式&lt;/li&gt;&lt;li&gt;fix: 修 daily-recap CI 自 5/23 起一直红的两类编译错&lt;/li&gt;&lt;li&gt;fix: Swift fetcher 补回 last-attempt.json 心跳写入，消除 menubar 误报 Fetcher silent&lt;/li&gt;&lt;li&gt;chore: 加 desktop-token-sync 本机 hack，把 Claude.app env 里的 OAuth token 写回 keychain&lt;/li&gt;&lt;li&gt;feat(daily-recap): MenuBar 加日期选择器，支持回顾任意一天 (#11)&lt;/li&gt;&lt;li&gt;feat: 加"今日 Claude Code 对话回顾"——扫今天会话，喂给 claude 自查 (#10)&lt;/li&gt;&lt;li&gt;perf: 抽出 SessionsTabContent 隔离 trackingContext，根治 menubar 长跑内存累积&lt;/li&gt;&lt;li&gt;perf: 修复 SettingsView 顶层 viewVersion 订阅导致的 NSWindow retain 内存累积&lt;/li&gt;&lt;li&gt;ci: publish 解耦 vscode/jb，artifact 配额满时也能发 macOS 包&lt;/li&gt;&lt;li&gt;ci: Sparkle 重签改成 find 遍历，覆盖 XPCServices 等内部嵌入物&lt;/li&gt;&lt;li&gt;ci: cp 出 archive 后手动重签 Sparkle + timestamp，绕过 -exportArchive 后补回兜底&lt;/li&gt;&lt;li&gt;ci: notarize 失败时主动拉 notarytool log，看具体 issues&lt;/li&gt;&lt;li&gt;ci: 绕过 -exportArchive，直接从 .xcarchive cp 出已签 .app&lt;/li&gt;&lt;li&gt;fix: fetcher 嵌入位置改到 Contents/Helpers/，绕开 export archive 评估错误&lt;/li&gt;&lt;li&gt;fix: ClaudeUsageFetcher disable signing 阶段，避免 CI archive 撞 provisioning profile&lt;/li&gt;&lt;li&gt;refactor: LaunchAgent 切回 Swift fetcher，去掉 bash + python + curl 链路&lt;/li&gt;&lt;li&gt;fix: fetch-usage.sh 走系统代理，绕开 launchd 拿不到 HTTPS_PROXY env 的坑&lt;/li&gt;&lt;li&gt;fix: fetcher 显式注入 system proxy，让 Surge 没开 Enhanced 也能截到&lt;/li&gt;&lt;li&gt;perf: cache SMAppService.status to avoid XPC in SwiftUI layout&lt;/li&gt;&lt;li&gt;perf: stop MenuBarLabel 60Hz self-loop with .equatable()&lt;/li&gt;&lt;li&gt;ci: stash DMG to permanent dir + tolerate artifact upload failure&lt;/li&gt;&lt;li&gt;perf: replace SwiftUI Text(_, style: .relative) with static formatter&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.350-beta.1402+86a12f4/ClaudeUsageMenuBar-0.3.350-beta.1402+86a12f4.dmg" sparkle:edSignature="IPudrF/pSYFi4PueJN4gi4aePD1jZgqNTz5w9v11eGUTmTIY7o52HhMR4v+R11JeWr7BHCKhU03uU0mAle0nDA==" length="10944667" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
