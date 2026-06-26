@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.379-beta.1433+25fca4b</title>
+      <guid isPermaLink="false">25fca4b75657cadb0d173170f8ae39a28897e23e</guid>
+      <sparkle:version>1433</sparkle:version>
+      <sparkle:shortVersionString>0.3.379-beta.1433+25fca4b</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 26 Jun 2026 05:12:02 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1433 · 25fca4b</h3><ul><li>perf: 菜单栏状态项按值缓存 NSImage，消除 macOS 27 idle 空转重绘 (v0.3.379)</li><li>fix: desktop-token-sync 用进程年龄替代 /api/oauth/usage probe，消除与 fetcher 共享 rate limit (v0.3.378)</li><li>chore: 加 compare-models.py 逐消息用量对比脚本（支持 --models flag）</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.379-beta.1433+25fca4b/ClaudeUsageMenuBar-0.3.379-beta.1433+25fca4b.dmg" sparkle:edSignature="YL0wZW96uCn1Q/L0HMEBl7O6yn9CBb7DjesLCWsEHmVhIft65jq7z5341T3kxht6aAxSWejv4CLZf0q6RGLYAA==" length="11108607" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.377-beta.1429+09acc19</title>
       <guid isPermaLink="false">09acc19b19044bc31b9be498ad1c24508276986b</guid>
       <sparkle:version>1429</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sat, 30 May 2026 06:48:00 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1429 · 09acc19</h3><ul><li>fix: 设置窗侧栏恢复原生材质，圆角与窗口同心 (v0.3.377) (#16)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1429 · 09acc19&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: 设置窗侧栏恢复原生材质，圆角与窗口同心 (v0.3.377) (#16)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.377-beta.1429+09acc19/ClaudeUsageMenuBar-0.3.377-beta.1429+09acc19.dmg" sparkle:edSignature="J/dPxEvrcPKMkbzwKMo34/JToijd1k+zBxNDWFG677/V2XnCv5SCbnxj688TjUulQHqKSisVtYm12mz0mo3gAw==" length="11100986" type="application/octet-stream" />
     </item>
     <item>
@@ -212,17 +223,6 @@
       <pubDate>Tue, 26 May 2026 08:48:18 +0000</pubDate>
       <description>&lt;h3&gt;Build 1406 · 32fa51e&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: promo 远端源换到公开 releases 仓,主仓 private 拉不到&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.354-beta.1406+32fa51e/ClaudeUsageMenuBar-0.3.354-beta.1406+32fa51e.dmg" sparkle:edSignature="dcpuSGvginh963IpGiaOLSgRDBaoyHcjhJrD6FrgNaLNJZrU1XlupoT7Y71o87a3mjPb6E2U/KFwDQ6lJ0WwCw==" length="11018303" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.353-beta.1405+ca9fd67</title>
-      <guid isPermaLink="false">ca9fd6788537ecceb663b694413afe26ff4dca69</guid>
-      <sparkle:version>1405</sparkle:version>
-      <sparkle:shortVersionString>0.3.353-beta.1405+ca9fd67</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 26 May 2026 08:42:35 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1405 · ca9fd67&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: promo milestone 同时发 iOS APNs 推送&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.353-beta.1405+ca9fd67/ClaudeUsageMenuBar-0.3.353-beta.1405+ca9fd67.dmg" sparkle:edSignature="CckNP/Ke+9GVATiPsLZK6YK+F80wgB/jlO1dDSCm3ffHynIqkXSmDFbUaXlL/fTj9da3CFArfX4QGKz4cskaDQ==" length="11018293" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
