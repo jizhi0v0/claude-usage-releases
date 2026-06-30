@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.384-beta.1438+839b5ef</title>
+      <guid isPermaLink="false">839b5ef375cef561e023a9189dc8ac087ed55d00</guid>
+      <sparkle:version>1438</sparkle:version>
+      <sparkle:shortVersionString>0.3.384-beta.1438+839b5ef</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 30 Jun 2026 08:49:19 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1438 · 839b5ef</h3><ul><li>feat: fetcher 加 fetch_enabled 开关做多设备去重，standby 不打 /usage (v0.3.384)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.384-beta.1438+839b5ef/ClaudeUsageMenuBar-0.3.384-beta.1438+839b5ef.dmg" sparkle:edSignature="mhS99pBXrW8G8iYfEFVtVY6ZwDw41xdwdAr+UpCvF1p3pByLWl60V8Ok32SwMtsMU/khm8Auoc9+N9WrVoj+CA==" length="11120093" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.383-beta.1437+83c8d0a</title>
       <guid isPermaLink="false">83c8d0a33323f328c878cecd9a75b35894a23898</guid>
       <sparkle:version>1437</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 30 Jun 2026 08:35:53 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1437 · 83c8d0a</h3><ul><li>fix: token-sync refresh 撞 429 加 retry-after 退避，止住反复戳端点续命惩罚 (v0.3.383)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1437 · 83c8d0a&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: token-sync refresh 撞 429 加 retry-after 退避，止住反复戳端点续命惩罚 (v0.3.383)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.383-beta.1437+83c8d0a/ClaudeUsageMenuBar-0.3.383-beta.1437+83c8d0a.dmg" sparkle:edSignature="ErMYnC+kG6vc++wBf/vaqgLqXGkA7gv+1DkKUpopm7A/Nu5Anuj406ybppmDhVy9zTVkFW+qmWadsZfBIFBUDA==" length="11119782" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Tue, 26 May 2026 14:28:25 +0000</pubDate>
       <description>&lt;h3&gt;Build 1411 · 3ea3562&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;tweak: iOS promo 抽屉再降高度 fraction(0.5) -&amp;gt; 0.42&lt;/li&gt;&lt;li&gt;feat: iOS promo 抽屉收紧 — 单一 fraction(0.5) + title 居中 + 标题分隔&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.359-beta.1411+3ea3562/ClaudeUsageMenuBar-0.3.359-beta.1411+3ea3562.dmg" sparkle:edSignature="pK3wQWEnaTOD57+Qrw6eWuVWlX3aidAUrgcLGDZ24xp1WK2jJ76LOiD8mcNZpcEUaUfwmZidwBJPepW4htYSBA==" length="11019020" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.357-beta.1409+1f16d39</title>
-      <guid isPermaLink="false">1f16d397da6bb82a510888c3f84ec1a8da653def</guid>
-      <sparkle:version>1409</sparkle:version>
-      <sparkle:shortVersionString>0.3.357-beta.1409+1f16d39</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 26 May 2026 10:04:33 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1409 · 1f16d39&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: iOS promo 详情改抽屉 sheet,内容滚动不再被截&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.357-beta.1409+1f16d39/ClaudeUsageMenuBar-0.3.357-beta.1409+1f16d39.dmg" sparkle:edSignature="LMJ6me5YGmzWG1pNTyG6PaDc0QRVvCkQPWFVEEp2eIxj197nIfiR1MEdQyD+FUMpwkm3/68FTo24oc5I6CkNCw==" length="11018214" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
