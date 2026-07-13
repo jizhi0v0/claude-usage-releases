@@ -20,7 +20,7 @@
       "title": "Weekly 上限 +50%",
       "description": "Claude Code 周窗口额度 +50%，覆盖 CLI / IDE 插件 / desktop / web 全端，自动生效不需要 opt-in。",
       "starts_at": "2026-05-13T19:07:51Z",
-      "ends_at": "2026-07-14T01:00:00Z",
+      "ends_at": "2026-07-20T06:59:59Z",
       "plans": ["pro", "max", "team", "enterprise_seats"],
       "source_url": "https://x.com/ClaudeDevs/status/2054639777685934564"
     },
