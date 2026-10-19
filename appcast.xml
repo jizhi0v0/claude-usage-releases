@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.390-beta.1448+d333de4</title>
+      <guid isPermaLink="false">d333de4cab86b51f968a050a8d4ae1fdd75345e2</guid>
+      <sparkle:version>1448</sparkle:version>
+      <sparkle:shortVersionString>0.3.390-beta.1448+d333de4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 19 Oct 2026 12:02:44 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1448 · d333de4</h3><ul><li>perf: SessionJournal 常驻改紧凑 Turn + 二进制 snapshot，内存 ~250MB → ~20MB (v0.3.390)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.390-beta.1448+d333de4/ClaudeUsageMenuBar-0.3.390-beta.1448+d333de4.dmg" sparkle:edSignature="EJyQncKfMbDJtdkcH9d28V2kAFA1BucXvTYjAc06gyZb10f8Fkv5YHPz3wH66HMkt1f3wKs9XKOybWPEHzTIAw==" length="10932368" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.389-beta.1447+897f41b</title>
       <guid isPermaLink="false">897f41b7d59b8d6aac3aaaff1765052042c441dc</guid>
       <sparkle:version>1447</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 19 Oct 2026 10:35:42 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1447 · 897f41b</h3><ul><li>fix: SessionJournal 每 5 分钟整份重编码 snapshot 致 MenuBar 峰值 1.5GB (v0.3.389)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1447 · 897f41b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: SessionJournal 每 5 分钟整份重编码 snapshot 致 MenuBar 峰值 1.5GB (v0.3.389)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.389-beta.1447+897f41b/ClaudeUsageMenuBar-0.3.389-beta.1447+897f41b.dmg" sparkle:edSignature="BoMpTXRwwNTXT/SGsM6pFORVUj6LM6zSNUpFZkFd4vuR2MJbFVfNHUk7G/bKc8bTP+7/grtYG1vCsez5jZ33AQ==" length="10927618" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Fri, 29 May 2026 09:22:04 +0000</pubDate>
       <description>&lt;h3&gt;Build 1422 · b74a8bf&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: cache write 按 5m=1.25×/1h=2×input 拆分计价，对齐 Anthropic 真实费率 (v0.3.370)&lt;/li&gt;&lt;li&gt;fix: rebuild 闸移到每次启动触发，否则 update 用户去重重建不生效 (v0.3.369)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.370-beta.1422+b74a8bf/ClaudeUsageMenuBar-0.3.370-beta.1422+b74a8bf.dmg" sparkle:edSignature="udc5HH/BgxcMaA0KINuYhqZO/wYF2Y5900bnsdjPGu+roIDgfppsb3X+KJOsZ6O9Covrtw2jHpaiHH30cpGxBg==" length="11062554" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.368-beta.1420+e747984</title>
-      <guid isPermaLink="false">e747984edc5976affd3de1c028b33d22bd70a8da</guid>
-      <sparkle:version>1420</sparkle:version>
-      <sparkle:shortVersionString>0.3.368-beta.1420+e747984</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 29 May 2026 08:13:37 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1420 · e747984&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CloudKit 去重迁移——清掉 iPhone 端旧的逐行高估历史 (v0.3.368)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.368-beta.1420+e747984/ClaudeUsageMenuBar-0.3.368-beta.1420+e747984.dmg" sparkle:edSignature="Zea66xccIVQCUzGNUrJ+La0G9GHo0tC0zIMG3X+OqT2n6oCqPKjFf9V1IpWmFIugln/CNZXtfBQ8suHrAqH4Dg==" length="11788826" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
