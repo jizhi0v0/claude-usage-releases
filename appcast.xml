@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.387-beta.1445+e338bad</title>
+      <guid isPermaLink="false">e338badd0993051d6b614b839118f9100def4daf</guid>
+      <sparkle:version>1445</sparkle:version>
+      <sparkle:shortVersionString>0.3.387-beta.1445+e338bad</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 19 Oct 2026 07:48:30 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1445 · e338bad</h3><ul><li>fix: CloudKit bootstrap 启动时并发跑两遍致 backfill 双倍上传 (v0.3.387)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.387-beta.1445+e338bad/ClaudeUsageMenuBar-0.3.387-beta.1445+e338bad.dmg" sparkle:edSignature="RrLXouuqAN6/+RS8yHQ3IwBHBKMjA1dwGLO+xgHLM/wmsF1PgIgB6noZs9GWAmugPnz7FSE7+zDxVmThnPWeDg==" length="10988303" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.386-beta.1444+f35d793</title>
       <guid isPermaLink="false">f35d793b78e3cc68782f7151b45bf11fd460259b</guid>
       <sparkle:version>1444</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 19 Oct 2026 07:30:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1444 · f35d793</h3><ul><li>fix: CloudKit Turn 上传重试空转致 MenuBar 内存 2GB/峰值 12GB (v0.3.386)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1444 · f35d793&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CloudKit Turn 上传重试空转致 MenuBar 内存 2GB/峰值 12GB (v0.3.386)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.386-beta.1444+f35d793/ClaudeUsageMenuBar-0.3.386-beta.1444+f35d793.dmg" sparkle:edSignature="m+TqK6fsE0xAFmv6NXM7ROaBeWw/ph4P9vE7DwmpSrVYPMQl04v2UeMoCDtRQfpFAAZz4tGYdgfqy7t8y9ykDQ==" length="10985524" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Fri, 29 May 2026 02:18:23 +0000</pubDate>
       <description>&lt;h3&gt;Build 1417 · 0326a71&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: 隔离 SettingsView 分析/维护 Tab 顶层高频读取，根治 menubar 内存累积 (v0.3.365)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.365-beta.1417+0326a71/ClaudeUsageMenuBar-0.3.365-beta.1417+0326a71.dmg" sparkle:edSignature="gVId2gg3qSx9qygTxEwErAti1aTIb9o+TIlQt/RCurqdy1pSHcx1K1ZIJgPUvLoikedrjtDPlxnrO4543SeEAw==" length="11019707" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.364-beta.1416+9fb52b7</title>
-      <guid isPermaLink="false">9fb52b72d0d7964d8515f9c7105183de617dc350</guid>
-      <sparkle:version>1416</sparkle:version>
-      <sparkle:shortVersionString>0.3.364-beta.1416+9fb52b7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 28 May 2026 10:46:51 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1416 · 9fb52b7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: DesktopTokenSyncInstaller 加 stale plist 自愈&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.364-beta.1416+9fb52b7/ClaudeUsageMenuBar-0.3.364-beta.1416+9fb52b7.dmg" sparkle:edSignature="978T4H8M4oE00xS+rUKf2bwq1q7gBNLkw82KigBZ2dIGQaN+MwZf/KXpvrfBB/SCNy3RrJetAmtFKIf8YmzcCA==" length="11020713" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
