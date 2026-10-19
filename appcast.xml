@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.388-beta.1446+d2fb626</title>
+      <guid isPermaLink="false">d2fb62647baca8529afd2b50cc7308e499f4a215</guid>
+      <sparkle:version>1446</sparkle:version>
+      <sparkle:shortVersionString>0.3.388-beta.1446+d2fb626</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 19 Oct 2026 10:12:52 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1446 · d2fb626</h3><ul><li>refactor: 停用 Mac → CloudKit 的逐条 Turn 上传 (v0.3.388)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.388-beta.1446+d2fb626/ClaudeUsageMenuBar-0.3.388-beta.1446+d2fb626.dmg" sparkle:edSignature="pAtHf9GL7yRrPayrL9Aqf8udoJa1y6f3A1DR/fRDf4MGOHhLx7oTz8Nbf16Qol4WCXH7SSXwILCECyIaBpsZDA==" length="10919310" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.387-beta.1445+e338bad</title>
       <guid isPermaLink="false">e338badd0993051d6b614b839118f9100def4daf</guid>
       <sparkle:version>1445</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 19 Oct 2026 07:48:30 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1445 · e338bad</h3><ul><li>fix: CloudKit bootstrap 启动时并发跑两遍致 backfill 双倍上传 (v0.3.387)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1445 · e338bad&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: CloudKit bootstrap 启动时并发跑两遍致 backfill 双倍上传 (v0.3.387)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.387-beta.1445+e338bad/ClaudeUsageMenuBar-0.3.387-beta.1445+e338bad.dmg" sparkle:edSignature="RrLXouuqAN6/+RS8yHQ3IwBHBKMjA1dwGLO+xgHLM/wmsF1PgIgB6noZs9GWAmugPnz7FSE7+zDxVmThnPWeDg==" length="10988303" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Fri, 29 May 2026 08:03:10 +0000</pubDate>
       <description>&lt;h3&gt;Build 1419 · 601b986&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: cost/token 按 message.id:requestId 去重，修逐行重复累加致高估 2-5x (v0.3.367)&lt;/li&gt;&lt;li&gt;fix: 定价表漏 claude-opus-4-8 致 cost 静默归零，改远程 pricing.json 单源 + 家族兜底 (v0.3.366)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.367-beta.1419+601b986/ClaudeUsageMenuBar-0.3.367-beta.1419+601b986.dmg" sparkle:edSignature="JWjsmk8+9eaB+/roH7SrfsChtvt4dpRYpFqNR0NiSRbPireioyBqCOh/yTv6MJQDsmWRtWIYM7bISeAXeFLWCg==" length="11042548" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.365-beta.1417+0326a71</title>
-      <guid isPermaLink="false">0326a719263f46714010c2c400d783c73607224c</guid>
-      <sparkle:version>1417</sparkle:version>
-      <sparkle:shortVersionString>0.3.365-beta.1417+0326a71</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 29 May 2026 02:18:23 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1417 · 0326a71&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: 隔离 SettingsView 分析/维护 Tab 顶层高频读取，根治 menubar 内存累积 (v0.3.365)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.365-beta.1417+0326a71/ClaudeUsageMenuBar-0.3.365-beta.1417+0326a71.dmg" sparkle:edSignature="gVId2gg3qSx9qygTxEwErAti1aTIb9o+TIlQt/RCurqdy1pSHcx1K1ZIJgPUvLoikedrjtDPlxnrO4543SeEAw==" length="11019707" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
