@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.386-beta.1444+f35d793</title>
+      <guid isPermaLink="false">f35d793b78e3cc68782f7151b45bf11fd460259b</guid>
+      <sparkle:version>1444</sparkle:version>
+      <sparkle:shortVersionString>0.3.386-beta.1444+f35d793</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 19 Oct 2026 07:30:35 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1444 · f35d793</h3><ul><li>fix: CloudKit Turn 上传重试空转致 MenuBar 内存 2GB/峰值 12GB (v0.3.386)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.386-beta.1444+f35d793/ClaudeUsageMenuBar-0.3.386-beta.1444+f35d793.dmg" sparkle:edSignature="m+TqK6fsE0xAFmv6NXM7ROaBeWw/ph4P9vE7DwmpSrVYPMQl04v2UeMoCDtRQfpFAAZz4tGYdgfqy7t8y9ykDQ==" length="10985524" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.385-beta.1443+ec2893f</title>
       <guid isPermaLink="false">ec2893f5ff948c10042fb6ade3c63c66b6dc5d38</guid>
       <sparkle:version>1443</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 19 Oct 2026 06:03:59 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1443 · ec2893f</h3><ul><li>ci: 签名 identity 钉死为 CI keychain 证书的 SHA-1</li><li>chore: 停掉 desktop-token-sync 启动时自动安装 (v0.3.385)</li><li>fix: deploy-testflight.sh 补上漏掉的 BUILD_OFFSET，并把两类必然失败提到 archive 之前</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1443 · ec2893f&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;ci: 签名 identity 钉死为 CI keychain 证书的 SHA-1&lt;/li&gt;&lt;li&gt;chore: 停掉 desktop-token-sync 启动时自动安装 (v0.3.385)&lt;/li&gt;&lt;li&gt;fix: deploy-testflight.sh 补上漏掉的 BUILD_OFFSET，并把两类必然失败提到 archive 之前&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.385-beta.1443+ec2893f/ClaudeUsageMenuBar-0.3.385-beta.1443+ec2893f.dmg" sparkle:edSignature="d75gdw8ViapiZvfi4iXpWaBeZo2sX/MihhFt/fBAlSGW/PQFjbWmydZWTMaSj5YS9wSEPh1xIi59Bge6y/7nCQ==" length="10979220" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Thu, 28 May 2026 10:46:51 +0000</pubDate>
       <description>&lt;h3&gt;Build 1416 · 9fb52b7&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: DesktopTokenSyncInstaller 加 stale plist 自愈&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.364-beta.1416+9fb52b7/ClaudeUsageMenuBar-0.3.364-beta.1416+9fb52b7.dmg" sparkle:edSignature="978T4H8M4oE00xS+rUKf2bwq1q7gBNLkw82KigBZ2dIGQaN+MwZf/KXpvrfBB/SCNy3RrJetAmtFKIf8YmzcCA==" length="11020713" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.363-beta.1415+58dde2b</title>
-      <guid isPermaLink="false">58dde2bee2f547d5b6087be1ec8ebd40485634f5</guid>
-      <sparkle:version>1415</sparkle:version>
-      <sparkle:shortVersionString>0.3.363-beta.1415+58dde2b</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 28 May 2026 06:43:09 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1415 · 58dde2b&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: desktop-token-sync 短路条件加 expiresAt 余量检查&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.363-beta.1415+58dde2b/ClaudeUsageMenuBar-0.3.363-beta.1415+58dde2b.dmg" sparkle:edSignature="umZKuaJ9clQdpICFCnJIn5W/O0GzrIPqrEX6Vv83MODAeyKd8kSTaSN6LSfUeSFwdpJqMSZT1eW0vDGnSLfHCw==" length="11020055" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
