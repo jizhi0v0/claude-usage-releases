@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.391-beta.1449+84b8009</title>
+      <guid isPermaLink="false">84b80095152f09c8e169771a8ad7d3403700c428</guid>
+      <sparkle:version>1449</sparkle:version>
+      <sparkle:shortVersionString>0.3.391-beta.1449+84b8009</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 20 Oct 2026 11:22:59 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1449 · 84b8009</h3><ul><li>feat: computer-use 授权卡片补发 🔐 通知 (v0.3.391)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.391-beta.1449+84b8009/ClaudeUsageMenuBar-0.3.391-beta.1449+84b8009.dmg" sparkle:edSignature="KcVFlVQkXO35DnVWtXABxNyBzICI0Qum8nxmrIaLLIn7G2EdoJMO7O7059ZXg9E/KClV6146T/Yp4hi9PFNmAA==" length="10935076" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.390-beta.1448+d333de4</title>
       <guid isPermaLink="false">d333de4cab86b51f968a050a8d4ae1fdd75345e2</guid>
       <sparkle:version>1448</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 19 Oct 2026 12:02:44 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1448 · d333de4</h3><ul><li>perf: SessionJournal 常驻改紧凑 Turn + 二进制 snapshot，内存 ~250MB → ~20MB (v0.3.390)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1448 · d333de4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;perf: SessionJournal 常驻改紧凑 Turn + 二进制 snapshot，内存 ~250MB → ~20MB (v0.3.390)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.390-beta.1448+d333de4/ClaudeUsageMenuBar-0.3.390-beta.1448+d333de4.dmg" sparkle:edSignature="EJyQncKfMbDJtdkcH9d28V2kAFA1BucXvTYjAc06gyZb10f8Fkv5YHPz3wH66HMkt1f3wKs9XKOybWPEHzTIAw==" length="10932368" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Fri, 29 May 2026 11:09:32 +0000</pubDate>
       <description>&lt;h3&gt;Build 1423 · 75b5811&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: desktop-token-sync no-op 阈值 300s→1200s 关掉每周期 ~10min token 过期空窗 (v0.3.371)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1423+75b5811/ClaudeUsageMenuBar-0.3.371-beta.1423+75b5811.dmg" sparkle:edSignature="9/pA6psR5B2xOcyHmbw1IV+M46ChZMckROX2+QG3HNAOBLTPDO+y7XBfw4NMUdTD19OZ0XWfaI27ia+X/emXAA==" length="11062937" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.370-beta.1422+b74a8bf</title>
-      <guid isPermaLink="false">b74a8bf5268650f5dc615860f992ba3ffa845c34</guid>
-      <sparkle:version>1422</sparkle:version>
-      <sparkle:shortVersionString>0.3.370-beta.1422+b74a8bf</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 29 May 2026 09:22:04 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1422 · b74a8bf&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: cache write 按 5m=1.25×/1h=2×input 拆分计价，对齐 Anthropic 真实费率 (v0.3.370)&lt;/li&gt;&lt;li&gt;fix: rebuild 闸移到每次启动触发，否则 update 用户去重重建不生效 (v0.3.369)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.370-beta.1422+b74a8bf/ClaudeUsageMenuBar-0.3.370-beta.1422+b74a8bf.dmg" sparkle:edSignature="udc5HH/BgxcMaA0KINuYhqZO/wYF2Y5900bnsdjPGu+roIDgfppsb3X+KJOsZ6O9Covrtw2jHpaiHH30cpGxBg==" length="11062554" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
