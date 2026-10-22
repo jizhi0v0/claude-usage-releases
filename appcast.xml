@@ -6,6 +6,17 @@
     <description>ClaudeUsageMenuBar updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.392-beta.1450+2438082</title>
+      <guid isPermaLink="false">24380822f5d8b4ec4c8eb440800151928d2c3c89</guid>
+      <sparkle:version>1450</sparkle:version>
+      <sparkle:shortVersionString>0.3.392-beta.1450+2438082</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 22 Oct 2026 02:22:18 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1450 · 2438082</h3><ul><li>fix: 唤醒重绑 socket 后旧 accept 循环空转,每次唤醒漏一个 100% CPU 线程 (v0.3.392)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.392-beta.1450+2438082/ClaudeUsageMenuBar-0.3.392-beta.1450+2438082.dmg" sparkle:edSignature="2QK7mqh2Djt+0IjnIDf6YPojSb3R5huaSU0j1B7lvMRNMigjCBrzTILOv1W50ccAQ3fcIO5WRO40qY2lBRGLDA==" length="10941357" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.391-beta.1449+84b8009</title>
       <guid isPermaLink="false">84b80095152f09c8e169771a8ad7d3403700c428</guid>
       <sparkle:version>1449</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Tue, 20 Oct 2026 11:22:59 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1449 · 84b8009</h3><ul><li>feat: computer-use 授权卡片补发 🔐 通知 (v0.3.391)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1449 · 84b8009&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat: computer-use 授权卡片补发 🔐 通知 (v0.3.391)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.391-beta.1449+84b8009/ClaudeUsageMenuBar-0.3.391-beta.1449+84b8009.dmg" sparkle:edSignature="KcVFlVQkXO35DnVWtXABxNyBzICI0Qum8nxmrIaLLIn7G2EdoJMO7O7059ZXg9E/KClV6146T/Yp4hi9PFNmAA==" length="10935076" type="application/octet-stream" />
     </item>
     <item>
@@ -213,17 +224,6 @@
       <pubDate>Fri, 29 May 2026 11:13:25 +0000</pubDate>
       <description>&lt;h3&gt;Build 1424 · 9ba07f4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;chore: 删除 repo 根 scripts/desktop-token-sync.sh 遗留副本（已不打包，源在 Resources/scripts）&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1424+9ba07f4/ClaudeUsageMenuBar-0.3.371-beta.1424+9ba07f4.dmg" sparkle:edSignature="ylw5q4g8vGCs9B3t7x6eh+YD+t3vpWSL1qpG2hOKQK5ZHcqshu8wfL2cQm2/5O902SsKnuDpBualw+Wqh8VLCQ==" length="11062918" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.3.371-beta.1423+75b5811</title>
-      <guid isPermaLink="false">75b58117c84a154ba217741c7fc2daee0e7092bf</guid>
-      <sparkle:version>1423</sparkle:version>
-      <sparkle:shortVersionString>0.3.371-beta.1423+75b5811</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 29 May 2026 11:09:32 +0000</pubDate>
-      <description>&lt;h3&gt;Build 1423 · 75b5811&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix: desktop-token-sync no-op 阈值 300s→1200s 关掉每周期 ~10min token 过期空窗 (v0.3.371)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://github.com/jizhi0v0/claude-usage-releases/releases/download/v0.3.371-beta.1423+75b5811/ClaudeUsageMenuBar-0.3.371-beta.1423+75b5811.dmg" sparkle:edSignature="9/pA6psR5B2xOcyHmbw1IV+M46ChZMckROX2+QG3HNAOBLTPDO+y7XBfw4NMUdTD19OZ0XWfaI27ia+X/emXAA==" length="11062937" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
